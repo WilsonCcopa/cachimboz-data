@@ -1195,5 +1195,725 @@
     "o": ["Nicola Maquiavelo", "Tomas Moro", "Sandro Botticelli", "Miguel Angel", "Leonardo Da Vinci"],
     "r": 4,
     "ex": "El 'Hombre de Vitruvio' es un famoso dibujo de Leonardo da Vinci que representa el ideal de las proporciones humanas. Es un ícono del Renacimiento, ya que combina el arte y la ciencia, y refleja la visión antropocéntrica de la época, centrada en el hombre como medida de todas las cosas."
+  },
+  {
+    "id": 134,
+    "curso": "Geografía",
+    "tema": "Introducción a la Geografía",
+    "p": "La palabra Geografía proviene del griego y significa:",
+    "o": ["Ciencia de la naturaleza", "Descripción de los mares", "Estudio del espacio humano", "Descripción de la Tierra", "Ciencia de los planetas"],
+    "r": 3,
+    "ex": "La palabra viene del griego Geo (Tierra) y Graphía (descripción)."
+  },
+  {
+    "id": 135,
+    "curso": "Geografía",
+    "tema": "Introducción a la Geografía",
+    "p": "¿Qué estudia la Geografía?",
+    "o": ["El espacio astronómico", "El espacio geográfico", "Solo los países y fronteras", "Solo la flora y fauna", "La historia de la Tierra"],
+    "r": 1,
+    "ex": "Objeto central de la Geografía: el espacio donde el hombre interactúa con la naturaleza."
+  },
+  {
+    "id": 136,
+    "curso": "Geografía",
+    "tema": "Herramientas Geográficas",
+    "p": "Una herramienta moderna de la Geografía es:",
+    "o": ["Brújula de madera", "Papiro", "GPS", "Esfera armilar", "Clepsidra"],
+    "r": 2,
+    "ex": "Hoy la geografía usa satélites, GPS y SIG, no instrumentos antiguos."
+  },
+  {
+    "id": 137,
+    "curso": "Geografía",
+    "tema": "Historia de la Geografía",
+    "p": "En la Geografía Antigua, el conocimiento era:",
+    "o": ["Científico y exacto", "Teórico y sistemático", "Empírico y descriptivo", "Experimental", "Tecnológico"],
+    "r": 2,
+    "ex": "Se basaba en observar y relatar, no en métodos científicos."
+  },
+  {
+    "id": 138,
+    "curso": "Geografía",
+    "tema": "Historia de la Geografía",
+    "p": "Calculó la circunferencia de la Tierra con gran aproximación:",
+    "o": ["Aristóteles", "Claudio Ptolomeo", "Heródoto", "Eratóstenes", "Tales de Mileto"],
+    "r": 3,
+    "ex": "Calculó la circunferencia de la Tierra con sorprendente exactitud."
+  },
+  {
+    "id": 139,
+    "curso": "Geografía",
+    "tema": "Historia de la Geografía",
+    "p": "Elaboró el primer Atlas Universal:",
+    "o": ["Marco Polo", "Ptolomeo", "Humboldt", "Ritter", "Magallanes"],
+    "r": 1,
+    "ex": "Claudio Ptolomeo elaboró el primer Atlas Universal."
+  },
+  {
+    "id": 140,
+    "curso": "Geografía",
+    "tema": "Historia de la Geografía",
+    "p": "En la Edad Media la Geografía retrocedió porque:",
+    "o": ["Faltaban exploraciones", "Se destruyeron mapas", "Dominaba la visión teocéntrica", "No existían libros", "Hubo guerras"],
+    "r": 2,
+    "ex": "En la Edad Media, la religión limitaba la investigación científica."
+  },
+  {
+    "id": 141,
+    "curso": "Geografía",
+    "tema": "Geografía Moderna",
+    "p": "La Geografía Moderna inicia con:",
+    "o": ["Copérnico y Galileo", "Colón y Magallanes", "Humboldt y Ritter", "Darwin y Wallace", "Marco Polo y Heródoto"],
+    "r": 2,
+    "ex": "Padres de la Geografía Moderna, s. XIX."
+  },
+  {
+    "id": 142,
+    "curso": "Geografía",
+    "tema": "Geografía Moderna",
+    "p": "La Geografía Moderna se basaba en:",
+    "o": ["Misticismo", "Positivismo", "Empirismo medieval", "Deductivismo", "Idealismo"],
+    "r": 1,
+    "ex": "Filosofía que prioriza la observación de hechos reales y comprobables."
+  },
+  {
+    "id": 143,
+    "curso": "Geografía",
+    "tema": "Geografía Moderna",
+    "p": "Método usado en la Geografía Moderna:",
+    "o": ["Deductivo", "Histórico", "Inductivo", "Dialéctico", "Comparativo"],
+    "r": 2,
+    "ex": "Se observaban fenómenos particulares para formular principios generales."
+  },
+  {
+    "id": 144,
+    "curso": "Geografía",
+    "tema": "Geografía Moderna",
+    "p": "Para Humboldt, la Geografía era:",
+    "o": ["Ciencia de mapas", "Ciencia de síntesis", "Ciencia política", "Ciencia natural aplicada", "Ciencia económica"],
+    "r": 1,
+    "ex": "Humboldt veía la Geografía como ciencia que une conocimientos de otras ciencias."
+  },
+  {
+    "id": 145,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "La Geografía Nueva se desarrolla desde:",
+    "o": ["Edad Media", "Siglo XVIII", "Mediados del siglo XX", "Renacimiento", "Inicios del siglo XIX"],
+    "r": 2,
+    "ex": "En este tiempo surge la Geografía Nueva, cuantitativa y tecnológica."
+  },
+  {
+    "id": 146,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "La filosofía que fundamenta la Geografía Nueva es:",
+    "o": ["Positivismo clásico", "Humanismo", "Neopositivismo", "Idealismo", "Empirismo medieval"],
+    "r": 2,
+    "ex": "Propone no solo describir, sino predecir y aplicar teorías."
+  },
+  {
+    "id": 147,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "En la Geografía Nueva, se enfatiza en:",
+    "o": ["Relatos de viajeros", "Localización exacta de fenómenos", "Descripción de climas", "Mapas artísticos", "Filosofía"],
+    "r": 1,
+    "ex": "Se busca precisión con coordenadas, mapas y SIG."
+  },
+  {
+    "id": 148,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "Herramientas clave de la Geografía Nueva:",
+    "o": ["Carabelas y brújulas", "Relojes solares", "Computadoras y satélites", "Globos terráqueos", "Mapas medievales"],
+    "r": 2,
+    "ex": "Herramientas modernas clave para procesar y analizar información espacial."
+  },
+  {
+    "id": 149,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "Método usado principalmente en la Geografía Nueva:",
+    "o": ["Inductivo", "Deductivo", "Filosófico", "Narrativo", "Descriptivo"],
+    "r": 1,
+    "ex": "Parte de teorías y modelos para explicar hechos."
+  },
+  {
+    "id": 150,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "El concepto de espacio relativo pertenece a:",
+    "o": ["Geografía Antigua", "Geografía Moderna", "Geografía Nueva", "Edad Media", "Geografía mística"],
+    "r": 2,
+    "ex": "Propone que el espacio no es absoluto sino relativo, según relaciones humanas."
+  },
+  {
+    "id": 151,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "La Geografía Nueva usa como apoyo principal:",
+    "o": ["Experimentos de laboratorio", "Viajes de exploración", "Técnicas estadísticas y matemáticas", "Filosofía griega", "Teología"],
+    "r": 2,
+    "ex": "Se aplican para cuantificar fenómenos y crear modelos espaciales."
+  },
+  {
+    "id": 152,
+    "curso": "Geografía",
+    "tema": "Geografía Nueva",
+    "p": "Representante de la Geografía Nueva:",
+    "o": ["Aristóteles", "Humboldt", "Milton Santos", "Ptolomeo", "Ritter"],
+    "r": 2,
+    "ex": "Gran representante de la Geografía Nueva, junto a Schaefer y Bunge."
+  },
+  {
+    "id": 153,
+    "curso": "Geografía",
+    "tema": "Evolución de la Geografía",
+    "p": "En síntesis, la Geografía pasó de ser:",
+    "o": ["Mágica → Filosófica → Moderna", "Descriptiva → Científica → Tecnológica", "Política → Económica → Humana", "Teológica → Positivista → Idealista", "Mística → Narrativa → Social"],
+    "r": 1,
+    "ex": "Antigua = descripción, Moderna = ciencia, Nueva = tecnología y aplicación."
+  },
+  {
+    "id": 154,
+    "curso": "Geografía",
+    "tema": "Definición y Objeto de Estudio",
+    "p": "La Geografía se define principalmente como:",
+    "o": ["Ciencia natural", "Ciencia que estudia el espacio geográfico", "Ciencia histórica", "Filosofía de la naturaleza", "Descripción de países"],
+    "r": 1,
+    "ex": "La Geografía no se limita a describir, sino que analiza la organización del espacio donde se relacionan sociedad y naturaleza."
+  },
+  {
+    "id": 155,
+    "curso": "Geografía",
+    "tema": "Definición y Objeto de Estudio",
+    "p": "El objeto de estudio de la Geografía es:",
+    "o": ["El universo", "El espacio astronómico", "El espacio geográfico", "El sistema solar", "Las culturas antiguas"],
+    "r": 2,
+    "ex": "Es el núcleo de la Geografía, pues allí interactúan elementos físicos y humanos."
+  },
+  {
+    "id": 156,
+    "curso": "Geografía",
+    "tema": "Definición y Objeto de Estudio",
+    "p": "El espacio geográfico se entiende como:",
+    "o": ["Solo montañas y ríos", "El lugar donde vive la sociedad", "La interacción entre sociedad y naturaleza", "La superficie terrestre únicamente", "El estudio del cosmos"],
+    "r": 2,
+    "ex": "El espacio geográfico no es solo físico; se construye con la acción humana."
+  },
+  {
+    "id": 157,
+    "curso": "Geografía",
+    "tema": "Definición y Objeto de Estudio",
+    "p": "El espacio geográfico está formado por:",
+    "o": ["Sociedad y economía", "Sociedad, naturaleza y su interacción", "Suelo, agua y clima", "Solo fenómenos sociales", "Recursos minerales"],
+    "r": 1,
+    "ex": "Estos tres componentes definen la complejidad del espacio geográfico."
+  },
+  {
+    "id": 158,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "La Geografía Física estudia principalmente:",
+    "o": ["Países y fronteras", "Procesos de la naturaleza", "Comportamiento humano", "Comercio internacional", "Historia de la humanidad"],
+    "r": 1,
+    "ex": "La Geografía Física estudia fenómenos como clima, relieve, ríos, mares, suelos, etc."
+  },
+  {
+    "id": 159,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "Ejemplo de tema que estudia la Geografía Física:",
+    "o": ["Población urbana", "Ríos y climas", "Comercio mundial", "Migración", "Industrias"],
+    "r": 1,
+    "ex": "Son ejemplos clásicos de temas de la Geografía Física."
+  },
+  {
+    "id": 160,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "La Geografía Humana se centra en:",
+    "o": ["El estudio de la atmósfera", "El relieve terrestre", "La actividad y organización del hombre en el espacio", "Los volcanes", "La dinámica de la biosfera"],
+    "r": 2,
+    "ex": "La Geografía Humana analiza cómo el hombre distribuye y organiza actividades en el territorio."
+  },
+  {
+    "id": 161,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "Ejemplo de estudio de la Geografía Humana:",
+    "o": ["Corrientes marinas", "Ciudades y migraciones", "Montañas", "Glaciares", "Volcanes"],
+    "r": 1,
+    "ex": "Son fenómenos propios de la organización social del espacio."
+  },
+  {
+    "id": 162,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "La Geografía Mixta o Biogeografía estudia:",
+    "o": ["Población y recursos", "Clima y montañas", "Seres vivos en relación con el espacio", "Minerales", "Comercio"],
+    "r": 2,
+    "ex": "La Geografía Mixta estudia ecosistemas y la relación de flora y fauna con el medio."
+  },
+  {
+    "id": 163,
+    "curso": "Geografía",
+    "tema": "Ramas de la Geografía",
+    "p": "Ejemplo de Geografía Mixta:",
+    "o": ["Estudio de glaciares", "Estudio de ciudades", "Estudio de bosques y ecosistemas", "Estudio de fronteras políticas", "Estudio de economía"],
+    "r": 2,
+    "ex": "Ejemplo directo de la Biogeografía o Geografía Mixta."
+  },
+  {
+    "id": 164,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "Uno de los principios geográficos es:",
+    "o": ["Empirismo", "Causalidad", "Filosofía", "Dogma", "Astronomía"],
+    "r": 1,
+    "ex": "Este principio explica los \"por qué\" de los hechos y fenómenos geográficos."
+  },
+  {
+    "id": 165,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de localización se refiere a:",
+    "o": ["Identificar dónde ocurren los fenómenos", "Estudiar las causas de los fenómenos", "Comparar hechos", "Analizar la evolución histórica", "Usar mapas artísticos"],
+    "r": 0,
+    "ex": "Localizar es fundamental para entender los hechos geográficos."
+  },
+  {
+    "id": 166,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de causalidad se centra en:",
+    "o": ["Ubicar los hechos", "Explicar las causas de los fenómenos", "Describir sin explicación", "Narrar procesos históricos", "Enumerar elementos"],
+    "r": 1,
+    "ex": "Permite comprender el origen de lo que ocurre en el espacio."
+  },
+  {
+    "id": 167,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de relación busca:",
+    "o": ["Aislar los fenómenos", "Relacionar fenómenos naturales y sociales", "Estudiar solo el medio físico", "Explicar solo lo humano", "Separar causas de efectos"],
+    "r": 1,
+    "ex": "Muestra la conexión entre naturaleza y sociedad."
+  },
+  {
+    "id": 168,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de actividad sostiene que:",
+    "o": ["La naturaleza está inmóvil", "Todo está en constante cambio", "El hombre no influye en la naturaleza", "La sociedad es estática", "Los paisajes son eternos"],
+    "r": 1,
+    "ex": "La naturaleza y la sociedad modifican el paisaje permanentemente."
+  },
+  {
+    "id": 169,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de evolución indica que:",
+    "o": ["Los fenómenos no cambian", "Los hechos geográficos se transforman en el tiempo", "Todo permanece igual", "Solo la sociedad cambia", "La naturaleza no evoluciona"],
+    "r": 1,
+    "ex": "El principio de evolución estudia los cambios en el largo plazo."
+  },
+  {
+    "id": 170,
+    "curso": "Geografía",
+    "tema": "Principios Geográficos",
+    "p": "El principio de generalidad busca:",
+    "o": ["Explicar hechos aislados", "Formular leyes o teorías generales", "Narrar la historia de un pueblo", "Describir solo un río", "Identificar fenómenos únicos"],
+    "r": 1,
+    "ex": "Busca generalizar fenómenos para elaborar explicaciones universales."
+  },
+  {
+    "id": 171,
+    "curso": "Geografía",
+    "tema": "Aplicaciones de la Geografía",
+    "p": "Una aplicación práctica de la Geografía es:",
+    "o": ["Construcción de ciudades y carreteras", "Narración de mitos", "Elaboración de poemas", "Filosofía medieval", "Historia del arte"],
+    "r": 0,
+    "ex": "Ejemplo práctico del uso de la Geografía en la planificación."
+  },
+  {
+    "id": 172,
+    "curso": "Geografía",
+    "tema": "Aplicaciones de la Geografía",
+    "p": "En la vida cotidiana, la Geografía ayuda a:",
+    "o": ["Entender solo la historia", "Planificar el territorio y los recursos", "Leer novelas", "Hacer cálculos matemáticos", "Estudiar lenguas antiguas"],
+    "r": 1,
+    "ex": "La Geografía ayuda en la organización y el aprovechamiento sostenible."
+  },
+  {
+    "id": 173,
+    "curso": "Geografía",
+    "tema": "Definición y Objeto de Estudio",
+    "p": "En síntesis, la Geografía se concibe como:",
+    "o": ["Ciencia del pasado", "Ciencia del universo", "Ciencia del espacio geográfico y de las relaciones sociedad–naturaleza", "Ciencia de los planetas", "Ciencia política únicamente"],
+    "r": 2,
+    "ex": "Es la definición moderna y más completa de esta ciencia."
+  },
+  {
+    "id": 174,
+    "curso": "Geografía",
+    "tema": "Geosistema y Universo",
+    "p": "¿Qué es el geosistema?",
+    "o": ["Conjunto de galaxias del universo", "Conjunto de entidades bióticas, abióticas y antrópicas", "El sistema planetario solar", "Solo la atmósfera terrestre", "Únicamente la biósfera"],
+    "r": 1,
+    "ex": "El geosistema integra bióticos, abióticos y antrópicos."
+  },
+  {
+    "id": 175,
+    "curso": "Geografía",
+    "tema": "Geosistema y Universo",
+    "p": "¿Cuáles son las entidades abióticas del geosistema?",
+    "o": ["Sociedad", "Estrellas", "Atmósfera, hidrosfera y litósfera", "Galaxias", "Biósfera"],
+    "r": 2,
+    "ex": "Atmósfera, hidrósfera y litósfera son entidades abióticas."
+  },
+  {
+    "id": 176,
+    "curso": "Geografía",
+    "tema": "Geosistema y Universo",
+    "p": "La teoría más aceptada sobre el origen del universo es:",
+    "o": ["Teoría de la evolución", "Teoría heliocéntrica", "Teoría de la gravitación", "Teoría del Big Bang", "Teoría geocéntrica"],
+    "r": 3,
+    "ex": "El Big Bang es la teoría más aceptada."
+  },
+  {
+    "id": 177,
+    "curso": "Geografía",
+    "tema": "Geosistema y Universo",
+    "p": "¿Qué representa el término \"universo\"?",
+    "o": ["Solo las galaxias", "Solo las estrellas", "Todo lo que existe: materia, energía, espacio y tiempo", "Solo el sistema solar", "Únicamente los planetas"],
+    "r": 2,
+    "ex": "Universo = todo lo que existe (materia, energía, espacio-tiempo)."
+  },
+  {
+    "id": 178,
+    "curso": "Geografía",
+    "tema": "Galaxias",
+    "p": "¿Qué otro nombre recibieron inicialmente las galaxias?",
+    "o": ["Universos paralelos", "Nebulosas", "Meteoritos", "Asteroides", "Constelaciones"],
+    "r": 1,
+    "ex": "Inicialmente se les llamó nebulosas."
+  },
+  {
+    "id": 179,
+    "curso": "Geografía",
+    "tema": "Galaxias",
+    "p": "¿Cómo es la forma de la Vía Láctea?",
+    "o": ["Esférica", "Ovalada", "Espiral, similar a un disco plano", "Elíptica", "Irregular"],
+    "r": 2,
+    "ex": "La Vía Láctea tiene forma espiral en disco."
+  },
+  {
+    "id": 180,
+    "curso": "Geografía",
+    "tema": "Galaxias",
+    "p": "¿Cuál es el diámetro promedio de la Vía Láctea?",
+    "o": ["15 000 años luz", "200 millones de km", "100 000 años luz", "4,22 años luz", "930 millones de km"],
+    "r": 2,
+    "ex": "Su diámetro es 100 000 años luz."
+  },
+  {
+    "id": 181,
+    "curso": "Geografía",
+    "tema": "Estrellas y Nebulosas",
+    "p": "¿Qué es una estrella?",
+    "o": ["Esfera de roca sólida", "Esfera de gases muy calientes y brillantes que producen su propia energía", "Satélite natural", "Objeto opaco iluminado por el Sol", "Masa de polvo cósmico"],
+    "r": 1,
+    "ex": "Una estrella es gas caliente con fusión nuclear."
+  },
+  {
+    "id": 182,
+    "curso": "Geografía",
+    "tema": "Estrellas y Nebulosas",
+    "p": "¿Qué son las nebulosas?",
+    "o": ["Grupos de satélites", "Regiones del espacio compuestas por gases y polvo cósmico donde nacen estrellas", "Pequeños planetas", "Agujeros negros", "Radiación estelar"],
+    "r": 1,
+    "ex": "Nebulosas = gas + polvo cósmico donde nacen estrellas."
+  },
+  {
+    "id": 183,
+    "curso": "Geografía",
+    "tema": "Estrellas y Nebulosas",
+    "p": "¿Qué son los cúmulos estelares?",
+    "o": ["Grupos de planetas", "Satélites en órbita", "Grupos de estrellas unidas por la gravedad", "Conjuntos de galaxias", "Nebulosas"],
+    "r": 2,
+    "ex": "Cúmulos estelares = estrellas unidas por gravedad."
+  },
+  {
+    "id": 184,
+    "curso": "Geografía",
+    "tema": "Medidas Astronómicas",
+    "p": "¿Qué mide el año luz?",
+    "o": ["Tiempo de un año", "Distancia recorrida por la luz en un año", "Tiempo que tarda la Tierra en girar alrededor del Sol", "Distancia entre planetas", "Tiempo de un día sideral"],
+    "r": 1,
+    "ex": "Año luz = distancia recorrida por la luz en un año."
+  },
+  {
+    "id": 185,
+    "curso": "Geografía",
+    "tema": "Medidas Astronómicas",
+    "p": "¿Cuánto tarda la luz en llegar del Sol a la Tierra?",
+    "o": ["1 segundo", "8,3 minutos", "1 hora", "24 horas", "4,22 años"],
+    "r": 1,
+    "ex": "La luz solar tarda 8,3 minutos en llegar a la Tierra."
+  },
+  {
+    "id": 186,
+    "curso": "Geografía",
+    "tema": "Medidas Astronómicas",
+    "p": "¿A qué distancia está la estrella más cercana (Alfa Centauri) de la Tierra?",
+    "o": ["1 año luz", "4,22 años luz", "8,3 minutos", "100 000 años luz", "930 millones de km"],
+    "r": 1,
+    "ex": "Alfa Centauri está a 4,22 años luz."
+  },
+  {
+    "id": 187,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué astro central domina el Sistema Solar?",
+    "o": ["La Tierra", "El Sol", "Júpiter", "La Luna", "Marte"],
+    "r": 1,
+    "ex": "El Sol domina el sistema solar."
+  },
+  {
+    "id": 188,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Cuántos planetas principales tiene el Sistema Solar?",
+    "o": ["5", "8", "9", "7", "6"],
+    "r": 1,
+    "ex": "Existen 8 planetas principales reconocidos por la UAI."
+  },
+  {
+    "id": 189,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué categoría se aprobó en 2006 para astros como Plutón?",
+    "o": ["Constelaciones", "Planetas gigantes", "Planetas enanos", "Asteroides", "Estrellas fallidas"],
+    "r": 2,
+    "ex": "Plutón fue reclasificado como planeta enano en 2006."
+  },
+  {
+    "id": 190,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué son los asteroides?",
+    "o": ["Satélites naturales", "Cuerpos rocosos que giran entre Marte y Júpiter", "Estrellas pequeñas", "Gases en el espacio", "Planetas gigantes"],
+    "r": 1,
+    "ex": "Asteroides = rocas entre Marte y Júpiter."
+  },
+  {
+    "id": 191,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué diferencia a un planeta de un planeta enano?",
+    "o": ["Los planetas enanos giran más rápido", "Los planetas enanos no han limpiado su órbita", "Los planetas enanos producen luz propia", "Los planetas enanos son gaseosos", "No giran alrededor del Sol"],
+    "r": 1,
+    "ex": "Planetas enanos no han limpiado su órbita."
+  },
+  {
+    "id": 192,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué son los cometas?",
+    "o": ["Masas sólidas que orbitan entre planetas", "Cuerpos celestes de hielo y polvo con órbitas elípticas", "Satélites naturales", "Estrellas fugaces", "Planetas rocosos"],
+    "r": 1,
+    "ex": "Cometas = cuerpos de hielo, polvo y roca en órbitas elípticas."
+  },
+  {
+    "id": 193,
+    "curso": "Geografía",
+    "tema": "Sistema Solar",
+    "p": "¿Qué porcentaje de la masa del Sistema Solar está en el Sol?",
+    "o": ["50 %", "80 %", "98,85 %", "90 %", "75 %"],
+    "r": 2,
+    "ex": "El Sol concentra el 98,85 % de la masa del sistema solar."
+  },
+  {
+    "id": 194,
+    "curso": "Geografía",
+    "tema": "Geodesia",
+    "p": "La Geodesia tiene como objetivo principal:",
+    "o": ["Estudiar la flora y fauna del planeta", "Determinar la forma y dimensiones de la Tierra", "Medir únicamente la altitud de las montañas", "Explicar la formación de continentes", "Calcular la distancia entre ciudades"],
+    "r": 1,
+    "ex": "La geodesia estudia la forma y dimensiones de la Tierra."
+  },
+  {
+    "id": 195,
+    "curso": "Geografía",
+    "tema": "Geodesia",
+    "p": "La Geodesia se fundamenta principalmente en:",
+    "o": ["Historia y biología", "Física y matemáticas", "Filosofía y teología", "Química y medicina", "Astronomía y artes"],
+    "r": 1,
+    "ex": "Se fundamenta en física y matemáticas."
+  },
+  {
+    "id": 196,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "¿Cuál es la edad aproximada de la Tierra?",
+    "o": ["6 000 millones de años", "3 500 millones de años", "4 600 millones de años", "2 500 millones de años", "5 000 millones de años"],
+    "r": 2,
+    "ex": "La edad de la Tierra es 4 600 millones de años."
+  },
+  {
+    "id": 197,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "La forma física o topográfica de la Tierra se caracteriza por ser:",
+    "o": ["Una esfera perfecta", "Un geoide uniforme", "Una forma irregular con relieves", "Un elipsoide matemático", "Un círculo plano"],
+    "r": 2,
+    "ex": "La forma física es irregular por montañas, mares, etc."
+  },
+  {
+    "id": 198,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "El geoide se define como:",
+    "o": ["La forma esférica perfecta de la Tierra", "La superficie equipotencial de gravedad terrestre", "Una figura plana de referencia", "Una forma irregular con montañas", "Una órbita alrededor del sol"],
+    "r": 1,
+    "ex": "El geoide es una superficie equipotencial de gravedad."
+  },
+  {
+    "id": 199,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "La forma elipsoide de revolución de la Tierra se caracteriza por:",
+    "o": ["Ser totalmente esférica", "Ser achatada en los polos y ensanchada en el ecuador", "Ser plana en el ecuador", "Ser triangular", "Ser cilíndrica"],
+    "r": 1,
+    "ex": "El elipsoide está achatado en polos y ensanchado en el ecuador."
+  },
+  {
+    "id": 200,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "La superficie total de la Tierra es:",
+    "o": ["361 millones km2", "149 millones km2", "510 millones km2", "400 millones km2", "600 millones km2"],
+    "r": 2,
+    "ex": "La superficie total de la Tierra es 510 millones km2."
+  },
+  {
+    "id": 201,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "El porcentaje de superficie continental de la Tierra es:",
+    "o": ["10 %", "21 %", "29 %", "50 %", "71 %"],
+    "r": 2,
+    "ex": "Superficie continental = 29 %."
+  },
+  {
+    "id": 202,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "El diámetro ecuatoriano de la Tierra es aproximadamente:",
+    "o": ["12 714 km", "6 367 km", "12 757 km", "40 076 km", "40 009 km"],
+    "r": 2,
+    "ex": "Diámetro ecuatorial = 12 757 km."
+  },
+  {
+    "id": 203,
+    "curso": "Geografía",
+    "tema": "Características de la Tierra",
+    "p": "La densidad media de la Tierra es:",
+    "o": ["6,0 g/cm3", "4,5 g/cm3", "5,518 g/cm3", "3,1 g/cm3", "7,0 g/cm3"],
+    "r": 2,
+    "ex": "Densidad media = 5,518 g/cm3."
+  },
+  {
+    "id": 204,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "La rotación terrestre dura:",
+    "o": ["24 horas exactas", "23 h 56 min 4,09 s", "22 h 59 min 59 s", "25 horas", "20 h 15 min"],
+    "r": 1,
+    "ex": "Rotación dura 23 h 56 min 4,09 s."
+  },
+  {
+    "id": 205,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "La dirección de la rotación terrestre es:",
+    "o": ["De norte a sur", "De sur a norte", "De este a oeste", "De oeste a este", "Circular en sentido horario"],
+    "r": 3,
+    "ex": "Dirección: de oeste a este."
+  },
+  {
+    "id": 206,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "Una consecuencia de la rotación terrestre es:",
+    "o": ["Las estaciones del año", "El perihelio y afelio", "La sucesión del día y la noche", "La aparición de glaciares", "La formación de volcanes"],
+    "r": 2,
+    "ex": "La rotación origina día y noche."
+  },
+  {
+    "id": 207,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "El movimiento de traslación de la Tierra dura:",
+    "o": ["30 días", "180 días", "365 d 5 h 48 m 45,8 s", "24 horas", "400 días"],
+    "r": 2,
+    "ex": "Traslación dura 365 d 5 h 48 m 45,8 s."
+  },
+  {
+    "id": 208,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "La órbita de la traslación de la Tierra se denomina:",
+    "o": ["Meridiana", "Eclíptica", "Geoide", "Polar", "Solar plano"],
+    "r": 1,
+    "ex": "La órbita terrestre se llama Eclíptica."
+  },
+  {
+    "id": 209,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "La velocidad de la Tierra en su traslación es aproximadamente:",
+    "o": ["100 km/s", "10 km/s", "50 km/s", "29,7 km/s", "5 km/s"],
+    "r": 3,
+    "ex": "Velocidad = 29,7 km/s."
+  },
+  {
+    "id": 210,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "Una consecuencia de la traslación es:",
+    "o": ["La forma achatada de la Tierra", "La desviación de los vientos", "La sucesión del día y la noche", "Las estaciones del año", "La gravedad terrestre"],
+    "r": 3,
+    "ex": "La traslación origina las estaciones."
+  },
+  {
+    "id": 211,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "¿Qué estación inicia el 21 de junio en el hemisferio sur?",
+    "o": ["Verano", "Otoño", "Invierno", "Primavera", "Ninguna"],
+    "r": 2,
+    "ex": "En hemisferio sur: 21 de junio = invierno."
+  },
+  {
+    "id": 212,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "¿Qué estación inicia el 21 de diciembre en el hemisferio norte?",
+    "o": ["Primavera", "Verano", "Otoño", "Invierno", "Ninguna"],
+    "r": 3,
+    "ex": "En hemisferio norte: 21 de diciembre = invierno."
+  },
+  {
+    "id": 213,
+    "curso": "Geografía",
+    "tema": "Movimientos Terrestres",
+    "p": "¿Cómo se denomina el año que dura 366 días?",
+    "o": ["Año tropical", "Año civil", "Año bisiesto", "Año lunar", "Año solar"],
+    "r": 2,
+    "ex": "Año bisiesto = 366 días."
   }
 ]
