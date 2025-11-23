@@ -1915,5 +1915,788 @@
     "o": ["Año tropical", "Año civil", "Año bisiesto", "Año lunar", "Año solar"],
     "r": 2,
     "ex": "Año bisiesto = 366 días."
+  },
+  {
+    "id": 214,
+    "curso": "Competencia Lingüística",
+    "tema": "Comunicación",
+    "p": "En el proceso comunicativo, la fase que abarca el desplazamiento de la información a través de canales como las ondas sonoras o un texto impreso, se denomina:",
+    "o": ["Fase psíquica", "Fase fisiológica", "Fase física", "Fase mental", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La fase física de la comunicación abarca el desplazamiento de la información o mensaje a través de diversos canales, ya sean naturales como las ondas sonoras en una conversación, o artificiales como un texto impreso."
+  },
+  {
+    "id": 215,
+    "curso": "Competencia Lingüística",
+    "tema": "Comunicación",
+    "p": "El conjunto de objetos, seres o fenómenos de la realidad o la imaginación a los cuales se hace referencia en el acto comunicativo se conoce como:",
+    "o": ["Mensaje", "Código", "Canal", "Referente", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "El referente es el conjunto de objetos, seres o fenómenos de la realidad o la imaginación (ej. gato, lluvia, sirena, paz) a los cuales se hace referencia en la comunicación."
+  },
+  {
+    "id": 216,
+    "curso": "Competencia Lingüística",
+    "tema": "Comunicación",
+    "p": "En la comunicación oral, a diferencia de la escrita, la interacción entre emisor y receptor es:",
+    "o": ["Asincrónica", "Sincrónica", "Duradera", "Planificada", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "La comunicación oral se caracteriza porque el emisor y el receptor desarrollan una interacción sincrónica (en tiempo real), mientras que en la escrita es asincrónica (en tiempo diferido)."
+  },
+  {
+    "id": 217,
+    "curso": "Competencia Lingüística",
+    "tema": "Comunicación No Lingüística",
+    "p": "El estudio de las relaciones de proximidad y alejamiento entre los interlocutores durante la interacción corresponde a la comunicación no lingüística denominada:",
+    "o": ["Kinésica", "Oculésica", "Proxémica", "Háptica", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La proxémica es la disciplina de la comunicación no lingüística que estudia las relaciones de proximidad, de alejamiento, etc., entre los interlocutores durante la interacción."
+  },
+  {
+    "id": 218,
+    "curso": "Competencia Lingüística",
+    "tema": "Comunicación No Lingüística",
+    "p": "La disciplina de la comunicación no lingüística que estudia el significado de los colores se denomina:",
+    "o": ["Facial", "Acústica", "Cronémica", "Cromática", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La comunicación cromática estudia el significado de los colores, los cuales pueden generar diversas sensaciones en los receptores."
+  },
+  {
+    "id": 219,
+    "curso": "Competencia Lingüística",
+    "tema": "Tipos de Comunicación",
+    "p": "Cuando una persona realiza reflexiones personales o un monólogo interior, está llevando a cabo una comunicación:",
+    "o": ["Interpersonal", "Intrapersonal", "Grupal", "Pública", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "La comunicación intrapersonal es aquella comunicación especial que se produce en una misma persona, como en los monólogos interiores, soliloquios o reflexiones personales."
+  },
+  {
+    "id": 220,
+    "curso": "Competencia Lingüística",
+    "tema": "Tipos de Comunicación",
+    "p": "La comunicación que se da entre un emisor único y un receptor masivo, caracterizado por ser un grupo amplio, heterogéneo y anónimo, es la comunicación:",
+    "o": ["Grupal", "Pública", "Masiva", "Electrónica", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La comunicación masiva se caracteriza por la interacción entre un emisor único (como un canal de TV) y un receptor masivo, que es un grupo amplio, heterogéneo y anónimo."
+  },
+  {
+    "id": 221,
+    "curso": "Competencia Lingüística",
+    "tema": "Lenguaje",
+    "p": "El uso del lenguaje a nivel familiar o amical corresponde a un tratamiento del mensaje de tipo:",
+    "o": ["Culto", "Estándar", "Popular", "Coloquial", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "El tratamiento coloquial del lenguaje es aquel que se utiliza a nivel familiar y amical, caracterizado por su espontaneidad y cercanía."
+  },
+  {
+    "id": 222,
+    "curso": "Competencia Lingüística",
+    "tema": "Funciones de la Comunicación",
+    "p": "La función de la comunicación que permite a los individuos transmitir hábitos, costumbres, valores y creencias que conforman su cultura es la función:",
+    "o": ["Social", "Simbólica", "Organizativa", "Cultural", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La función cultural de la comunicación se manifiesta cuando los individuos, al comunicarse, transmiten hábitos, costumbres, valores y creencias que conforman su cultura."
+  },
+  {
+    "id": 223,
+    "curso": "Competencia Lingüística",
+    "tema": "Características de la Comunicación",
+    "p": "La característica de la comunicación que implica que fluye de forma continua, en un dinamismo de fuerzas en cambio constante, es su carácter:",
+    "o": ["Integrador", "Transaccional", "Dinámico", "Recíproco", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El carácter dinámico de la comunicación implica que esta fluye en forma continua, en un dinamismo de fuerzas en cambio constante que no pueden considerarse elementos fijos en el tiempo y el espacio."
+  },
+  {
+    "id": 224,
+    "curso": "Competencia Lingüística",
+    "tema": "Factores de la Comunicación",
+    "p": "El dominio del vocabulario de una lengua por parte de los interlocutores es un factor que influye en la comunicación, conocido como:",
+    "o": ["Nivel de conocimiento", "Actitudes", "Contexto sociocultural", "Competencia lexicológica", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La competencia lexicológica se refiere al acervo lingüístico de una persona, es decir, al dominio de su vocabulario, lo cual le permite hablar y escribir con claridad y comprender adecuadamente los mensajes."
+  },
+  {
+    "id": 225,
+    "curso": "Competencia Lingüística",
+    "tema": "Ruido en la Comunicación",
+    "p": "Cualquier interferencia ajena a los elementos de la comunicación que distorsiona la calidad del mensaje se denomina:",
+    "o": ["Redundancia", "Ruido", "Contexto", "Canal", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "El ruido es el factor que degrada y obstaculiza el éxito de la comunicación; es cualquier interferencia que distorsiona la calidad del mensaje."
+  },
+  {
+    "id": 226,
+    "curso": "Competencia Lingüística",
+    "tema": "Ruido en la Comunicación",
+    "p": "Cuando el emisor emplea palabras con un significado y el receptor las interpreta de manera distinta o no las entiende, se produce un ruido de tipo:",
+    "o": ["Físico", "Fisiológico", "Psicológico", "Semántico", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "El ruido semántico ocurre cuando el emisor y el receptor no comparten el mismo significado para las palabras utilizadas, lo que deforma o dificulta la comprensión del mensaje."
+  },
+  {
+    "id": 227,
+    "curso": "Competencia Lingüística",
+    "tema": "Ruido en la Comunicación",
+    "p": "El uso del pitillo en medios audiovisuales para evitar la audición de expresiones malsonantes es un ejemplo de ruido:",
+    "o": ["Psicológico", "Semántico", "Intencionado (Técnico o blanco)", "Fisiológico", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El ruido técnico o blanco es intencionado y se presenta en el canal cuando deliberadamente se omite una parte del mensaje, como al usar un pitillo para censurar expresiones groseras."
+  },
+  {
+    "id": 228,
+    "curso": "Competencia Lingüística",
+    "tema": "Redundancia",
+    "p": "El fenómeno que reduce los efectos del ruido y refuerza la claridad del mensaje, como la repetición de palabras o el uso de mayúsculas, se denomina:",
+    "o": ["Interferencia", "Redundancia", "Codificación", "Decodificación", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "La redundancia es un factor de perfeccionamiento que reduce y combate los efectos del ruido. Refuerza la claridad del mensaje, por ejemplo, mediante la repetición o el uso de mayúsculas y subrayados."
+  },
+  {
+    "id": 229,
+    "curso": "Competencia Lingüística",
+    "tema": "Definición de Lenguaje",
+    "p": "Según Edward Sapir, el lenguaje es un método exclusivamente humano y no instintivo de comunicar ideas, emociones y deseos por medio de un sistema de:",
+    "o": ["Sonidos naturales", "Símbolos producidos de manera deliberada", "Gestos universales", "Escritura alfabética", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Edward Sapir define el lenguaje como 'un método exclusivamente humano y no instintivo de comunicar ideas, emociones y deseos, por medio de un sistema de símbolos producidos de manera deliberada'."
+  },
+  {
+    "id": 230,
+    "curso": "Competencia Lingüística",
+    "tema": "Características del Lenguaje",
+    "p": "La característica del lenguaje que se refiere a que todos los seres humanos lo utilizan en su interrelación es que es:",
+    "o": ["Multiforme", "Racional", "Universal", "Aprendido", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El lenguaje es universal porque todos los seres humanos lo utilizan para interrelacionarse, sin importar el continente en el que habiten."
+  },
+  {
+    "id": 231,
+    "curso": "Competencia Lingüística",
+    "tema": "Funciones del Lenguaje",
+    "p": "Cuando el hablante utiliza el lenguaje para manifestar sus emociones, sentimientos o estados de ánimo, predomina la función:",
+    "o": ["Apelativa", "Referencial", "Expresiva o emotiva", "Fática", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La función expresiva, emotiva o sintomática está centrada en el emisor, quien pone de manifiesto sus emociones, sentimientos y estados de ánimo, como en la expresión '¡Qué fastidio!'."
+  },
+  {
+    "id": 232,
+    "curso": "Competencia Lingüística",
+    "tema": "Funciones del Lenguaje",
+    "p": "En la oración '¡Prohibido fumar!', la función del lenguaje que predomina es la:",
+    "o": ["Expresiva", "Poética", "Apelativa o conativa", "Metalingüística", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La función apelativa o conativa se centra en el receptor, buscando influir en su conducta a través de órdenes, ruegos o preguntas, como en '¡Prohibido fumar!'."
+  },
+  {
+    "id": 233,
+    "curso": "Competencia Lingüística",
+    "tema": "Funciones del Lenguaje",
+    "p": "Cuando el lenguaje se utiliza para hablar del propio código o lengua, como en 'El sinónimo de dimitir es abdicar', se cumple la función:",
+    "o": ["Referencial", "Poética", "Fática", "Metalingüística o de glosa", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La función metalingüística o de glosa se utiliza cuando el código sirve para referirse al propio código, es decir, cuando se usa la lengua para hablar de la lengua misma."
+  },
+  {
+    "id": 234,
+    "curso": "Competencia Lingüística",
+    "tema": "Funciones del Lenguaje",
+    "p": "La expresión '¿Aló?... ¿me escuchas?' es un ejemplo de la función del lenguaje denominada:",
+    "o": ["Expresiva", "Apelativa", "Fática o de contacto", "Poética", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La función fática o de contacto se centra en el canal y busca consolidar, detener o mantener el contacto entre los interlocutores, como al verificar si la comunicación se está produciendo."
+  },
+  {
+    "id": 235,
+    "curso": "Competencia Lingüística",
+    "tema": "Lingüística Estructural",
+    "p": "Según Ferdinand de Saussure, los dos planos interdependientes del lenguaje son:",
+    "o": ["Significado y significante", "Lengua y habla", "Dialecto y sociolecto", "Oral y escrito", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Ferdinand de Saussure estableció que el lenguaje tiene dos planos interdependientes: la lengua (el sistema social y psíquico) y el habla (el uso individual y concreto de ese sistema)."
+  },
+  {
+    "id": 236,
+    "curso": "Competencia Lingüística",
+    "tema": "Variación Lingüística",
+    "p": "La variación de una lengua que se manifiesta por factores regionales, geográficos o territoriales se denomina:",
+    "o": ["Sociolecto", "Idiolecto", "Dialecto", "Interlecto", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El dialecto, o variación diatópica, es la variación de una lengua que se evidencia en la forma cómo cada hablante la usa de acuerdo a factores regionales, geográficos o territoriales."
+  },
+  {
+    "id": 237,
+    "curso": "Competencia Lingüística",
+    "tema": "Variación Lingüística",
+    "p": "En Venezuela se dice 'ratico' y en Perú 'ratito'. Esta es una variación dialectal de tipo:",
+    "o": ["Lexicológico", "Semántico", "Sintáctico", "Morfológico", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La variación dialectal morfológica se manifiesta en las diferencias en la forma y estructura de las palabras, como el uso de diferentes sufijos diminutivos ('-ico' vs '-ito')."
+  },
+  {
+    "id": 238,
+    "curso": "Competencia Lingüística",
+    "tema": "Variación Lingüística",
+    "p": "La variación de una lengua a nivel social, que se subdivide en acrolecto, mesolecto y basilecto, se conoce como:",
+    "o": ["Dialecto", "Sociolecto", "Idiolecto", "Interlecto", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "El sociolecto, o variación diastrática, es la variación de una lengua a nivel social. Se subdivide en acrolecto (nivel alto), mesolecto (nivel medio) y basilecto (nivel bajo)."
+  },
+  {
+    "id": 239,
+    "curso": "Competencia Lingüística",
+    "tema": "Variación Lingüística",
+    "p": "El sistema transitorio de habla entre la lengua materna y la segunda lengua de un aprendiente se denomina:",
+    "o": ["Idiolecto", "Dialecto", "Sociolecto", "Interlecto", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "El interlecto es el sistema transitorio de habla que se produce en una persona que está aprendiendo una segunda lengua, mostrando interferencias y rasgos de su lengua materna."
+  },
+  {
+    "id": 240,
+    "curso": "Competencia Lingüística",
+    "tema": "Variación Lingüística",
+    "p": "La expresión 'de mi tío su casa' es un rasgo característico del interlecto en el nivel:",
+    "o": ["Fonético", "Gramatical (calco sintáctico)", "Semántico", "Morfológico", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "En el nivel gramatical, el interlecto presenta una tendencia al calco sintáctico, que es la traducción literal de una estructura de la lengua materna, como en la expresión 'de mi tío su casa'."
+  },
+  {
+    "id": 241,
+    "curso": "Competencia Lingüística",
+    "tema": "Semiología",
+    "p": "Un signo que guarda una relación física de causa-efecto con el objeto al cual representa, como el humo que es indicio de fuego, se denomina:",
+    "o": ["Ícono", "Símbolo", "Indicio", "Señal", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Un indicio es un signo natural que guarda una relación física de causa-efecto o proximidad con el objeto que representa, como el humo, que anuncia la presencia de fuego."
+  },
+  {
+    "id": 242,
+    "curso": "Competencia Lingüística",
+    "tema": "Semiología",
+    "p": "Un signo artificial que mantiene una relación de semejanza con el objeto representado, como una fotografía o un mapa, se llama:",
+    "o": ["Indicio", "Ícono", "Símbolo", "Señal", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Un ícono es un signo artificial que mantiene una relación de semejanza con el objeto que representa. Los retratos, fotografías, dibujos y mapas son ejemplos de íconos."
+  },
+  {
+    "id": 243,
+    "curso": "Competencia Lingüística",
+    "tema": "Signo Lingüístico",
+    "p": "La característica del signo lingüístico que establece que la relación entre significado y significante es convencional y no motivada, se denomina:",
+    "o": ["Lineal", "Arbitrario", "Mutable", "Inmutable", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "El signo lingüístico es arbitrario porque la relación entre el significado (concepto) y el significante (imagen acústica) no responde a ningún motivo; se establece de modo convencional. Por eso, para un mismo significado, cada lengua usa un significante distinto (ej. casa, wasi, house)."
+  },
+  {
+    "id": 244,
+    "curso": "Competencia Lingüística",
+    "tema": "Puntuación",
+    "p": "Para indicar la omisión de una parte de un refrán o una cita cuyo final se sobrentiende, como en 'A quien madruga...', se utilizan:",
+    "o": ["Los dos puntos", "Los puntos suspensivos", "Los paréntesis", "Las comillas", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Se utilizan los puntos suspensivos para señalar la omisión de una parte del texto, como en una interrupción voluntaria porque se sobrentiende lo que sigue."
+  },
+  {
+    "id": 245,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "Según el criterio semántico, el sustantivo es la palabra que designa a los seres y objetos de la realidad, ya tengan existencia...",
+    "o": ["Únicamente concreta.", "Únicamente abstracta.", "Independiente (concreta) o dependiente (abstracta).", "Variable o invariable.", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Semánticamente, el sustantivo es la palabra que designa a los seres y objetos de la realidad, tengan existencia independiente (concreta) o existencia dependiente (abstracta)."
+  },
+  {
+    "id": 246,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "En la oración 'Ricardo Palma, el bibliotecario mendigo, escribió Tradiciones peruanas', la expresión 'el bibliotecario mendigo' cumple la función sintáctica de:",
+    "o": ["Modificador directo", "Modificador indirecto", "Aposición", "Vocativo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La aposición es un modificador del sintagma nominal que designa de otra manera al mismo ser que se menciona en el núcleo. En este caso, 'el bibliotecario mendigo' es una aposición explicativa de Ricardo Palma."
+  },
+  {
+    "id": 247,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "Sintácticamente, el sustantivo puede cumplir múltiples funciones en la oración, siendo la principal la de:",
+    "o": ["Núcleo del predicado", "Modificador directo", "Núcleo del sujeto", "Nexo coordinante", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El sustantivo forma grupos nominales capaces de contraer varias funciones sintácticas, tales como la de sujeto, complemento directo, indirecto, etc. Su función principal es ser núcleo del sujeto."
+  },
+  {
+    "id": 248,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "Los sustantivos que nombran a seres que no pueden ser percibidos por los sentidos, como 'bondad', 'amor' y 'paz', se clasifican como:",
+    "o": ["Concretos", "Abstractos", "Comunes", "Propios", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Los sustantivos abstractos nombran a seres que no pueden ser percibidos por ninguno de los sentidos y que se conocen a través de un proceso mental de abstracción."
+  },
+  {
+    "id": 249,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "El sustantivo 'enjambre' es un sustantivo colectivo porque en número singular designa un conjunto de:",
+    "o": ["Árboles", "Peces", "Abejas", "Piedras", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los sustantivos colectivos, en número singular, designan un conjunto de seres. 'Enjambre' es el colectivo de 'abeja'."
+  },
+  {
+    "id": 250,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "La diferencia de género en sustantivos como 'padre' / 'madre' y 'caballo' / 'yegua', que utilizan palabras con diferente raíz, corresponde a los sustantivos:",
+    "o": ["De terminación variable", "Comunes en cuanto al género", "Heterónimos", "Epicenos", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los sustantivos heterónimos expresan la diferencia de género y sexo a través de términos con diferente raíz, como en los pares 'hombre'/'mujer' y 'toro'/'vaca'."
+  },
+  {
+    "id": 251,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "Sustantivos como 'el artista' / 'la artista' o 'este testigo' / 'esta testigo', que no modifican su forma para cambiar de género, se denominan:",
+    "o": ["Heterónimos", "Ambiguos", "Comunes en cuanto al género", "Epicenos", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los sustantivos comunes en cuanto al género pueden ser masculinos o femeninos sin que su forma se vea modificada. El género se manifiesta a través de la concordancia con determinantes y adjetivos."
+  },
+  {
+    "id": 252,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "El sustantivo 'mar', que puede usarse como masculino ('el mar') o femenino ('la mar') sin cambiar de significado, se clasifica como:",
+    "o": ["Polisémico", "Epiceno", "Común de dos", "Ambiguo en cuanto al género", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "Los sustantivos ambiguos en cuanto al género son aquellos de terminación invariable que pueden usarse como masculinos o femeninos sin experimentar cambios de significado, como 'el mar'/'la mar'."
+  },
+  {
+    "id": 253,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "Los sustantivos de animales como 'jirafa', 'culebra' o 'búho', que tienen un único género gramatical para referirse a individuos de ambos sexos, son:",
+    "o": ["Ambiguos", "Heterónimos", "Epicenos", "Comunes en cuanto al género", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los sustantivos epicenos son nombres que, teniendo un único género gramatical (masculino o femenino), pueden designar a seres de uno y otro sexo. Para especificar el sexo, se usan los términos 'macho' o 'hembra' (ej. la jirafa macho, el búho hembra)."
+  },
+  {
+    "id": 254,
+    "curso": "Competencia Lingüística",
+    "tema": "Sustantivos",
+    "p": "En la oración 'La avispa hembra es muy peligrosa', ¿cuál es el error de concordancia?",
+    "o": ["El artículo 'la' no es correcto.", "El sustantivo 'avispa' no puede ser hembra.", "El adjetivo 'peligrosa' debe ser masculino.", "No hay ningún error en la oración.", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "Con los sustantivos epicenos, la concordancia debe establecerse siempre en función del género gramatical del sustantivo, y no en función del sexo del referente. 'Avispa' es femenino, pero en el ejemplo 'El tiburón hembra es muy peligroso', 'tiburón' es masculino, por lo que el adjetivo debe ser 'peligroso'. Por analogía, en el caso de la pregunta, si 'avispa' fuera epiceno masculino, el adjetivo debería ser masculino, pero 'avispa' es femenino, así que el adjetivo 'peligrosa' es correcto. La oración del ejemplo en el texto que es incorrecta es 'El tiburón hembra es muy peligrosa' porque tiburón es masculino, por lo tanto la oración correcta sería 'El tiburón hembra es muy peligroso'."
+  },
+  {
+    "id": 255,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "El pronombre se caracteriza semánticamente por ser una palabra que:",
+    "o": ["Tiene significado preciso y exacto.", "Carece de significado preciso y tiene significado ocasional.", "Nombra directamente las cualidades de un ser.", "Siempre modifica al sustantivo.", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Semánticamente, el pronombre es una palabra que carece de significado preciso o exacto. Tiene un significado ocasional, ya que adquiere sentido dentro de un contexto o conversación."
+  },
+  {
+    "id": 256,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "En la oración 'Vi esa rosa roja y la compré', el pronombre 'la' asume el significado de 'esa rosa roja'. Esta función se denomina:",
+    "o": ["Función catafórica", "Función anafórica", "Función deíctica", "Función reflexiva", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Las construcciones anafóricas se dan cuando primero aparece el antecedente ('esa rosa roja') y luego el pronombre ('la') que recoge su referencia."
+  },
+  {
+    "id": 257,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "En 'No la busques... María no vale', el pronombre 'la' anticipa al sustantivo 'María'. Esta función se llama:",
+    "o": ["Función anafórica", "Función recíproca", "Función catafórica", "Función enfática", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Las construcciones catafóricas se producen cuando primero aparece el pronombre ('la') y después el consecuente o subsecuente ('María') cuyo significado ha sido anticipado."
+  },
+  {
+    "id": 258,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "Los pronombres personales átonos que preceden al verbo y se escriben como palabras independientes (ej. 'lo vi', 'se cayó') se llaman:",
+    "o": ["Enclíticos", "Tónicos", "Proclíticos", "Posesivos", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Un pronombre proclítico se escribe como una palabra independiente que precede al verbo, como en 'Lo repetían con frecuencia'."
+  },
+  {
+    "id": 259,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "Cuando un pronombre personal átono se pospone al verbo y se fusiona con él formando una sola palabra (ej. 'cómpralo', 'dime'), se denomina:",
+    "o": ["Proclítico", "Enclítico", "Terminal", "Oblicuo", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Un pronombre enclítico se pospone al verbo y se fusiona gráficamente con él, formando una sola palabra, como en 'Cómpratelo'."
+  },
+  {
+    "id": 260,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "Los pronombres 'mío', 'tuyo', 'suyo', 'nuestro', que indican posesión o pertenencia, se clasifican como:",
+    "o": ["Demostrativos", "Personales", "Posesivos", "Indefinidos", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los pronombres posesivos son aquellos que indican posesión o pertenencia de los seres, señalando a las tres personas gramaticales que intervienen en el diálogo."
+  },
+  {
+    "id": 261,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "En la oración 'Muchos son los llamados; pocos, los escogidos', las palabras 'muchos' y 'pocos' son pronombres:",
+    "o": ["Numerales", "Demostrativos", "Relativos", "Indefinidos", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "Los pronombres indefinidos proporcionan una referencia vaga, imprecisa o indefinida de los seres, como 'muchos', 'pocos', 'alguien', 'nadie', etc."
+  },
+  {
+    "id": 262,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "La oración 'Comí solo la mitad' contiene un pronombre numeral de tipo:",
+    "o": ["Cardinal", "Ordinal", "Partitivo", "Múltiplo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los pronombres numerales partitivos indican la parte o fracción de un ser. 'Mitad' es un ejemplo claro de este tipo."
+  },
+  {
+    "id": 263,
+    "curso": "Competencia Lingüística",
+    "tema": "Pronombres",
+    "p": "Los pronombres 'que', 'quien', 'cual', 'cuyo' que encabezan una proposición subordinada y hacen referencia a un sustantivo antecedente, son pronombres:",
+    "o": ["Interrogativos", "Relativos", "Exclamativos", "Indefinidos", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Los pronombres relativos (que, cual, quien, cuyo) encabezan una proposición subordinada y hacen referencia a un sustantivo que ha sido mencionado antes (antecedente)."
+  },
+  {
+    "id": 264,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "Desde el punto de vista sintáctico, la función principal del adjetivo es la de ser:",
+    "o": ["Núcleo del sujeto", "Modificador directo del sustantivo", "Modificador indirecto del sustantivo", "Núcleo del predicado", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Sintácticamente, el adjetivo tiene como función principal modificar directamente al sustantivo, ya sea antes o después de este. Funciona como Modificador Directo (M.D.) del sustantivo."
+  },
+  {
+    "id": 265,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "En la expresión 'La blanca nieve cubría la pradera', el adjetivo 'blanca' se clasifica como:",
+    "o": ["Especificativo", "Gentilicio", "Epíteto", "Explicativo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Un adjetivo calificativo epíteto señala una cualidad propia e inherente del sustantivo, como en 'blanca nieve', ya que la nieve siempre es blanca. A menudo tiene un propósito poético."
+  },
+  {
+    "id": 266,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "El adjetivo 'cusqueña' en la oración 'La mujer cusqueña es aguerrida' se clasifica como:",
+    "o": ["Epíteto", "Especificativo", "Explicativo", "Gentilicio", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "Los adjetivos gentilicios califican al sustantivo por su lugar de origen o procedencia. 'Cusqueña' indica que la mujer es originaria de Cusco."
+  },
+  {
+    "id": 267,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "El grado del adjetivo que expresa una cualidad en su grado máximo o sumo grado se denomina:",
+    "o": ["Positivo", "Comparativo", "Superlativo", "Calificativo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El grado superlativo expresa la cualidad del sustantivo en su grado máximo. Puede ser absoluto (muy hermosa, hermosísima) o relativo (la más hermosa del salón)."
+  },
+  {
+    "id": 268,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "En la oración 'Ese joven es más estudioso que aquel', el adjetivo se encuentra en grado:",
+    "o": ["Comparativo de igualdad", "Comparativo de inferioridad", "Comparativo de superioridad", "Superlativo relativo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El grado comparativo de superioridad nombra la cualidad del sustantivo estableciendo una comparación de superioridad, utilizando la estructura 'más... que'."
+  },
+  {
+    "id": 269,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "El superlativo absoluto sintético culto del adjetivo 'pobre' es:",
+    "o": ["Pobrísimo", "Paupérrimo", "Muy pobre", "Pobrecísimo", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Si un adjetivo termina en 're' o 'ro', su superlativo absoluto sintético se forma con el sufijo '-érrimo(a)'. Por lo tanto, el superlativo culto de 'pobre' es 'paupérrimo'."
+  },
+  {
+    "id": 270,
+    "curso": "Competencia Lingüística",
+    "tema": "Adjetivos",
+    "p": "La supresión de los sonidos al final de ciertos adjetivos, como 'bueno' a 'buen' delante de un sustantivo masculino, se llama:",
+    "o": ["Síncopa", "Apócope", "Aféresis", "Elipsis", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Algunos adjetivos tienen una forma corta, fenómeno que se llama apócope, que es una supresión de los sonidos al final de ciertas palabras. Ejemplo: 'un buen amigo'."
+  },
+  {
+    "id": 271,
+    "curso": "Competencia Lingüística",
+    "tema": "Artículos",
+    "p": "Desde el criterio sintáctico, el artículo funciona como modificador directo y como:",
+    "o": ["Núcleo del predicado", "Sustantivador universal", "Nexo coordinante", "Complemento agente", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Sintácticamente, el artículo funciona como modificador directo del sustantivo y también como sustantivador universal, ya que puede convertir otras categorías gramaticales (adjetivos, adverbios) en sustantivos."
+  },
+  {
+    "id": 272,
+    "curso": "Competencia Lingüística",
+    "tema": "Artículos",
+    "p": "El artículo neutro 'lo' sirve para sustantivar a los:",
+    "o": ["Verbos", "Sustantivos", "Adjetivos", "Pronombres", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El artículo neutro 'lo', también llamado genérico, sirve para sustantivar a los adjetivos, convirtiéndolos en sustantivos abstractos. Ejemplo: 'Lo bueno supervive'."
+  },
+  {
+    "id": 273,
+    "curso": "Competencia Lingüística",
+    "tema": "Artículos",
+    "p": "Por razones de eufonía, los sustantivos femeninos que empiezan con 'a' o 'ha' tónicas, como 'águila' o 'hada', deben usar en singular el artículo:",
+    "o": ["La", "Una", "El", "Un", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Por razones de eufonía, los sustantivos femeninos que empiezan con 'a' o 'ha' tónicas deben estar precedidos por el artículo 'el' solo en número singular (el águila, el hada), para evitar la cacofonía."
+  },
+  {
+    "id": 274,
+    "curso": "Competencia Lingüística",
+    "tema": "Adverbios",
+    "p": "Semánticamente, el adverbio es una palabra que agrega significado o modifica a:",
+    "o": ["Solo al sustantivo", "Al verbo, al adjetivo y a otro adverbio", "Solo al artículo", "Solo al verbo", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Según el criterio semántico, el adverbio es una palabra que agrega significado y aporta ideas al verbo, al adjetivo y a otro adverbio."
+  },
+  {
+    "id": 275,
+    "curso": "Competencia Lingüística",
+    "tema": "Adverbios",
+    "p": "La oración 'Llegaste demasiado tarde a mi vida' contiene un adverbio que modifica a:",
+    "o": ["Un verbo", "Un adjetivo", "Otro adverbio", "Un sustantivo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "En la oración, el adverbio 'demasiado' está modificando al adverbio 'tarde', indicando la intensidad de este último."
+  },
+  {
+    "id": 276,
+    "curso": "Competencia Lingüística",
+    "tema": "Adverbios",
+    "p": "Los adverbios 'quizás', 'acaso' y 'tal vez' se clasifican como adverbios de:",
+    "o": ["Afirmación", "Negación", "Duda", "Orden", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los adverbios de duda señalan inseguridad, incertidumbre o vacilación. Los principales son: quizás, a lo mejor, quién sabe, acaso, tal vez."
+  },
+  {
+    "id": 277,
+    "curso": "Competencia Lingüística",
+    "tema": "Adverbios",
+    "p": "La expresión 'a carta cabal' es un ejemplo de:",
+    "o": ["Adverbio de modo", "Adverbio de cantidad", "Locución adverbial", "Adjetivo calificativo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Las locuciones adverbiales son expresiones fijas constituidas por varias palabras que equivalen a un solo adverbio. 'A carta cabal' es un ejemplo de locución adverbial de modo."
+  },
+  {
+    "id": 278,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "Desde el punto de vista morfológico, el verbo es una palabra variable porque presenta accidentes gramaticales privativos como:",
+    "o": ["Género y número", "Número y persona", "Tiempo, modo y aspecto", "Grado y género", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Morfológicamente, el verbo es una palabra variable que presenta accidentes no privativos (número y persona) y accidentes privativos (tiempo, modo y aspecto)."
+  },
+  {
+    "id": 279,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "Verbos como 'ser', 'estar' o 'parecer', que no tienen significado pleno y requieren un atributo para completar su sentido, se clasifican como:",
+    "o": ["Transitivos", "Copulativos", "Intransitivos", "Reflexivos", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Los verbos copulativos (ser, estar, parecer) no manifiestan una idea con sentido pleno y requieren de un atributo (sustantivo o adjetivo) que complete su significado, sirviendo de nexo entre el sujeto y dicho atributo."
+  },
+  {
+    "id": 280,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "En la oración 'María se peina', el verbo es reflexivo porque la acción recae sobre el mismo sujeto. El carácter reflexivo se comprueba añadiendo el refuerzo:",
+    "o": ["'mutuamente'", "'a sí mismo/a'", "'recíprocamente'", "'uno al otro'", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Un verbo es reflexivo cuando la acción se refleja sobre el mismo sujeto que la realiza. Se puede comprobar añadiendo el refuerzo 'mismo/a' (ej. María se peina a sí misma)."
+  },
+  {
+    "id": 281,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "En la oración 'Tú y yo nos saludamos', el verbo es de tipo:",
+    "o": ["Reflexivo", "Cuasireflexivo", "Recíproco", "Impersonal", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los verbos recíprocos tienen un sujeto plural que ejerce una acción verbal mutua entre ellos. Aceptan el refuerzo 'mutuamente' o 'recíprocamente' (Tú y yo nos saludamos mutuamente)."
+  },
+  {
+    "id": 282,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "Los verbos que se refieren a fenómenos de la naturaleza, como 'llover' o 'nevar', se clasifican como:",
+    "o": ["Defectivos", "Irregulares", "Regulares", "Impersonales", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "Los verbos impersonales son aquellos cuyo sujeto se desconoce o no se precisa. Entre ellos se encuentran los que se refieren a fenómenos de la naturaleza, que solo se conjugan en tercera persona del singular."
+  },
+  {
+    "id": 283,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "Un verbo que al ser conjugado no presenta alteración en su raíz ni en su terminación (respecto a su modelo) se llama:",
+    "o": ["Verbo regular", "Verbo irregular", "Verbo defectivo", "Verbo auxiliar", "Ninguna de las anteriores"],
+    "r": 0,
+    "ex": "Los verbos regulares son aquellos que al ser conjugados no presentan alteración en sus raíces ni en sus terminaciones, siguiendo el modelo de su conjugación (amar, temer, partir)."
+  },
+  {
+    "id": 284,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "El accidente gramatical del verbo que señala la actitud o intención del hablante (realidad, deseo, mandato) es el:",
+    "o": ["Tiempo", "Aspecto", "Modo", "Número", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El modo señala la actitud o intención del enunciante. Los modos son indicativo (hechos reales), subjuntivo (deseo, duda) e imperativo (orden, mandato)."
+  },
+  {
+    "id": 285,
+    "curso": "Competencia Lingüística",
+    "tema": "Verbos",
+    "p": "Las formas no personales del verbo (infinitivo, gerundio, participio) se denominan:",
+    "o": ["Verbos auxiliares", "Verbos defectivos", "Verboides", "Perífrasis verbal", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Los verboides son las formas no personales del verbo (infinitivo, gerundio y participio) porque no están conjugados en ninguna persona gramatical."
+  },
+  {
+    "id": 286,
+    "curso": "Competencia Lingüística",
+    "tema": "Preposiciones",
+    "p": "Desde el criterio semántico, la preposición es una palabra que:",
+    "o": ["Tiene significado léxico propio.", "Expresa acción o estado.", "Carece de significación por sí sola y su significado es contextual.", "Califica al sustantivo.", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Semánticamente, la preposición no tiene significación por sí sola; su significado es de carácter contextual, determinado por las palabras que relaciona."
+  },
+  {
+    "id": 287,
+    "curso": "Competencia Lingüística",
+    "tema": "Preposiciones",
+    "p": "Sintácticamente, la preposición funciona como un nexo:",
+    "o": ["Coordinante", "Subordinante", "Copulativo", "Disyuntivo", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "La función sintáctica de la preposición es la de ser un conectivo, conector o nexo subordinante, enlazando un elemento sintáctico con su complemento."
+  },
+  {
+    "id": 288,
+    "curso": "Competencia Lingüística",
+    "tema": "Preposiciones",
+    "p": "Las preposiciones 'so' y 'cabe' se consideran:",
+    "o": ["Preposiciones nuevas", "Preposiciones compuestas", "Preposiciones arcaicas", "Locuciones prepositivas", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Las preposiciones 'so' (bajo) y 'cabe' (junto a) son consideradas arcaicas, es decir, han caído en desuso en el habla cotidiana."
+  },
+  {
+    "id": 289,
+    "curso": "Competencia Lingüística",
+    "tema": "Preposiciones",
+    "p": "En la oración 'Este informe es para mi jefe', la preposición 'para' indica:",
+    "o": ["Dirección", "Tiempo", "Causa", "Finalidad", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "La preposición 'para' se utiliza para indicar la finalidad de una acción o el destinatario de algo. En este caso, señala la finalidad del informe."
+  },
+  {
+    "id": 290,
+    "curso": "Competencia Lingüística",
+    "tema": "Preposiciones",
+    "p": "La expresión 'a causa de' es un ejemplo de:",
+    "o": ["Conjunción", "Preposición simple", "Locución prepositiva", "Adverbio", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Las locuciones prepositivas son agrupaciones de palabras que adquieren el sentido y funcionamiento de una preposición. 'A causa de' es un ejemplo de este tipo de locución."
+  },
+  {
+    "id": 291,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "La disciplina lingüística que estudia las relaciones entre los elementos de una frase y las funciones que desempeñan se llama:",
+    "o": ["Morfología", "Semántica", "Sintaxis", "Fonología", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "La sintaxis es la disciplina lingüística que estudia las relaciones entre los elementos de una frase y las frases entre sí, y las funciones que desempeñan cada una de las palabras."
+  },
+  {
+    "id": 292,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "La unidad sintáctica básica formada por una palabra o conjunto de palabras con sentido y valor funcional se denomina:",
+    "o": ["Oración", "Proposición", "Sintagma", "Párrafo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El sintagma constituye una unidad sintáctica básica formada por una palabra o conjunto de palabras dotados de sentido que posee valor funcional."
+  },
+  {
+    "id": 293,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "En la estructura del sintagma nominal (sujeto), el elemento que se une al núcleo mediante preposiciones se llama:",
+    "o": ["Modificador directo", "Aposición", "Núcleo", "Modificador indirecto", "Ninguna de las anteriores"],
+    "r": 3,
+    "ex": "El modificador indirecto (MI) es el elemento que se une al núcleo del sintagma nominal mediante un enlace, que generalmente es una preposición."
+  },
+  {
+    "id": 294,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "En la oración 'Llegaron a la casa dos: María y Martín', ¿qué tipo de sujeto se presenta?",
+    "o": ["Sujeto tácito", "Sujeto simple", "Sujeto compuesto", "Sujeto incomplejo", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Un sujeto compuesto es aquel que en su estructura tiene dos o más núcleos. En este caso, 'María y Martín' son los dos núcleos del sujeto."
+  },
+  {
+    "id": 295,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "El ser en el cual recae directamente la acción de un verbo transitivo es el:",
+    "o": ["Complemento indirecto", "Complemento circunstancial", "Complemento directo", "Complemento agente", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "El complemento directo (CD) es el ser u objeto en el cual recae directamente la acción verbal. El verbo es transitivo porque la acción transciende a este objeto."
+  },
+  {
+    "id": 296,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "En la oración 'La novela fue leída por el niño', la frase 'por el niño' cumple la función de:",
+    "o": ["Complemento circunstancial", "Complemento agente", "Complemento de régimen", "Complemento indirecto", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "El complemento agente (CAg) aparece en oraciones en voz pasiva e indica quién realiza la acción. Generalmente está encabezado por la preposición 'por'."
+  },
+  {
+    "id": 297,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "El adjetivo o frase adjetiva que complementa a un verbo no copulativo, expresando una cualidad del sujeto o del complemento directo, se llama:",
+    "o": ["Atributo", "Predicativo", "Adverbio", "Aposición", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "El predicativo (PVO) es un adjetivo o frase adjetiva que complementa a un verbo no copulativo y expresa una cualidad del sujeto (Carlos llegó contento) o del complemento directo (He encontrado muy bonita la ciudad)."
+  },
+  {
+    "id": 298,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "Las oraciones que no poseen sujeto ni predicado, pero sí gozan de sentido completo, como '¡Auxilio!' o 'Buenos días', se clasifican como:",
+    "o": ["Bimembres", "Simples", "Unimembres", "Compuestas", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Las oraciones unimembres no pueden dividirse en sujeto y predicado, pero constituyen un enunciado con sentido completo. Pueden ser sin verbo (contextuales) o con verbos impersonales."
+  },
+  {
+    "id": 299,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "Una oración que presenta un solo verbo principal o conjugado y no contiene proposiciones en su estructura se clasifica como:",
+    "o": ["Oración compuesta", "Oración simple", "Oración unimembre", "Oración bimembre", "Ninguna de las anteriores"],
+    "r": 1,
+    "ex": "Las oraciones simples son aquellas que presentan un solo verbo principal o conjugado (ya sea simple, compuesto o perifrástico) y carecen de proposiciones."
+  },
+  {
+    "id": 300,
+    "curso": "Competencia Lingüística",
+    "tema": "Sintaxis",
+    "p": "En la oración 'Rony lee un poema; Mari lo escucha emocionada', las dos proposiciones se enlazan mediante un signo de puntuación. Este tipo de oración compuesta se llama:",
+    "o": ["Coordinada copulativa", "Coordinada adversativa", "Coordinada yuxtapuesta", "Subordinada sustantiva", "Ninguna de las anteriores"],
+    "r": 2,
+    "ex": "Una oración compuesta coordinada yuxtapuesta es aquella cuyas proposiciones se enlazan mediante signos de puntuación (coma, punto y coma, o dos puntos) en lugar de conjunciones."
   }
 ]
