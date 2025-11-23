@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Como consecuencia del antiguo proceso de migración de los hombres primitivos en el ámbito mundial, ocurrió:",
+    "o": ["la hominización", "la glaciación de wisconsin", "el cambio climático", "el poblamiento de américa", "el colonialismo del siglo xvi"],
+    "r": 3,
+    "ex": "El poblamiento de América es una consecuencia directa de las grandes migraciones prehistóricas. La glaciación de Wisconsin fue una condición facilitadora (puente), no una consecuencia."
+  },
+  {
+    "id": 2,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Florentino Ameghino, sobre el origen del Hombre Americano, planteó que:",
+    "o": ["Los fueguinos y patagónicos son de procedencia australiana", "El hombre americano es de origen mongoloide", "El proceso evolutivo del hombre se inició en las Pampas Argentinas", "Los hombres de Nueva Guinea son semejantes a los de Lagoa Santa", "Los primitivos hombres americanos proceden de Melanesia"],
+    "r": 2,
+    "ex": "La teoría autoctonista de Florentino Ameghino postulaba que el ser humano era originario de América del Sur (Pampas Argentinas), a partir del ancestro 'Protohomo Pampeanus'."
+  },
+  {
+    "id": 3,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "La procedencia oceánica del Hombre Americano fue planteada por:",
+    "o": ["Antonio Mendes Correa", "Jhosep de Acosta", "Florentino Ameghino", "Paul Rivet", "Alex Hrdlicka"],
+    "r": 3,
+    "ex": "Paul Rivet fue el autor de la teoría oceánica (Poliracial), proponiendo que América fue poblada por grupos de Melanesia y Polinesia cruzando el Pacífico."
+  },
+  {
+    "id": 4,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Migración que se habría realizado en el momento del llamado 'Optimus Climaticun' (Clima Óptimo) corresponde a la teoría:",
+    "o": ["autoctonista", "origen australiana", "origen asiática", "hologenista", "polinésica"],
+    "r": 1,
+    "ex": "La teoría australiana de Méndez Correa sostiene que la migración se produjo cruzando la Antártida durante un 'Optimus Climaticum' (periodo cálido)."
+  },
+  {
+    "id": 5,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Según la teoría de origen Oceánica, los melanesios llegaron a América atravesando el océano pacífico arrastrados por las corrientes:",
+    "o": ["centro ecuatoriales", "del Humbolt", "nor Ecuatoriales", "sur Ecuatoriales", "del niño"],
+    "r": 3,
+    "ex": "Paul Rivet postuló que los grupos oceánicos utilizaron la Corriente Sur Ecuatorial (Transpacífica) para llegar a las costas de América."
+  },
+  {
+    "id": 6,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "La mancha mongólica y la forma achinada de los ojos corresponden a la semejanza entre nativos:",
+    "o": ["Asiáticos - polinésicos", "Asiáticos - Americanos", "Nueva Guinea - Brasil", "Australianos - americanos", "Sur americanos - mesoamericanos"],
+    "r": 1,
+    "ex": "Son pruebas antropológicas presentadas por Alex Hrdlicka para sustentar la teoría asiática (monoracial)."
+  },
+  {
+    "id": 7,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Las glaciaciones que ocurrieron en la parte norte de América se denominaron:",
+    "o": ["Nebraska, Kansas, Illinois y Wisconsin", "Günz, Mindel, Riss y Wurm", "Mindel, Riss, Wurm y Kansas", "Nebraska, Kansas, Illinois y Mindel", "Mindel, Wisconsin, Illinois y wurm"],
+    "r": 0,
+    "ex": "En América del Norte las glaciaciones fueron Nebraska, Kansas, Illinois y Wisconsin. Las otras (Günz, Mindel...) son europeas."
+  },
+  {
+    "id": 8,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "La teoría Australiana especifica que la vía de ingreso del hombre a América fue a través de:",
+    "o": ["El estrecho de Berhing", "La corriente nor. Ecuatorial", "La isla de Tasmania y la Antártida", "la corriente sur ecuatorial", "los archipiélagos"],
+    "r": 2,
+    "ex": "La ruta propuesta por Méndez Correa: Australia -> Tasmania -> Islas Auckland -> Antártida -> Tierra del Fuego."
+  },
+  {
+    "id": 9,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "¿Quién planteó la existencia del llamado Protohomo Pampeanus?",
+    "o": ["Alex Hardlica", "Mendez Correa", "Florentino Ameghino", "Paul Rivet", "Max Uhle"],
+    "r": 2,
+    "ex": "Florentino Ameghino inventó este ancestro hipotético para su teoría autoctonista."
+  },
+  {
+    "id": 10,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Según Méndez Correa, el poblamiento del continente americano se produjo a través de:",
+    "o": ["Pacífico", "El estrecho de Behring", "La Antártida", "Groenlandia", "Islas aleutianas"],
+    "r": 2,
+    "ex": "Es la única teoría que propone la ruta antártica."
+  },
+  {
+    "id": 11,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "La afirmación correcta con respecto a las teorías del poblamiento de América es:",
+    "o": ["Paúl Rivet sostuvo: El Hombre americano procedía de Austria", "Alex Hrdlicka sostuvo: El Hombre americano procede de grupos paleo mongoloides por Bering", "F. Ameghino sostuvo: que el Hombre americano procede de Mesoamérica", "Méndez Correa sostuvo: que el hombre americano es autóctono", "todas son correctas"],
+    "r": 1,
+    "ex": "Describe correctamente la Teoría Asiática de Hrdlicka, la más aceptada científicamente."
+  },
+  {
+    "id": 12,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "En la teoría autoctonista, los primeros habitantes se habrían dispersado por el mundo a través de los llamados:",
+    "o": ["Puentes Intercontinentales", "Puentes colgantes", "Puentes trapezoidales", "Puentes interoceánicos", "Puentes internacionales"],
+    "r": 0,
+    "ex": "Ameghino imaginó 'puentes intercontinentales' geológicos para explicar cómo el hombre salió de América hacia otros continentes."
+  },
+  {
+    "id": 13,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "La teoría autoctonista de Florentino Ameghino fue rebatida categóricamente por:",
+    "o": ["Antonio Mendez Correa", "Paul Rivet", "Alex Hardlicka", "Julio C Tello", "Max Uhle"],
+    "r": 2,
+    "ex": "Alex Hrdlicka demostró que los huesos presentados por Ameghino no eran de la era Terciaria ni humanos antiguos, sino más recientes."
+  },
+  {
+    "id": 14,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "Según la teoría Oceánica, los Polinesios llegaron a Sudamérica arrastrados por la corriente:",
+    "o": ["centro ecuatorial", "del Humbolt", "nor Ecuatorial", "sur Ecuatorial", "del niño"],
+    "r": 3,
+    "ex": "Los polinesios, grandes navegantes, usaron la Corriente Sur Ecuatorial para llegar a las costas (probablemente Chile)."
+  },
+  {
+    "id": 15,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "¿Quién sostuvo que grupos melanesios y polinesios habían poblado América?",
+    "o": ["Méndez Correa", "Florentino Ameghino", "Paúl Rivet", "Max Uhle", "Alex Hrdlicka"],
+    "r": 2,
+    "ex": "Paul Rivet propuso la teoría Poliracial (múltiples orígenes)."
+  },
+  {
+    "id": 16,
+    "curso": "Historia",
+    "tema": "Poblamiento Americano",
+    "p": "El argumento de Paul Rivet sobre la semejanza entre cráneos de Lagoa Santa (Brasil) y los de Nueva Guinea corresponde a la procedencia:",
+    "o": ["melanesica", "polinésica", "australiana", "asiática", "europea"],
+    "r": 0,
+    "ex": "Nueva Guinea es parte de Melanesia. Esta semejanza ósea fue clave para su teoría."
+  },
+  {
+    "id": 17,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Los primeros hombres del periodo Lítico (cazadores y nómadas) son:",
+    "o": ["Guitarreros, Santo Domingo, Chilca, Paccaicasa", "Paccaicasa, Chivateros, Toquepala, Lauricocha, Paiján", "Chilca, Cerro paloma, Lauricocha, Piquimachay", "Toquepa, Paijan, Chavin, Nazca", "Telarmachay, Tiquimahay, Santo Domingo, Paracas"],
+    "r": 1,
+    "ex": "Este grupo corresponde íntegramente al Período Lítico peruano (cazadores-recolectores)."
+  },
+  {
+    "id": 18,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Las escenas de Caza o Chaco con lanzas en pinturas rupestres corresponden al hombre de:",
+    "o": ["Guitarrero", "Paiján", "Toquepala", "Santo Domingo", "Piquimachay"],
+    "r": 2,
+    "ex": "La cueva de Toquepala (Tacna) contiene las famosas pinturas del 'chaku' (caza colectiva)."
+  },
+  {
+    "id": 19,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "¿Dónde se encontraron los esqueletos completos más antiguos (mujer y niño) de la costa?",
+    "o": ["Toquepala", "Paiján", "Chivateros", "Lauricocha", "Kotosh"],
+    "r": 1,
+    "ex": "En Paiján (La Libertad) se hallaron los restos humanos completos más antiguos del Perú (aprox 8000 a.C.)."
+  },
+  {
+    "id": 20,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Son considerados como los precursores de la agricultura (horticultores) en el Perú:",
+    "o": ["Santo Domingo", "Guitarrero", "Chilca", "Nazca", "Caral"],
+    "r": 1,
+    "ex": "El hombre de Guitarrero (Áncash) es considerado el primer horticultor del Perú (frijoles, ají)."
+  },
+  {
+    "id": 21,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Los hombres de Huaca Prieta fueron estudiados por:",
+    "o": ["Junius Bird", "Julio C Tello", "Max Uhle", "Emilio Gonzales", "Rosa Fung Pineda"],
+    "r": 0,
+    "ex": "Junius Bird excavó Huaca Prieta en 1940, descubriendo los famosos textiles y mates pirograbados."
+  },
+  {
+    "id": 22,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Caverna del Perú antiguo donde se han identificado pinturas rupestres:",
+    "o": ["Altamira", "Toquepala", "Lauricocha", "Pacaiccasa", "Paiján"],
+    "r": 1,
+    "ex": "Toquepala es el sitio emblemático del arte rupestre en Perú (caza de camélidos)."
+  },
+  {
+    "id": 23,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Los vestigios líticos del hombre de Paccaicasa se encuentran en:",
+    "o": ["Cusco", "Tacna", "Ayacucho", "La Libertad", "Huancavelica"],
+    "r": 2,
+    "ex": "Fueron hallados por Richard MacNeish en la cueva de Piquimachay, Ayacucho."
+  },
+  {
+    "id": 24,
+    "curso": "Historia",
+    "tema": "Civilizaciones",
+    "p": "La importancia del inicio de la gran cultura andina y civilización corresponde a:",
+    "o": ["Caral", "Paccaicasa", "Chivateros", "Toquepala", "Santo Domingo"],
+    "r": 0,
+    "ex": "Caral es la civilización más antigua de América, marcando el inicio de la complejidad social en los Andes."
+  },
+  {
+    "id": 25,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Se considera el poblador más antiguo de la COSTA peruana a:",
+    "o": ["Paccaicasa", "Guitarreros", "Toquepala", "Chivateros", "Las Aldas"],
+    "r": 3,
+    "ex": "Chivateros (Río Chillón, Lima) es un inmenso taller lítico considerado el vestigio más antiguo de la costa."
+  },
+  {
+    "id": 26,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Rafael Larco Hoyle hizo estudios importantes sobre el hombre de:",
+    "o": ["Piquimachay", "Lauricocha", "Paiján", "Paccaicasa", "Chivateros"],
+    "r": 2,
+    "ex": "Larco Hoyle investigó el complejo Paijanense en la costa norte."
+  },
+  {
+    "id": 27,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Richard Mac Neish hizo estudios sobre el hombre de:",
+    "o": ["Paccaicasa y Piquimachay", "Guitarreros y Chilca", "Chivateros y Paijan", "Paracas y Chavin", "Wari y Tiawanaku"],
+    "r": 0,
+    "ex": "Mac Neish dirigió el Proyecto Arqueológico Botánico Ayacucho, descubriendo Paccaicasa."
+  },
+  {
+    "id": 28,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Son los primeros habitantes considerados Domesticadores del perro:",
+    "o": ["Chivateros", "Chilca", "Guitarreros", "Santo Domingo", "Cerro Paloma"],
+    "r": 1,
+    "ex": "En Chilca se hallaron entierros humanos asociados a perros domesticados."
+  },
+  {
+    "id": 29,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Corresponden al periodo de los sedentarios agricultores (Arcaico Tardío):",
+    "o": ["Lurín, Huaca prieta, Kotosh, Las Aldas, Cerro Paloma", "Guitarreros, Santo Domingo...", "Paccaicasa, Chivateros...", "Chavín, Paracas...", "Lurín, Paiján..."],
+    "r": 0,
+    "ex": "Todos estos sitios muestran arquitectura estable y agricultura, rasgos del sedentarismo."
+  },
+  {
+    "id": 30,
+    "curso": "Historia",
+    "tema": "Primitivos y Arcaico",
+    "p": "Los hombres seminómadas de Piquimachay evidenciaron la primera domesticación de:",
+    "o": ["Llama", "Pesca con red", "Entierros", "Perro", "Cuyes"],
+    "r": 4,
+    "ex": "En la fase Piquimachay se encontraron coprolitos y huesos de cuy domesticado."
+  },
+  {
+    "id": 31,
+    "curso": "Historia",
+    "tema": "Civilizaciones",
+    "p": "Es considerada la civilización más antigua del Perú y América:",
+    "o": ["Chavín", "Paccaicasa", "Caral", "Inca", "Nazca"],
+    "r": 2,
+    "ex": "Caral (Supe) tiene 5000 años de antigüedad, contemporánea a Mesopotamia."
+  },
+  {
+    "id": 32,
+    "curso": "Historia",
+    "tema": "Civilizaciones",
+    "p": "Ruth Shady descubrió Caral tomando en cuenta la prospección anterior de:",
+    "o": ["Manuel Merino", "Manuel Chavez", "Max Uhle", "Paul Kosok y Mejia Xesspe", "Rosa Fung"],
+    "r": 3,
+    "ex": "Paul Kosok y Mejía Xesspe habían visitado el sitio antes, aunque Shady reveló su antigüedad."
+  },
+  {
+    "id": 33,
+    "curso": "Historia",
+    "tema": "Civilizaciones",
+    "p": "Caral tuvo un gobierno de carácter:",
+    "o": ["Militarista", "Teocrático no militarizado", "Democrático", "Imperial", "Nómada"],
+    "r": 1,
+    "ex": "No hay armas ni murallas en Caral. Su poder se basaba en la religión y el conocimiento (Teocracia)."
+  },
+  {
+    "id": 34,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Las culturas pre-incas correspondientes al Horizonte Temprano son:",
+    "o": ["Nazca-Paracas", "Chavín-Paracas", "Tiawanaku-Wari", "Chancas-Mochica", "Mochica-Nazca"],
+    "r": 1,
+    "ex": "El Horizonte Temprano está dominado por la influencia de Chavín y el surgimiento de Paracas."
+  },
+  {
+    "id": 35,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Considerada una sociedad teocrática dirigida por sacerdotes astrónomos:",
+    "o": ["Chavín", "Nazca", "Vicos", "Chancas", "Mochica"],
+    "r": 0,
+    "ex": "Chavín de Huántar fue un oráculo andino controlado por sacerdotes que predecían el clima."
+  },
+  {
+    "id": 36,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La trepanación craneana es una manifestación cultural destacada de:",
+    "o": ["Chavín", "Paracas", "Mochica", "Wari", "Nazca"],
+    "r": 1,
+    "ex": "Paracas (especialmente Necrópolis) realizó las cirugías craneales más avanzadas de América."
+  },
+  {
+    "id": 37,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La Huaca del Sol, dedicada al dios Ai Apaec, pertenece a la cultura:",
+    "o": ["Chavín", "Nazca", "Mochica", "Wari", "Chimú"],
+    "r": 2,
+    "ex": "Los moches construyeron las inmensas Huacas del Sol y de la Luna en adobe."
+  },
+  {
+    "id": 38,
+    "curso": "Historia",
+    "tema": "Incas",
+    "p": "La conquista de los Chimú por los Quechuas se produce bajo el mando de:",
+    "o": ["Tupac Inca Yupanqui", "Huayna Qhapaq", "Tiucusi Yupanqui", "Sayritupac", "YawarHuacac"],
+    "r": 0,
+    "ex": "Túpac Yupanqui, como auqui (príncipe) de Pachacútec, conquistó el norte y derrotó a Minchancaman."
+  },
+  {
+    "id": 39,
+    "curso": "Historia",
+    "tema": "Incas",
+    "p": "El mito de los Pururaucas (soldados de piedra) surge en la guerra entre:",
+    "o": ["Chimu - Quechua", "Quechua - Wari", "Chanca - Wari", "Chancas - Quechuas", "Quechuas - Aymaras"],
+    "r": 3,
+    "ex": "Cuenta la leyenda que las piedras se volvieron soldados para ayudar a Cusi Yupanqui (Pachacútec) contra los Chancas."
+  },
+  {
+    "id": 40,
+    "curso": "Historia",
+    "tema": "Incas",
+    "p": "En la máxima expansión inca, el límite norte (río Ancasmayo) pertenecía al:",
+    "o": ["Collasuyu", "Antisuyu", "Cuntisuyu", "Chinchaysuyu", "Qhapaq Ñan"],
+    "r": 3,
+    "ex": "El Chinchaysuyu fue la región norte y la más importante del Tahuantinsuyo."
+  }
+]
