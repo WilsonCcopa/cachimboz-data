@@ -6,16 +6,16 @@
     "p": "Como consecuencia del antiguo proceso de migración de los hombres primitivos en el ámbito mundial, ocurrió:",
     "o": ["la hominización", "la glaciación de wisconsin", "el cambio climático", "el poblamiento de américa", "el colonialismo del siglo xvi"],
     "r": 3,
-    "ex": "El poblamiento de América es una consecuencia directa de las grandes migraciones prehistóricas. La glaciación de Wisconsin fue una condición facilitadora (puente), no una consecuencia."
+    "ex": "El poblamiento de América es una consecuencia directa de las grandes migraciones prehistóricas. La glaciación de Wisconsin fue una condición que facilitó este proceso al crear el puente terrestre de Beringia, pero no fue una consecuencia de la migración en sí."
   },
   {
     "id": 2,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Florentino Ameghino, sobre el origen del Hombre Americano, planteó que:",
-    "o": ["Los fueguinos y patagónicos son de procedencia australiana", "El hombre americano es de origen mongoloide", "El proceso evolutivo del hombre se inició en las Pampas Argentinas", "Los hombres de Nueva Guinea son semejantes a los de Lagoa Santa", "Los primitivos hombres americanos proceden de Melanesia"],
+    "p": "Florentino Ameghino, sobre el origen del Hombre Americano, planteo que:",
+    "o": ["Los fueguinos y patagonicos son de procedencia australiana", "El hombre americano es de origen mongoloide", "El proceso evolutivo del hombre se inicio en las Pampas Argentinas", "Los hombres de Nueva Guinea son semejantes a los de Lagoa Santa", "Los primitivos hombres americanos proceden de Melanesia"],
     "r": 2,
-    "ex": "La teoría autoctonista de Florentino Ameghino postulaba que el ser humano era originario de América del Sur (Pampas Argentinas), a partir del ancestro 'Protohomo Pampeanus'."
+    "ex": "La teoría autoctonista de Florentino Ameghino postulaba que el ser humano era originario de América del Sur, específicamente de las Pampas Argentinas, a partir de un ancestro que denominó *Protohomo Pampeanus*."
   },
   {
     "id": 3,
@@ -24,339 +24,1176 @@
     "p": "La procedencia oceánica del Hombre Americano fue planteada por:",
     "o": ["Antonio Mendes Correa", "Jhosep de Acosta", "Florentino Ameghino", "Paul Rivet", "Alex Hrdlicka"],
     "r": 3,
-    "ex": "Paul Rivet fue el autor de la teoría oceánica (Poliracial), proponiendo que América fue poblada por grupos de Melanesia y Polinesia cruzando el Pacífico."
+    "ex": "Paul Rivet fue el autor de la teoría oceánica, que proponía que América fue poblada no solo desde Asia, sino también por grupos procedentes de Melanesia y Polinesia que cruzaron el Océano Pacífico."
   },
   {
     "id": 4,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Migración que se habría realizado en el momento del llamado 'Optimus Climaticun' (Clima Óptimo) corresponde a la teoría:",
+    "p": "Migración que se habría realizado en el momento del llamado \"Optimus Climaticun\" (Clima Optimo).corresponde a la teoría:",
     "o": ["autoctonista", "origen australiana", "origen asiática", "hologenista", "polinésica"],
     "r": 1,
-    "ex": "La teoría australiana de Méndez Correa sostiene que la migración se produjo cruzando la Antártida durante un 'Optimus Climaticum' (periodo cálido)."
+    "ex": "La teoría de origen australiano, propuesta por Méndez Correa, sostiene que la migración desde Australia se produjo durante un período de \"clima óptimo\" que permitió a los humanos cruzar la Antártida para llegar a América del Sur."
   },
   {
     "id": 5,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Según la teoría de origen Oceánica, los melanesios llegaron a América atravesando el océano pacífico arrastrados por las corrientes:",
-    "o": ["centro ecuatoriales", "del Humbolt", "nor Ecuatoriales", "sur Ecuatoriales", "del niño"],
+    "p": "Según la teoría de origen Oceánica, los melanesios llegaron al extremo sur de América central y norte de América del sur, atravesando el océano pacifico arrastradas por las corrientes:",
+    "o": ["centro ecuatoriales", "del Humbolt.", "nor Ecuatoriales.", "sur Ecuatoriales.", "del niño."],
     "r": 3,
-    "ex": "Paul Rivet postuló que los grupos oceánicos utilizaron la Corriente Sur Ecuatorial (Transpacífica) para llegar a las costas de América."
+    "ex": "Dentro de la teoría oceánica de Paul Rivet, se postula que los grupos melanesios utilizaron la Corriente Sur Ecuatorial para navegar a través del Pacífico y llegar a las costas de América."
   },
   {
     "id": 6,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "La mancha mongólica y la forma achinada de los ojos corresponden a la semejanza entre nativos:",
-    "o": ["Asiáticos - polinésicos", "Asiáticos - Americanos", "Nueva Guinea - Brasil", "Australianos - americanos", "Sur americanos - mesoamericanos"],
+    "p": "la características de La mancha mongólica (zona lumbar) y la Forma achinado de los ojos. Corresponde a la semejanza entre nativos:",
+    "o": ["Asiáticos- polinésicos", "Asiáticos- Americanos", "Nueva guinea - Brasil", "Australianos americanos", "Sur americanos - mesoamericanos."],
     "r": 1,
-    "ex": "Son pruebas antropológicas presentadas por Alex Hrdlicka para sustentar la teoría asiática (monoracial)."
+    "ex": "La mancha mongólica y los ojos rasgados son dos de las principales pruebas antropológicas presentadas por Alex Hrdlicka para sustentar su teoría del origen asiático del hombre americano, debido a su alta frecuencia en ambas poblaciones."
   },
   {
     "id": 7,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Las glaciaciones que ocurrieron en la parte norte de América se denominaron:",
+    "p": "las glaciaciones que ocurrieron en la parte norte de América se denominaron:",
     "o": ["Nebraska, Kansas, Illinois y Wisconsin", "Günz, Mindel, Riss y Wurm", "Mindel, Riss, Wurm y Kansas", "Nebraska, Kansas, Illinois y Mindel", "Mindel, Wisconsin, Illinois y wurm"],
     "r": 0,
-    "ex": "En América del Norte las glaciaciones fueron Nebraska, Kansas, Illinois y Wisconsin. Las otras (Günz, Mindel...) son europeas."
+    "ex": "Las cuatro grandes glaciaciones del Pleistoceno en América del Norte se conocen como Nebraska, Kansas, Illinois y Wisconsin. Las glaciaciones de Günz, Mindel, Riss y Würm corresponden a la secuencia de los Alpes europeos."
   },
   {
     "id": 8,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "La teoría Australiana especifica que la vía de ingreso del hombre a América fue a través de:",
+    "p": "La teoría Australiana especifica que la vía de ingreso del hombre a América fue a través por:",
     "o": ["El estrecho de Berhing", "La corriente nor. Ecuatorial", "La isla de Tasmania y la Antártida", "la corriente sur ecuatorial", "los archipiélagos"],
     "r": 2,
-    "ex": "La ruta propuesta por Méndez Correa: Australia -> Tasmania -> Islas Auckland -> Antártida -> Tierra del Fuego."
+    "ex": "La ruta propuesta por la teoría de Méndez Correa implicaba un viaje desde Australia, pasando por Tasmania, y luego utilizando las islas Auckland para finalmente cruzar el continente antártico y llegar a la Tierra del Fuego."
   },
   {
     "id": 9,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "¿Quién planteó la existencia del llamado Protohomo Pampeanus?",
+    "p": "planteó la existencia del llamado Protohomo Pampeanus:",
     "o": ["Alex Hardlica", "Mendez Correa", "Florentino Ameghino", "Paul Rivet", "Max Uhle"],
     "r": 2,
-    "ex": "Florentino Ameghino inventó este ancestro hipotético para su teoría autoctonista."
+    "ex": "Florentino Ameghino, en su teoría autoctonista, postuló la existencia del *Protohomo Pampeanus*, un ancestro humano que según él, se originó y evolucionó en las pampas de Argentina."
   },
   {
     "id": 10,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Según Méndez Correa, el poblamiento del continente americano se produjo a través de:",
-    "o": ["Pacífico", "El estrecho de Behring", "La Antártida", "Groenlandia", "Islas aleutianas"],
+    "p": "Según la hipótesis de Méndez Correa, el poblamiento del continente americano se produjo a través de:",
+    "o": ["Pacífico", "El estrecho de Behring.", "La Antártida.", "Groenlandia.", "Islas aleutianas"],
     "r": 2,
-    "ex": "Es la única teoría que propone la ruta antártica."
+    "ex": "La hipótesis del portugués Méndez Correa es la única que propone una ruta de migración a través de la Antártida, aprovechando un período de clima más cálido (Optimus Climaticum)."
   },
   {
     "id": 11,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "La afirmación correcta con respecto a las teorías del poblamiento de América es:",
-    "o": ["Paúl Rivet sostuvo: El Hombre americano procedía de Austria", "Alex Hrdlicka sostuvo: El Hombre americano procede de grupos paleo mongoloides por Bering", "F. Ameghino sostuvo: que el Hombre americano procede de Mesoamérica", "Méndez Correa sostuvo: que el hombre americano es autóctono", "todas son correctas"],
+    "p": "La afirmación correcta, con respecto a las teorías del poblamiento de América es:",
+    "o": ["Paúl Rivet sostuvo: El Hombre americano procedía de Austria, Australia", "Alex Hrdlicka sostuvo: El Hombre americano procede de los grupos humanos paleo mongoloides que inmigraron a América pasando por la zona del Estrecho de Bering", "F. Ameghino sostuvo: que el Hombre americano procede de Mesoamérica.", "Méndez Correa sostuvo: que el hombre americano es autóctono que surge en sur de América.", "todas son correctas"],
     "r": 1,
-    "ex": "Describe correctamente la Teoría Asiática de Hrdlicka, la más aceptada científicamente."
+    "ex": "La afirmación describe correctamente la Teoría Asiática de Alex Hrdlicka, que es la más aceptada y sostiene que grupos paleomongoloides cruzaron el Estrecho de Bering durante la última glaciación."
   },
   {
     "id": 12,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "En la teoría autoctonista, los primeros habitantes se habrían dispersado por el mundo a través de los llamados:",
+    "p": "En la teoría autoctonista del poblamiento de América, desde la comarca de chapalmalal los primeros habitantes se habrían dispersado por el resto del mundo a través de los Ilamados:",
     "o": ["Puentes Intercontinentales", "Puentes colgantes", "Puentes trapezoidales", "Puentes interoceánicos", "Puentes internacionales"],
     "r": 0,
-    "ex": "Ameghino imaginó 'puentes intercontinentales' geológicos para explicar cómo el hombre salió de América hacia otros continentes."
+    "ex": "Según la teoría de Florentino Ameghino, una vez originado el hombre en las pampas, este se habría expandido al resto de los continentes utilizando supuestos \"puentes intercontinentales\" que conectaban América con otras masas de tierra."
   },
   {
     "id": 13,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "La teoría autoctonista de Florentino Ameghino fue rebatida categóricamente por:",
+    "p": "La teoría autoctonista de Florentino Ameghino fue cuestionada y rebatida categoricaente por:",
     "o": ["Antonio Mendez Correa", "Paul Rivet", "Alex Hardlicka", "Julio C Tello", "Max Uhle"],
     "r": 2,
-    "ex": "Alex Hrdlicka demostró que los huesos presentados por Ameghino no eran de la era Terciaria ni humanos antiguos, sino más recientes."
+    "ex": "Alex Hrdlicka fue el principal crítico de la teoría de Ameghino. Demostró que los restos óseos presentados por Ameghino no eran tan antiguos como afirmaba, que no eran humanos y que pertenecían a épocas geológicas más recientes."
   },
   {
     "id": 14,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "Según la teoría Oceánica, los Polinesios llegaron a Sudamérica arrastrados por la corriente:",
-    "o": ["centro ecuatorial", "del Humbolt", "nor Ecuatorial", "sur Ecuatorial", "del niño"],
+    "p": "Según la teoría de origen Oceánica los Polinesios llegaron al extremo sur de Sudamérica atravesando el océano pacifico arrastradas por la corriente:",
+    "o": ["centro ecuatorial", "del Humbolt.", "nor Ecuatorial.", "sur Ecuatorial.", "del niño."],
     "r": 3,
-    "ex": "Los polinesios, grandes navegantes, usaron la Corriente Sur Ecuatorial para llegar a las costas (probablemente Chile)."
+    "ex": "La teoría Oceánica de Paul Rivet propone que tanto melanesios como polinesios llegaron a América. Los polinesios, excelentes navegantes, habrían seguido la Corriente Sur Ecuatorial hasta llegar a las costas de Sudamérica, principalmente Chile."
   },
   {
     "id": 15,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "¿Quién sostuvo que grupos melanesios y polinesios habían poblado América?",
-    "o": ["Méndez Correa", "Florentino Ameghino", "Paúl Rivet", "Max Uhle", "Alex Hrdlicka"],
+    "p": "Sostuvo que grupos melanesios y polinesios habían poblado América:",
+    "o": ["Méndez Correa.", "Florentino Ameghino.", "Paúl Rivet.", "Max Uhle.", "Alex Hrdlicka."],
     "r": 2,
-    "ex": "Paul Rivet propuso la teoría Poliracial (múltiples orígenes)."
+    "ex": "Fue Paul Rivet quien, con su Teoría Oceánica, defendió un poblamiento múltiple de América, incluyendo rutas a través del Pacífico por parte de grupos de Melanesia y Polinesia, además de la ruta asiática."
   },
   {
     "id": 16,
     "curso": "Historia",
     "tema": "Poblamiento Americano",
-    "p": "El argumento de Paul Rivet sobre la semejanza entre cráneos de Lagoa Santa (Brasil) y los de Nueva Guinea corresponde a la procedencia:",
+    "p": "El argumento demostrativo de Paul Rivet de carácter antropológico tales como: que los antiguos pobladores de Lagoa Santa (Brasil) tienen cráneos muy semejantes a los negros de nueva Guinea, corresponde a procedencia:",
     "o": ["melanesica", "polinésica", "australiana", "asiática", "europea"],
     "r": 0,
-    "ex": "Nueva Guinea es parte de Melanesia. Esta semejanza ósea fue clave para su teoría."
+    "ex": "Esta es una de las pruebas antropológicas clave que Paul Rivet usó para sustentar la llegada de grupos melanesios a América. La similitud craneana entre los restos de Lagoa Santa (Brasil) y las poblaciones de Melanesia (Nueva Guinea) sugería una conexión directa."
   },
   {
     "id": 17,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Los primeros hombres del periodo Lítico (cazadores y nómadas) son:",
-    "o": ["Guitarreros, Santo Domingo, Chilca, Paccaicasa", "Paccaicasa, Chivateros, Toquepala, Lauricocha, Paiján", "Chilca, Cerro paloma, Lauricocha, Piquimachay", "Toquepa, Paijan, Chavin, Nazca", "Telarmachay, Tiquimahay, Santo Domingo, Paracas"],
+    "tema": "Culturas Preincas",
+    "p": "Los primeros hombres que corresponden al periodo de los recolectores, cazadores y nómadas andinos durante la formación de la cultura andina son.",
+    "o": ["Guitarreros, Santo Domingo, Chilca, Paccaicasa", "Paccaicasa, Chivateros, Toquepala, Lauricocha, Paiján", "chilca, Cerro paloma, Lauricocha, Piquimachay", "Toquepa, Paijan, Chavin, Nazca", "Telarmachay, Tiquimahay, Santo Domingo, Paracas"],
     "r": 1,
-    "ex": "Este grupo corresponde íntegramente al Período Lítico peruano (cazadores-recolectores)."
+    "ex": "El grupo listado en la opción 'b' corresponde íntegramente al Período Lítico peruano (cazadores-recolectores nómadas), que incluye los primeros vestigios humanos (Paccaicasa), el taller lítico más grande (Chivateros), y los primeros artistas (Toquepala) y restos humanos (Lauricocha, Paiján)."
   },
   {
     "id": 18,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Las escenas de Caza o Chaco con lanzas en pinturas rupestres corresponden al hombre de:",
-    "o": ["Guitarrero", "Paiján", "Toquepala", "Santo Domingo", "Piquimachay"],
+    "tema": "Culturas Preincas",
+    "p": "Las características de la Caza o Chaco de vicuñas y guanacos, con lanzas y puntas de piedra corresponde al hombre de:",
+    "o": ["guitarrero", "paijan", "toquepala", "santo domingo", "piquimachay"],
     "r": 2,
-    "ex": "La cueva de Toquepala (Tacna) contiene las famosas pinturas del 'chaku' (caza colectiva)."
+    "ex": "Las pinturas rupestres de la cueva de Toquepala (Tacna) son famosas por representar escenas de 'chaku' (caza colectiva de camélidos), donde los cazadores acorralan a los animales. Es la primera evidencia de esta práctica ancestral."
   },
   {
     "id": 19,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "¿Dónde se encontraron los esqueletos completos más antiguos (mujer y niño) de la costa?",
-    "o": ["Toquepala", "Paiján", "Chivateros", "Lauricocha", "Kotosh"],
+    "tema": "Culturas Preincas",
+    "p": "el espacio geografico de los primeros habitantes en donde Se encontraron esqueletos completos (mujer de 25 años y niño de 12 años).corresponde a:",
+    "o": ["toquepala", "paijan", "chivateros", "lauricocha", "kotosh"],
     "r": 1,
-    "ex": "En Paiján (La Libertad) se hallaron los restos humanos completos más antiguos del Perú (aprox 8000 a.C.)."
+    "ex": "En la Pampa de los Fósiles, en Paiján (La Libertad), se encontraron los restos humanos completos más antiguos del Perú, conocidos como el hombre y el niño de Paiján, datados en aproximadamente 8000 a.C."
   },
   {
     "id": 20,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Son considerados como los precursores de la agricultura (horticultores) en el Perú:",
-    "o": ["Santo Domingo", "Guitarrero", "Chilca", "Nazca", "Caral"],
+    "tema": "Culturas Preincas",
+    "p": "Son considerados como los precursores de la agricultura en el Perú corresponde a:",
+    "o": ["santo domingo", "guitarrero", "chilca", "nazca", "caral"],
     "r": 1,
-    "ex": "El hombre de Guitarrero (Áncash) es considerado el primer horticultor del Perú (frijoles, ají)."
+    "ex": "El hombre de la cueva de Guitarrero (Áncash) es considerado el primer horticultor o agricultor incipiente del Perú, ya que se encontraron evidencias del cultivo de frijoles y ají con una antigüedad de más de 7000 a.C."
   },
   {
     "id": 21,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Los hombres de Huaca Prieta fueron estudiados por:",
-    "o": ["Junius Bird", "Julio C Tello", "Max Uhle", "Emilio Gonzales", "Rosa Fung Pineda"],
+    "tema": "Culturas Preincas",
+    "p": "En el periodo que corresponde a los sedentarios agricultores, los hombres de Huaca prieta es estudiado por:",
+    "o": ["junnius Bird", "Julio C Tello", "Max Uhle", "Emilio Gonzales", "Rosa Fung Pineda"],
     "r": 0,
-    "ex": "Junius Bird excavó Huaca Prieta en 1940, descubriendo los famosos textiles y mates pirograbados."
+    "ex": "El arqueólogo estadounidense Junius Bird fue quien excavó y estudió el sitio de Huaca Prieta en el valle de Chicama en la década de 1940, descubriendo sus famosos textiles de algodón y mates pirograbados."
   },
   {
     "id": 22,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Caverna del Perú antiguo donde se han identificado pinturas rupestres:",
-    "o": ["Altamira", "Toquepala", "Lauricocha", "Pacaiccasa", "Paiján"],
+    "tema": "Culturas Preincas",
+    "p": "En la caverna correspondiente al Perú antiguo, donde se han identificado dibujo y pinturas rupestres corresponde al hombre de:",
+    "o": ["Altamira", "Toquepala", "Lauricocha", "Pacaiccasa", "paijan"],
     "r": 1,
-    "ex": "Toquepala es el sitio emblemático del arte rupestre en Perú (caza de camélidos)."
+    "ex": "Las cuevas de Toquepala (en Tacna) y Lauricocha (en Huánuco) contienen las pinturas rupestres más importantes del Perú. Toquepala es célebre por sus escenas de caza ('chaku')."
   },
   {
     "id": 23,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Los vestigios líticos del hombre de Paccaicasa se encuentran en:",
-    "o": ["Cusco", "Tacna", "Ayacucho", "La Libertad", "Huancavelica"],
+    "tema": "Culturas Preincas",
+    "p": "los vestigios arqueológicos del hombre paccaicasa se encuentra ubicado en el departamento de:",
+    "o": ["cusco", "Tacna", "Ayacucho", "la libertad Trujillo", "Huancavelica"],
     "r": 2,
-    "ex": "Fueron hallados por Richard MacNeish en la cueva de Piquimachay, Ayacucho."
+    "ex": "Los restos líticos atribuidos al hombre de Paccaicasa, considerados por mucho tiempo los más antiguos del Perú, fueron hallados por Richard MacNeish en la cueva de Piquimachay, en el departamento de Ayacucho."
   },
   {
     "id": 24,
     "curso": "Historia",
-    "tema": "Civilizaciones",
-    "p": "La importancia del inicio de la gran cultura andina y civilización corresponde a:",
-    "o": ["Caral", "Paccaicasa", "Chivateros", "Toquepala", "Santo Domingo"],
+    "tema": "Culturas Preincas",
+    "p": "es la importancia donde se inicia la gran cultura andina corresponde al hombre de:",
+    "o": ["caral", "paccaicasa", "chivateros", "toquepala", "santo domingo"],
     "r": 0,
-    "ex": "Caral es la civilización más antigua de América, marcando el inicio de la complejidad social en los Andes."
+    "ex": "Caral es considerada la cuna de la civilización andina. Su desarrollo, con arquitectura monumental, organización social compleja y agricultura planificada, marca el inicio de las altas culturas en el Perú, mucho antes que Chavín."
   },
   {
     "id": 25,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Se considera el poblador más antiguo de la COSTA peruana a:",
-    "o": ["Paccaicasa", "Guitarreros", "Toquepala", "Chivateros", "Las Aldas"],
+    "tema": "Culturas Preincas",
+    "p": "la importancia que se considera el poblador mas antiguo de la costa peruana corresponde a:",
+    "o": ["paccaicasa", "guitarreros", "toquepala", "chivateros", "las aldas"],
     "r": 3,
-    "ex": "Chivateros (Río Chillón, Lima) es un inmenso taller lítico considerado el vestigio más antiguo de la costa."
+    "ex": "El hombre de Chivateros, cuyos vestigios se encontraron cerca de la desembocadura del río Chillón (Lima), es considerado el poblador más antiguo de la costa peruana, conocido por su enorme taller de industria lítica."
   },
   {
     "id": 26,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Rafael Larco Hoyle hizo estudios importantes sobre el hombre de:",
-    "o": ["Piquimachay", "Lauricocha", "Paiján", "Paccaicasa", "Chivateros"],
+    "tema": "Culturas Preincas",
+    "p": "Rafael Larco Hoyle hizo estudios sobre el hombre de:",
+    "o": ["piquimachay", "lauricocha", "paijan", "paccaicasa", "chivateros"],
     "r": 2,
-    "ex": "Larco Hoyle investigó el complejo Paijanense en la costa norte."
+    "ex": "El arqueólogo peruano Rafael Larco Hoyle realizó importantes estudios sobre las culturas de la costa norte del Perú. Aunque es más conocido por su trabajo en las culturas Moche y Cupisnique, también investigó los complejos líticos de la tradición Paijanense."
   },
   {
     "id": 27,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
+    "tema": "Culturas Preincas",
     "p": "Richard Mac Neish hizo estudios sobre el hombre de:",
-    "o": ["Paccaicasa y Piquimachay", "Guitarreros y Chilca", "Chivateros y Paijan", "Paracas y Chavin", "Wari y Tiawanaku"],
+    "o": ["paccaicasa, piquimachay", "guitarreros, Chilca", "chivateros, Paijan", "paracas, Chavin", "wari, Tiawanaku"],
     "r": 0,
-    "ex": "Mac Neish dirigió el Proyecto Arqueológico Botánico Ayacucho, descubriendo Paccaicasa."
+    "ex": "Richard MacNeish es famoso por su proyecto arqueológico en Ayacucho, donde estudió una larga secuencia ocupacional en cuevas como Piquimachay, identificando los restos líticos del llamado complejo Paccaicasa."
   },
   {
     "id": 28,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Son los primeros habitantes considerados Domesticadores del perro:",
-    "o": ["Chivateros", "Chilca", "Guitarreros", "Santo Domingo", "Cerro Paloma"],
-    "r": 1,
-    "ex": "En Chilca se hallaron entierros humanos asociados a perros domesticados."
+    "tema": "Culturas Preincas",
+    "p": "dentro del periodo de los Horticultores, estudiado por Tomas Lynch y son considerados como los primeros horticultores del Perú corresponden al hombre de:",
+    "o": ["guitarrero", "chilca", "paijan", "santo domingo", "toque pala"],
+    "r": 0,
+    "ex": "El arqueólogo Thomas Lynch estudió la cueva de Guitarrero en Áncash, donde descubrió evidencias de domesticación de plantas como frijoles y ají, convirtiéndolo en el primer horticultor (agricultor incipiente) registrado en el Perú."
   },
   {
     "id": 29,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Corresponden al periodo de los sedentarios agricultores (Arcaico Tardío):",
-    "o": ["Lurín, Huaca prieta, Kotosh, Las Aldas, Cerro Paloma", "Guitarreros, Santo Domingo...", "Paccaicasa, Chivateros...", "Chavín, Paracas...", "Lurín, Paiján..."],
-    "r": 0,
-    "ex": "Todos estos sitios muestran arquitectura estable y agricultura, rasgos del sedentarismo."
+    "tema": "Culturas Preincas",
+    "p": "son los primeros habitantes de la cultura andina considerados Domesticadores del perro corresponde al hombre de:",
+    "o": ["chivateros", "chilca", "guitarreros", "santo domingo", "cerro paloma"],
+    "r": 1,
+    "ex": "En las aldeas de Chilca, que datan del Arcaico Tardío, se han encontrado entierros humanos junto a perros, lo que evidencia la domesticación de este animal, que era utilizado tanto para la caza como para compañía."
   },
   {
     "id": 30,
     "curso": "Historia",
-    "tema": "Primitivos y Arcaico",
-    "p": "Los hombres seminómadas de Piquimachay evidenciaron la primera domesticación de:",
-    "o": ["Llama", "Pesca con red", "Entierros", "Perro", "Cuyes"],
-    "r": 4,
-    "ex": "En la fase Piquimachay se encontraron coprolitos y huesos de cuy domesticado."
+    "tema": "Culturas Preincas",
+    "p": "en la formación de la cultura andina peruana corresponden al periodo de los sedentarios agricultores los hombres de:",
+    "o": ["Lurín, Huaca prieta, kotosh, las aldas, cerro paloma", "guitarreros, santo Domingo, chilca,piquimachay, telarmachay", "paccaicasa, chivateros,toquepala, lauricocha, paijan", "chavin, paracas,chancas", "Lurin, paijan, toquepala, chilca"],
+    "r": 0,
+    "ex": "Todos los sitios mencionados en la opción 'a' pertenecen al Arcaico Tardío, caracterizado por el sedentarismo, la construcción de los primeros centros ceremoniales (Kotosh, Aldas), aldeas (Cerro Paloma, Huaca Prieta) y una agricultura desarrollada."
   },
   {
     "id": 31,
     "curso": "Historia",
-    "tema": "Civilizaciones",
-    "p": "Es considerada la civilización más antigua del Perú y América:",
-    "o": ["Chavín", "Paccaicasa", "Caral", "Inca", "Nazca"],
-    "r": 2,
-    "ex": "Caral (Supe) tiene 5000 años de antigüedad, contemporánea a Mesopotamia."
+    "tema": "Culturas Preincas",
+    "p": "Los primeros hombres seminomadas de Piquimachay evidenciaron:",
+    "o": ["primera domesticacion de la llama y alpaca", "la pesca con red", "Entierro de cadaveres aplastados con piedra", "domesticacion del perro", "primera domesticación de cuyes"],
+    "r": 4,
+    "ex": "En la fase II de Piquimachay (Ayacucho), que corresponde al Arcaico Temprano, se encontraron evidencias de la domesticación del cuy, siendo uno de los primeros animales domesticados en los Andes. La domesticación de camélidos (llama y alpaca) se evidencia más claramente en Telarmachay (Junín)."
   },
   {
     "id": 32,
     "curso": "Historia",
-    "tema": "Civilizaciones",
-    "p": "Ruth Shady descubrió Caral tomando en cuenta la prospección anterior de:",
-    "o": ["Manuel Merino", "Manuel Chavez", "Max Uhle", "Paul Kosok y Mejia Xesspe", "Rosa Fung"],
-    "r": 3,
-    "ex": "Paul Kosok y Mejía Xesspe habían visitado el sitio antes, aunque Shady reveló su antigüedad."
+    "tema": "Culturas Preincas",
+    "p": "la Dra Josefina Ramos de Cox,en sus estudios que realiza a los hombres de Lurin, manifiesta que fueron:",
+    "o": ["pobladores estables e iniciadores de la arquitectura", "primeros ceramistas", "sociedad que practicaba ritos y ceremonias a la tierra", "sociedad basado en la agricultura", "socieda militarista"],
+    "r": 0,
+    "ex": "Josefina Ramos de Cox estudió los restos de Tablada de Lurín, identificando una aldea de pobladores sedentarios del Arcaico Tardío con viviendas semisubterráneas, lo que los posiciona como iniciadores de la arquitectura comunal en la costa central."
   },
   {
     "id": 33,
     "curso": "Historia",
-    "tema": "Civilizaciones",
-    "p": "Caral tuvo un gobierno de carácter:",
-    "o": ["Militarista", "Teocrático no militarizado", "Democrático", "Imperial", "Nómada"],
-    "r": 1,
-    "ex": "No hay armas ni murallas en Caral. Su poder se basaba en la religión y el conocimiento (Teocracia)."
+    "tema": "Culturas Preincas",
+    "p": "sociedad que es considerado como los primeros maestros del arte textil, por que elaboraron \"el primer condor andino\" dicha manifestacion corresponde a los hombres de:",
+    "o": ["Paccaicasa", "Lurin", "Huaca Prieta", "Kotosh", "Aldas"],
+    "r": 2,
+    "ex": "Los habitantes de Huaca Prieta (La Libertad) son reconocidos por su avanzada textilería en algodón. Su hallazgo más famoso es un tejido que representa a un cóndor con una serpiente en su estómago, considerado una de las primeras representaciones iconográficas complejas del mundo andino."
   },
   {
     "id": 34,
     "curso": "Historia",
     "tema": "Culturas Preincas",
-    "p": "Las culturas pre-incas correspondientes al Horizonte Temprano son:",
-    "o": ["Nazca-Paracas", "Chavín-Paracas", "Tiawanaku-Wari", "Chancas-Mochica", "Mochica-Nazca"],
-    "r": 1,
-    "ex": "El Horizonte Temprano está dominado por la influencia de Chavín y el surgimiento de Paracas."
+    "p": "de acuerdo a los estudios de Julio C. Tello, fue la primera sociedad agricola que practicaba ritos y ceremonias a la tierra, corresponde a los hombres de:",
+    "o": ["Huaca Prieta", "Guitarrero", "Santo Domingo", "Kotosh", "caral"],
+    "r": 3,
+    "ex": "Aunque la pregunta atribuye el estudio a Tello (quien estudió muchas culturas), el sitio de Kotosh (Huánuco) es famoso por su Templo de las Manos Cruzadas, que evidencia una sociedad agrícola con una religión organizada y ritos ceremoniales complejos en el Arcaico Tardío."
   },
   {
     "id": 35,
     "curso": "Historia",
     "tema": "Culturas Preincas",
-    "p": "Considerada una sociedad teocrática dirigida por sacerdotes astrónomos:",
-    "o": ["Chavín", "Nazca", "Vicos", "Chancas", "Mochica"],
-    "r": 0,
-    "ex": "Chavín de Huántar fue un oráculo andino controlado por sacerdotes que predecían el clima."
+    "p": "Es Considerada la civilización más antigua del Perú y América:",
+    "o": ["Chavín", "paccaicasa", "Caral", "Inca", "Nazca"],
+    "r": 2,
+    "ex": "Caral, con más de 5000 años de antigüedad, es reconocida como la civilización más antigua de América. Su desarrollo fue contemporáneo a las grandes civilizaciones de Mesopotamia y Egipto."
   },
   {
     "id": 36,
     "curso": "Historia",
     "tema": "Culturas Preincas",
-    "p": "La trepanación craneana es una manifestación cultural destacada de:",
-    "o": ["Chavín", "Paracas", "Mochica", "Wari", "Nazca"],
-    "r": 1,
-    "ex": "Paracas (especialmente Necrópolis) realizó las cirugías craneales más avanzadas de América."
+    "p": "la arqueologa Ruht Shady descubrio Caral, tomando en cuenta la prospeccion de sitiios arqueologicos de:",
+    "o": ["Manuel Merino y Carlos Williams", "Manuel Chavez y Barreda Murillo", "Max Uhle y Julio C tello", "Paul Kosok y Mejia Xesspe", "Manuel Merino y Rosa Fung"],
+    "r": 3,
+    "ex": "Ruth Shady inició su proyecto en Caral basándose en prospecciones anteriores. Paul Kosok había identificado el sitio en los años 40, y Toribio Mejía Xesspe también lo mencionó. Sin embargo, fue Shady quien reconoció su verdadera antigüedad e importancia y comenzó las excavaciones sistemáticas."
   },
   {
     "id": 37,
     "curso": "Historia",
     "tema": "Culturas Preincas",
-    "p": "La Huaca del Sol, dedicada al dios Ai Apaec, pertenece a la cultura:",
-    "o": ["Chavín", "Nazca", "Mochica", "Wari", "Chimú"],
+    "p": "Históricamente la sociedad Caral alcanzó el nivel de civilizacion dentro del periodo arcaico:",
+    "o": ["Medio", "Inferior", "superior", "Temprano", "post-temprano"],
     "r": 2,
-    "ex": "Los moches construyeron las inmensas Huacas del Sol y de la Luna en adobe."
+    "ex": "El Arcaico se divide en Inferior (o Temprano) y Superior (o Tardío). Caral pertenece al Arcaico Superior o Tardío (aprox. 3000 - 1800 a.C.), período en que surgen la arquitectura monumental, la agricultura desarrollada y la organización social compleja, es decir, la civilización."
   },
   {
     "id": 38,
     "curso": "Historia",
-    "tema": "Incas",
-    "p": "La conquista de los Chimú por los Quechuas se produce bajo el mando de:",
-    "o": ["Tupac Inca Yupanqui", "Huayna Qhapaq", "Tiucusi Yupanqui", "Sayritupac", "YawarHuacac"],
+    "tema": "Culturas Preincas",
+    "p": "Sociedad que eran especialistas en técnicas agrícolas de producción y organización del trabajo colectivo. Corresponde a:",
+    "o": ["Caral", "paccaicasa", "chavín", "piquimachay", "paracas"],
     "r": 0,
-    "ex": "Túpac Yupanqui, como auqui (príncipe) de Pachacútec, conquistó el norte y derrotó a Minchancaman."
+    "ex": "La civilización de Caral basó su poder en una economía agrícola sólida, con una avanzada organización del trabajo colectivo para construir canales de riego y preparar campos de cultivo, lo que les permitió generar excedentes para sostener a su élite y trabajadores."
   },
   {
     "id": 39,
     "curso": "Historia",
-    "tema": "Incas",
-    "p": "El mito de los Pururaucas (soldados de piedra) surge en la guerra entre:",
-    "o": ["Chimu - Quechua", "Quechua - Wari", "Chanca - Wari", "Chancas - Quechuas", "Quechuas - Aymaras"],
-    "r": 3,
-    "ex": "Cuenta la leyenda que las piedras se volvieron soldados para ayudar a Cusi Yupanqui (Pachacútec) contra los Chancas."
+    "tema": "Culturas Preincas",
+    "p": "Tuvieron un gobierno de carácter teocrático más no militarizado, corresponde a la civilización:",
+    "o": ["chivateros", "Caral", "paracas", "paccaicasa", "Nazca"],
+    "r": 1,
+    "ex": "La evidencia arqueológica en Caral (ausencia de armas, murallas defensivas y cuerpos con signos de violencia) sugiere que su gobierno era teocrático, dirigido por sacerdotes-astrónomos que basaban su poder en el conocimiento y la religión, no en la fuerza militar."
   },
   {
     "id": 40,
     "curso": "Historia",
-    "tema": "Incas",
-    "p": "En la máxima expansión inca, el límite norte (río Ancasmayo) pertenecía al:",
-    "o": ["Collasuyu", "Antisuyu", "Cuntisuyu", "Chinchaysuyu", "Qhapaq Ñan"],
+    "tema": "Culturas Preincas",
+    "p": "las culturas pre-incas correspondientes al Horizonte temprano son:",
+    "o": ["nazca-paracas", "Chavín- paracas", "tiawanaku - wari", "chancas mochica"],
+    "r": 1,
+    "ex": "El Horizonte Temprano (o Primer Horizonte) es el período de hegemonía cultural de Chavín en gran parte de los Andes. La cultura Paracas se desarrolló en la fase final de este horizonte, mostrando una fuerte influencia chavinoide en su fase inicial (Cavernas)."
+  },
+  {
+    "id": 41,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "considerada una sociedad teocrática y dirigida por sacerdotes astrónomos. Corresponde a:",
+    "o": ["Chavín", "Nazca", "Vicos", "chancas", "Mochica"],
+    "r": 0,
+    "ex": "La cultura Chavín representa el arquetipo de un estado teocrático. Su poder no se basaba en un ejército, sino en el prestigio de su religión y sus sacerdotes, quienes a través de sus conocimientos astronómicos controlaban el calendario agrícola y la vida de las comunidades."
+  },
+  {
+    "id": 42,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Pacopampa y Kunturwasi ubicados en Cajamarca corresponden a la manifestación arquitectónica de la cultura:",
+    "o": ["chavin", "paracas", "nazca", "tiawanaku", "wari"],
+    "r": 0,
+    "ex": "Pacopampa y Kuntur Wasi son dos importantes centros ceremoniales ubicados en Cajamarca que presentan una clara influencia arquitectónica e iconográfica de la cultura Chavín, demostrando la amplia difusión de su culto."
+  },
+  {
+    "id": 43,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "la manifestación cultural de la trepanación craneana corresponde a la cultura",
+    "o": ["chavín", "paracas", "mochica", "wari", "nazca"],
+    "r": 1,
+    "ex": "La cultura Paracas, especialmente en su fase Necrópolis, es mundialmente conocida por haber practicado trepanaciones craneanas con un alto grado de éxito y sofisticación técnica, utilizando herramientas de obsidiana y anestésicos como la coca y el alcohol."
+  },
+  {
+    "id": 44,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "en la cultura paracas usaron la coca como anestésicos para intervenir heridas, tumores, y esto eran hechas por cirujanos especializados, quienes quitaban fragmentos del cráneo y lo remplazaban por láminas de oro y plata. Corresponde a:",
+    "o": ["trepanaciones craneanas", "deformaciones craneanas", "curaciones de heridas después de la guerra", "medicina tradicional", "fisioterapia andina"],
+    "r": 0,
+    "ex": "La descripción corresponde exactamente al procedimiento de las trepanaciones craneanas, una práctica médica avanzada de la cultura Paracas para tratar traumatismos craneales y tumores. Utilizaban anestesia y reemplazaban el hueso extraído con placas de metal."
+  },
+  {
+    "id": 45,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La Huaca del Sol; dedicado al culto de su dios AIAPAEC corresponde a la manifestacion arquitectonica de:",
+    "o": ["chavín", "nazca", "mochica", "wari", "chimú"],
+    "r": 2,
+    "ex": "La Huaca del Sol, junto con la Huaca de la Luna, fue el centro de poder de la cultura Moche en el valle del mismo nombre. Esta imponente pirámide de adobe estaba dedicada a las actividades administrativas y al culto de su deidad principal, Ai Apaec (El Hacedor)."
+  },
+  {
+    "id": 46,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "las construcciones de chongo yape, paccopampa y kunturwasi corresponde a la arquitectura de la cultura pre- inca de:",
+    "o": ["Chimú", "Wari", "Chavin", "Chancas", "Paracas"],
+    "r": 2,
+    "ex": "Chongoyape (Lambayeque), Pacopampa y Kuntur Wasi (Cajamarca) son centros ceremoniales que, a pesar de estar fuera del área central de Chavín de Huántar, muestran una fuerte influencia de su estilo arquitectónico y religioso, evidenciando la expansión de esta cultura durante el Horizonte Temprano."
+  },
+  {
+    "id": 47,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "eran tumbas subterráneas en forma de copa invertida que tenian la forma de una botella con base ancha. Corresponde a:",
+    "o": ["paracas necrópolis", "paracas cavernas", "paracas arcaicas", "paracas lítica", "arquitectura paracas"],
+    "r": 1,
+    "ex": "La descripción coincide perfectamente con el patrón funerario de Paracas Cavernas. Las tumbas eran pozos profundos que se ensanchaban en una cámara subterránea, asemejando una copa invertida o una botella, donde se depositaban múltiples fardos funerarios."
+  },
+  {
+    "id": 48,
+    "curso": "Historia",
+    "tema": "Cultura Inca",
+    "p": "El último gobernante de la cultura chimú, conquistado por los quechuas fue:",
+    "o": ["Naylanp", "Uscovillca", "Ancovillca", "Minchancaman", "Tacaynamo"],
     "r": 3,
-    "ex": "El Chinchaysuyu fue la región norte y la más importante del Tahuantinsuyo."
+    "ex": "Minchancaman fue el último gran 'Cie-quich' o rey del Imperio Chimú. Durante su gobierno, el Tahuantinsuyo, bajo el mando del auqui (príncipe) Túpac Inca Yupanqui, conquistó el reino Chimú alrededor del año 1470."
+  },
+  {
+    "id": 49,
+    "curso": "Historia",
+    "tema": "Cultura Inca",
+    "p": "la conquista de los chimú por los Quechuas se produce en el gobierno de:",
+    "o": ["Tupac Inca Yupanqui", "Huayna Qhapaq", "Tiucusi Yupanqui", "Sayritupac", "YawarHuacac"],
+    "r": 0,
+    "ex": "Aunque la conquista ocurrió durante el reinado del Inca Pachacútec, la campaña militar que doblegó al poderoso reino Chimú fue dirigida por su hijo y heredero, el príncipe Túpac Inca Yupanqui, quien se destacaría como el mayor conquistador inca."
+  },
+  {
+    "id": 50,
+    "curso": "Historia",
+    "tema": "Cultura Inca",
+    "p": "los restos arqueologicos de: Fortaleza de sondor.inti huatana en uranmarca y el centro metalurgicode curamba. Se encuentran en:",
+    "o": ["Andahuaylas", "Cusco", "Arequipa", "Huancavelica", "Ayacucho"],
+    "r": 0,
+    "ex": "Todos estos sitios arqueológicos (Sondor, Intihuatana de Uranmarca, Curamba) son emblemáticos de la cultura Chanca y se encuentran en el actual departamento de Apurímac, cuya capital es Andahuaylas, corazón del territorio Chanca."
+  },
+  {
+    "id": 51,
+    "curso": "Historia",
+    "tema": "Cultura Inca",
+    "p": "el mito de los pururaucas (soldados de piedra) surge en la pelea disputada entre las culturas de:",
+    "o": ["chimu - quechua", "quechua wari", "chancawari", "chancas quechuas", "quechuas - aymaras"],
+    "r": 3,
+    "ex": "La leyenda de los Pururaucas narra que durante la batalla decisiva entre los Chancas y los Incas (Quechuas) por el control del Cusco, el dios Sol hizo que las piedras del campo de batalla se convirtieran en soldados para ayudar a los Incas a obtener la victoria."
+  },
+  {
+    "id": 52,
+    "curso": "Historia",
+    "tema": "Cultura Inca",
+    "p": "en su extensión territorial de la cultura inca el suyu que abarco hasta el rio ancasmayo, en pasto Colombia es el:",
+    "o": ["Collasuyu", "Antisuyu", "Cuntisuyu", "Chinchaysuyu", "Qhapaq ñan"],
+    "r": 3,
+    "ex": "El Chinchaysuyu era la región noroccidental del Tahuantinsuyo, la más poblada e importante. Su límite norte se estableció en el río Ancasmayo, en la actual frontera entre Ecuador y Colombia (región de Pasto)."
+  },
+  {
+    "id": 53,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los gobernantes del periodo legendario en la evolución Historica de los incas son considerados como:",
+    "o": ["Qhapaq", "Kurakas", "Reyes", "Incas míticos", "Sinchis"],
+    "r": 3,
+    "ex": "El Período Legendario o Curacal incluye a los dos primeros gobernantes, Manco Cápac y Sinchi Roca. Su existencia se conoce principalmente a través de mitos y leyendas transmitidos por tradición oral, por lo que la historiografía los considera 'Incas míticos'."
+  },
+  {
+    "id": 54,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los gobernantes incas: Lloque Yupanqui, MaytaCapac, Capac Yupanqui, Inka Roca, YawarHuacac y Wiracocha, y considerados Sinchis corresponden al periodo de:",
+    "o": ["Legendarios", "Imperial", "Regional o de confederación", "Decadencia", "Resistencia andina"],
+    "r": 2,
+    "ex": "Estos Incas gobernaron durante el Período Regional o de la Confederación Cusqueña. En esta etapa, los incas dejaron de ser un simple curacazgo para formar alianzas con pueblos vecinos y consolidar su dominio en el valle del Cusco, liderados por jefes guerreros o 'Sinchis'."
+  },
+  {
+    "id": 55,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Gobernantes considerados como incas Históricos, corresponde al periodo:",
+    "o": ["Imperial", "Legendarios", "Regional o de confederación", "Decadencia", "Resistencia andina"],
+    "r": 0,
+    "ex": "Los Incas Históricos son aquellos cuya existencia está corroborada por fuentes más allá de la leyenda, como crónicas y evidencia arqueológica. Este grupo corresponde al Período Imperial e incluye a Pachacútec, Túpac Inca Yupanqui y Huayna Cápac, los grandes constructores del Tahuantinsuyo."
+  },
+  {
+    "id": 56,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "en el proceso historico de los incas que comprende el Periodo de la expansión y apogeo uno de los gobernantes fue:",
+    "o": ["Tupac Inca Yupanqui", "Tupac Amaru", "Tiucusi Yupanqui", "Sayritupac", "Yawar Huacac"],
+    "r": 0,
+    "ex": "El Período Imperial o de Expansión y Apogeo fue liderado por tres grandes incas: Pachacútec (quien lo inició), Túpac Inca Yupanqui (el mayor conquistador) y Huayna Cápac (quien consolidó y alcanzó la máxima expansión)."
+  },
+  {
+    "id": 57,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los incas de Vilca bamba en la evolución Histórica de los incas corresponde a la etapa de:",
+    "o": ["Decadencia", "Resistencia andina", "Imperial", "Legendario", "Confederación inca - quechua"],
+    "r": 1,
+    "ex": "Tras la invasión española, una facción de la nobleza inca liderada por Manco Inca se refugió en la selva de Vilcabamba, desde donde organizaron una prolongada resistencia contra los conquistadores. Esta etapa es conocida como la Resistencia Andina."
+  },
+  {
+    "id": 58,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Restos de hilos de algodón, mate, mazo de madera, percutor lítico, fragmentos de estatuillas de arcilla, plomada lítica y flautas de hueso, fueron hallados en:",
+    "o": ["guitarrero.", "chilca.", "lurín.", "aldas.", "caral"],
+    "r": 4,
+    "ex": "Esta variada colección de artefactos, que evidencia una compleja vida social, económica y ceremonial, fue hallada en la Ciudad Sagrada de Caral. Destacan las flautas traversas hechas de huesos de cóndor y pelícano, que indican una sofisticada práctica musical."
+  },
+  {
+    "id": 59,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "En la provincia de Huari, distrito de Huantar a orillas del río Mosna, se halla la capital de la cultura.",
+    "o": ["paracas", "nazca", "chavin", "chimu", "wari"],
+    "r": 2,
+    "ex": "La descripción geográfica corresponde de manera exacta a la ubicación del centro ceremonial de Chavín de Huántar, considerado el núcleo y capital de la cultura Chavín durante el Horizonte Temprano."
+  },
+  {
+    "id": 60,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "No fue una de las edificaciones de los Mochica, la huaca:",
+    "o": ["rajada.", "del sol.", "de la luna.", "de cao.", "de cantalloc"],
+    "r": 4,
+    "ex": "Las huacas Rajada (Sipán), del Sol, de la Luna y de Cao (El Brujo) son importantes centros ceremoniales de la cultura Mochica. En cambio, los acueductos de Cantalloc son una obra de ingeniería hidráulica perteneciente a la cultura Nazca."
+  },
+  {
+    "id": 61,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Las pinturas murales de los Mochica, principalmente se hallan en:",
+    "o": ["pacopampa y kunturwasi.", "chongoyape.", "cahuachi.", "anfiteatro anatómico de sechín.", "el brujo y pañamarca"],
+    "r": 4,
+    "ex": "Los complejos arqueológicos de Huaca de la Luna, El Brujo (Huaca Cao Viejo) y Pañamarca son famosos por conservar impresionantes murales polícromos que representan deidades como Ai Apaec, ceremonias, guerreros y prisioneros de la cultura Moche."
+  },
+  {
+    "id": 62,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La máxima autoridad de la Nobleza aristocrática de los Mochica, se Ilamaba:",
+    "o": ["aia paec.", "wiracocha.", "alaex.", "cie qich.", "sacerdote"],
+    "r": 3,
+    "ex": "La sociedad Moche era un estado gobernado por una élite de reyes-sacerdotes. La máxima autoridad de cada valle o reino mochica recibía el título de 'Cie-quich'. El 'Alaec' era un gobernante de menor rango, subordinado al Cie-quich."
+  },
+  {
+    "id": 63,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Los mejores orfebres del Perú, fueron los:",
+    "o": ["paracas", "chimú.", "mochica.", "nasca.", "wari"],
+    "r": 1,
+    "ex": "Aunque los Moche fueron excelentes orfebres, la tradición fue perfeccionada por las culturas Sicán y Chimú. Los Chimú son considerados los más grandes maestros en metalurgia del Perú antiguo, destacando por técnicas como la filigrana, el repujado y el uso de aleaciones como la tumbaga."
+  },
+  {
+    "id": 64,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "Al final del periodo formativo, como cultura puente o de transición entre Chavín y Nasca, los Paracas constituyeron un desarrollo cultural:",
+    "o": ["regional.", "continental.", "local.", "pan peruana.", "eminentemente andino"],
+    "r": 0,
+    "ex": "Paracas se desarrolló en la costa sur del Perú tras la decadencia de Chavín. Se clasifica dentro del Formativo Final, sirviendo de transición hacia los desarrollos regionales del Intermedio Temprano, como Nazca, y su influencia fue principalmente regional."
+  },
+  {
+    "id": 65,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La sociedad Nasca tuvo un Estado de Carácter:",
+    "o": ["únicamente teocrática.", "teocrático militarista.", "pacifista", "heliolátrica hereditaria.", "seminómada."],
+    "r": 1,
+    "ex": "La sociedad Nazca era una teocracia, gobernada por una casta de sacerdotes. Sin embargo, también era militarista, como lo demuestran las representaciones de 'cabezas trofeo' en su cerámica y la existencia de fortificaciones, indicando una sociedad guerrera."
+  },
+  {
+    "id": 66,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La agricultura y pesca, acueductos, canales, reservorios, la cerámica fina policroma y la astronomía, corresponde a la cultura:",
+    "o": ["caral.", "chavín.", "paracas.", "mochica.", "nazca"],
+    "r": 4,
+    "ex": "Este conjunto de características describe perfectamente a la cultura Nazca. Son famosos por su avanzada ingeniería hidráulica (acueductos de Cantalloc), su cerámica polícroma (considerada la más pictórica) y su conocimiento astronómico (plasmado en las Líneas de Nazca)."
+  },
+  {
+    "id": 67,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La élite militar que gobernaba la sociedad Wari, apoyado por los sacerdotes y otras autoridades burocrática, fundaron varias ciudades cabezas de región, entre ellas Wiracochapampa y Wilkawain se ubican en:",
+    "o": ["lambayeque y cajamarca.", "la libertad y ancash.", "junín y moquegua.", "ayacucho y apurímac.", "cusco y arequipa"],
+    "r": 1,
+    "ex": "El imperio Wari estableció centros administrativos para controlar sus dominios. Wiracochapampa se ubica en el departamento de La Libertad y Wilkahuaín se encuentra en el departamento de Áncash, ambos importantes enclaves Wari en el norte."
+  },
+  {
+    "id": 68,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "según la Histoia oral la ciudad del qosqofue fundada por:",
+    "o": ["Sinchi roca", "Manco qhapaq", "MaytaQhapaq", "Qhapaq Yupanqui", "Lloque Yupanqui"],
+    "r": 1,
+    "ex": "Según las leyendas de origen de los Incas (tanto la de los Hermanos Ayar como la de Manco Cápac y Mama Ocllo), fue Manco Cápac quien, por designio divino, fundó la ciudad del Qosqo (Cusco) en el valle del río Huatanay."
+  },
+  {
+    "id": 69,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "el tawantinsuyu tuvo su área de localización en la parte occidental de América del sur. Su núcleo geográfico fue:",
+    "o": ["sierra sur, valle del cusco", "sierra central, valle del cusco", "sierra norte, valle del cusco", "sierra occidental valle del cusco", "sierra suroccidental, valle del cusco"],
+    "r": 0,
+    "ex": "El Imperio Inca o Tahuantinsuyo tuvo su origen y centro neurálgico en la ciudad del Cusco, ubicada en un valle fértil en la sierra sur de los Andes peruanos."
+  },
+  {
+    "id": 70,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los incas en su extensión territorial no llegaron a:",
+    "o": ["panamá", "ecuador", "Colombia", "Bolivia", "chile"],
+    "r": 0,
+    "ex": "El Tahuantinsuyo se extendió por los actuales territorios de Colombia, Ecuador, Perú, Bolivia, Chile y Argentina. Su límite norte fue el río Ancasmayo (Colombia) y nunca llegó a expandirse hasta Centroamérica (Panamá)."
+  },
+  {
+    "id": 71,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los incas derrotaron a los chankas en la batalla de :",
+    "o": ["Antapampa", "Antabamba", "Munaypampa", "Qoripampa", "Yawarpampa"],
+    "r": 4,
+    "ex": "La batalla decisiva, liderada por el príncipe Cusi Yupanqui (luego Pachacútec), ocurrió a las afueras de Cusco. Tras la victoria incaica, el lugar fue rebautizado como Yawarpampa, que significa 'pampa de sangre', en memoria del cruento combate."
+  },
+  {
+    "id": 72,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la región del chinchaysuyu está ubicada al.",
+    "o": ["suroeste", "noroeste", "sureste", "centro", "este"],
+    "r": 1,
+    "ex": "Tomando como centro la ciudad del Cusco, el Chinchaysuyu se extendía hacia el noroeste, abarcando la costa y sierra norte del Perú, Ecuador y el sur de Colombia."
+  },
+  {
+    "id": 73,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la capital del twantinsuyu fue la ciudad de:",
+    "o": ["Pisaq", "Qosqo", "Yucay", "Urcos", "Chinchero"],
+    "r": 1,
+    "ex": "La ciudad del Qosqo (Cusco) fue la capital política, administrativa y religiosa del Tahuantinsuyo, considerada el 'ombligo del mundo' por los incas."
+  },
+  {
+    "id": 74,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "en cuanto a la extensión y límites del tawantinsuyu, el chinchaysuyu abarco hasta:",
+    "o": ["rio ancasmayo", "rio Maule", "rio Rimac", "rio Biobio", "rio Orinoco"],
+    "r": 0,
+    "ex": "El límite norte del Tahuantinsuyo, y por ende del Chinchaysuyu, fue fijado durante el gobierno de Huayna Cápac en el río Ancasmayo, ubicado en el actual sur de Colombia."
+  },
+  {
+    "id": 75,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la región del Collasuyu estaba ubicada al......... ..De Qosqo",
+    "o": ["sureste", "este", "noroeste", "suroeste", "mas abajito del centro"],
+    "r": 0,
+    "ex": "Tomando como referencia Cusco, el Collasuyu se extendía hacia el sureste, abarcando la meseta del Collao (lago Titicaca), Bolivia, el noroeste de Argentina y el norte de Chile."
+  },
+  {
+    "id": 76,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "el país que no estuvo dentro del ámbito geografico del tawantinsuyu:",
+    "o": ["Venezuela", "chile", "peru", "ecuador", "argentina"],
+    "r": 0,
+    "ex": "El Imperio Incaico abarcó parte de los actuales territorios de Perú, Ecuador, Colombia, Bolivia, Argentina y Chile. Venezuela nunca formó parte del Tahuantinsuyo."
+  },
+  {
+    "id": 77,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la región del contisuyu estaba ubicada al.",
+    "o": ["suroeste", "noroeste", "este", "centro", "sureste"],
+    "r": 0,
+    "ex": "El Contisuyu era la región más pequeña del imperio. Se ubicaba al suroeste de Cusco, abarcando las regiones de la costa peruana desde Arequipa hasta Ica."
+  },
+  {
+    "id": 78,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "en el ámbito geográfico del tawantinsuyo, el collasuyu llego hasta rio Maule en:",
+    "o": ["Chile", "brasil", "Colombia", "argentina", "Bolivia"],
+    "r": 0,
+    "ex": "El límite sur del Tahuantinsuyo fue establecido en el río Maule, ubicado en la zona central del actual territorio de Chile, tras las campañas de Túpac Inca Yupanqui."
+  },
+  {
+    "id": 79,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la región del antisuyu estaba ubicada al......... De Qosqo",
+    "o": ["sureste", "noroeste", "este", "suroeste", "centro"],
+    "r": 2,
+    "ex": "El Antisuyu se extendía al este de Cusco. Comprendía los valles y selvas de la ceja de selva, una región desafiante y rica en recursos como la hoja de coca y plumas exóticas."
+  },
+  {
+    "id": 80,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "de los gobernantes uno de ellos pertenece al periodo de la confederación o regional:",
+    "o": ["Huascar", "Atawallpa", "Wiracocha", "Pachakuteq", "manco inca"],
+    "r": 2,
+    "ex": "Wiracocha fue el último gobernante del Período de la Confederación. Fue durante su gobierno que se produjo la invasión Chanca, evento que daría paso al ascenso de su hijo Pachacútec y al inicio del Período Imperial."
+  },
+  {
+    "id": 81,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Pachakuteq,tupac inca Yupanqui, Huayna Capac gobernaron el periodo imperial o de la expansión y son considerados como:",
+    "o": ["incas invencibles", "incas Historicos", "incas guerreros", "incas inmortales", "incas dominados"],
+    "r": 1,
+    "ex": "Estos tres emperadores (Pachacútec, Túpac Yupanqui y Huayna Cápac) corresponden a la fase Imperial. Son conocidos como los 'Incas Históricos' porque su existencia y sus grandes obras están bien documentadas por crónicas y arqueología, a diferencia de los gobernantes de períodos anteriores."
+  },
+  {
+    "id": 82,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "sayritupaq,titucusi Yupanqui, Felipe tupacamaru corresponden al periodo:",
+    "o": ["resistencia", "imperial", "legendario", "regional", "decadencia"],
+    "r": 0,
+    "ex": "Sayri Túpac, Titu Cusi Yupanqui y Túpac Amaru I (Felipe) fueron los cuatro Incas de Vilcabamba, quienes sucedieron a Manco Inca y lideraron la resistencia andina contra los españoles desde su refugio en la selva."
+  },
+  {
+    "id": 83,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "corresponde a la etapa final del tawantinsuyu caracterizada por la guerra civil entre Huascar y Atawallpa, corresponde al periodo:",
+    "o": ["resistencia", "Kuracal", "regional o de la confederación", "decadencia", "imperial"],
+    "r": 3,
+    "ex": "El período de la Decadencia del Imperio Inca se caracteriza por la crisis dinástica y la guerra civil entre los hermanos Huáscar y Atahualpa por la sucesión al trono de su padre, Huayna Cápac. Este conflicto debilitó fatalmente al imperio justo antes de la llegada de los españoles."
+  },
+  {
+    "id": 84,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "el inca YawarHuacac pertenece al periodo:",
+    "o": ["curacal", "regional", "imperial", "legendario", "decadencia"],
+    "r": 1,
+    "ex": "Yawar Huácac ('el que llora sangre') fue el séptimo gobernante y pertenece al Período Regional o de la Confederación Cusqueña. Su gobierno marcó una etapa de consolidación de poder local antes de la gran expansión."
+  },
+  {
+    "id": 85,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los incas lloque Yupanqui, maytaccapac.ссарас Yupanqui, inca roca, yawarhuacac,y wiracocha son considerados como:",
+    "o": ["sinchis", "incas Historicos", "curacas", "revolucionarios", "inmortales"],
+    "r": 0,
+    "ex": "Estos gobernantes del Período de la Confederación ostentaban principalmente el título de 'Sinchis', que significa jefe guerrero o líder militar. Esto refleja que su poder se basaba más en la capacidad militar para defender el valle y liderar alianzas que en un poder imperial consolidado."
+  },
+  {
+    "id": 86,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El periodo de decadencia de la historia de los incas:",
+    "o": ["Esta marcada por la sublevacion de Manco Inca y sus descendientes", "Revela la incapacidad de Wiraqocha para contrarestar el ataque de los chancas", "Representa el final de la resistencia andina al dominio extranjero", "Expresa el repliegue de la expansion inca hacia las regiones", "Se caracteriza por la disputa del trono de Huayna Capac por sus hijos Huascar y Atawallpa"],
+    "r": 4,
+    "ex": "La etapa de Decadencia se define por la crisis interna que estalló tras la muerte de Huayna Cápac. La lucha por el poder entre sus hijos Huáscar (heredero legítimo en Cusco) y Atahualpa (quien controlaba el ejército en el norte) sumió al imperio en una devastadora guerra civil."
+  },
+  {
+    "id": 87,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "Acontecimiento que obligó a los Europeos buscara nuevas rutas hacia las Indias en pleno siglo XV.",
+    "o": ["Caida de Roma", "Toma de Constantinopla", "Expulsion de los árabes de España", "Invencion de la Carabela", "Alianza politica de Castilla y Aragón"],
+    "r": 1,
+    "ex": "La toma de Constantinopla por los turcos otomanos en 1453 interrumpió la ruta comercial tradicional de Europa con Oriente (las Indias). Este bloqueo motivó a los reinos europeos, especialmente a Portugal y España, a buscar rutas alternativas por mar, impulsando la Era de los Descubrimientos."
+  },
+  {
+    "id": 88,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El periodo Imperial del incanato se inicia con:",
+    "o": ["Pachakuteq", "Manco Qhapaq", "Lloqe Yupanqui", "Huayna Qhapaq", "Atahuallpa"],
+    "r": 0,
+    "ex": "El Período Imperial del Tahuantinsuyo comienza con el ascenso de Cusi Yupanqui, quien, tras derrotar a los Chancas, asume el nombre de Pachacútec ('transformador del mundo') y emprende las grandes reformas y conquistas que dieron forma al imperio."
+  },
+  {
+    "id": 89,
+    "curso": "Historia",
+    "tema": "Culturas Preincas",
+    "p": "La cultura Nazca, a pesar de su entorno desertico, tuvo como principal actividad economica la agricultura. Esta cultura, desarrolló tecnologia hidraulica con el objetivo de:",
+    "o": ["Extraer agua del subsuelo para irrigar sus campos", "Usar sus espacios escarpados de las montañas para el cultivo.", "Introducir productos foraneos a su dieta tradicional", "Usar el agua de las lagunas para incrementar sus fronteras agricolas", "Recolectar agua para temporadas de sequia y distribuirlos entre los campesinos."],
+    "r": 0,
+    "ex": "Para practicar la agricultura en el desierto, los Nazca desarrollaron una sofisticada red de acueductos subterráneos, pozos y galerías filtrantes (puquios) para aprovechar el agua del subsuelo y de las capas freáticas, permitiéndoles irrigar sus campos durante todo el año."
+  },
+  {
+    "id": 90,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la organización social de los incas el ayllu en el que reconocía una paqarina en común, corresponde al vínculo por:",
+    "o": ["Idioma", "Religión", "Origen", "Territorio", "Tótem"],
+    "r": 2,
+    "ex": "El vínculo de origen era fundamental en el ayllu. Todos sus miembros se consideraban descendientes de un antepasado común, que podía ser mítico (tótem) o real, y provenientes de un mismo lugar sagrado de origen o 'paqarina'."
+  },
+  {
+    "id": 91,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la organización social de los incas el ayllu en el que rendían culto a sus Dioses comunes, corresponde al vínculo por:",
+    "o": ["Totem", "Territorio", "Origen", "Religión", "Idioma"],
+    "r": 3,
+    "ex": "El vínculo religioso unía a los miembros del ayllu a través del culto a las mismas deidades. Adoraban tanto al ancestro fundador (tótem) como a los dioses locales (apus) y principales del imperio (Sol, Wiracocha)."
+  },
+  {
+    "id": 92,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la organización social de los incas el ayllu en el que creian en un antepasado común, corresponde al vínculo por:",
+    "o": ["Religión", "Tótem", "Idioma", "Origen", "Economía"],
+    "r": 1,
+    "ex": "Este vínculo, a veces llamado 'vínculo de sangre' u 'origen', se basa en la creencia de descender de un antepasado común, ya sea una figura humana o un tótem (animal, planta o fenómeno natural), que actuaba como el progenitor del ayllu."
+  },
+  {
+    "id": 93,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la estratificacion social de la cultura inca, el Qhapaq y la Qoya conformaban la clase de la:",
+    "o": ["Nobleza", "Realeza", "Servidumbre", "Panaka", "Marka"],
+    "r": 1,
+    "ex": "La pirámide social inca estaba encabezada por la Realeza o Corte Imperial, compuesta por el Sapa Inca (Qhapaq) como máxima autoridad, la Coya (esposa principal) y sus hijos, incluyendo al príncipe heredero (Auqui)."
+  },
+  {
+    "id": 94,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Era considerado como príncipe heredero del gobierno en la cultura inca corresponde al.",
+    "o": ["Phiwichuri", "Auqui", "Aclla", "Amauta", "Sinchi"],
+    "r": 1,
+    "ex": "El Auqui era el príncipe heredero al trono inca. No era necesariamente el hijo mayor, sino el que demostraba mayores capacidades para gobernar. Era elegido por el Sapa Inca y co-gobernaba con él para ganar experiencia."
+  },
+  {
+    "id": 95,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El Phiwichuri y el Auqui dentro de la sociedad Inca, conformaban la clase social de la:",
+    "o": ["Nobleza", "Realeza", "Panaka", "Sociedad", "Marka"],
+    "r": 1,
+    "ex": "Tanto el Auqui (príncipe heredero) como el Phiwichuri (hijo primogénito, no necesariamente el heredero) eran hijos del Sapa Inca y, por lo tanto, formaban parte del estrato más alto de la sociedad: la Realeza."
+  },
+  {
+    "id": 96,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Los jefes de los pueblos conquistados integrados al tawantinsuyu pasaban a constituír la nobleza:",
+    "o": ["Regional", "Por Privilrgios", "De Sangre", "Advenediza", "Sindicalista"],
+    "r": 3,
+    "ex": "La nobleza advenediza o provincial estaba conformada por los curacas y jefes de los pueblos conquistados pacíficamente. El Inca les permitía mantener su cargo a cambio de su lealtad, integrándolos así a la estructura de poder imperial."
+  },
+  {
+    "id": 97,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la estratificacion social inca, la nobleza de sangre se caracterizo por ser:",
+    "o": ["Ascendientes Y Descendientes De La Coya Y Del Qhapaq", "Ascendidos Por Sus Méritos Propios", "Jefes De Los Pueblos Conquistados", "Eran Elegidos Por El Qhapaq A Dedo", "Correspondientes A La Panaka Real"],
+    "r": 4,
+    "ex": "La nobleza de sangre estaba integrada por todos los parientes directos del Inca reinante y los miembros de las panacas, que eran los linajes de los Incas anteriores. Constituían la élite cusqueña con lazos sanguíneos con el poder."
+  },
+  {
+    "id": 98,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Dentro de la movilidad social inca, eran ascendidos por sus méritos, corresponde a la nobleza:",
+    "o": ["Regional", "Por Privilegio", "De Sangre", "Por Parentesco", "Local"],
+    "r": 1,
+    "ex": "La nobleza de privilegio o recompensada estaba formada por individuos del pueblo (hatun runas) que eran ascendidos a nobles por el Inca como premio a sus grandes servicios al Estado, ya sea por actos militares, administrativos o de otro tipo."
+  },
+  {
+    "id": 99,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la sociedad Inca, los Mitimaes de Conquista se caracterizo por:",
+    "o": ["ser pueblos premiados por sus logros", "ser Pueblos trasladados a las fronteras del tawantinsuyu en crecimiento o expansión", "ser pueblos trasladados a lugares diametralmente opuestos", "ser pueblos que recibian mayor cantidad de bienes redistribuidos", "ser pueblos que se encargaron a la domesticacion exclusiva de vicuñas y llamas"],
+    "r": 1,
+    "ex": "Los mitimaes o mitmaqkuna eran grupos humanos trasladados por el Estado. Los de conquista eran pueblos leales y cusqueñizados que se enviaban a las fronteras recién conquistadas para asegurar el control militar y difundir la cultura inca."
+  },
+  {
+    "id": 100,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Para la conquista de los pueblos por parte de la cultura inca utilizaron dos medios que son:",
+    "o": ["la persuacion y convencimiento", "el convencimiento y ruego", "la persuacion y pulseo", "el chantaje y extorsion", "el soborno y coima"],
+    "r": 0,
+    "ex": "Los incas privilegiaban la conquista pacífica. Primero, enviaban una embajada para persuadir al pueblo de someterse voluntariamente, ofreciéndoles mantener a sus autoridades y respetar sus costumbres a cambio de lealtad. Solo si esta vía fallaba, recurrían a la conquista militar."
+  },
+  {
+    "id": 101,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "en la sociedad Inca eran pueblos trasladado a lugares despoblados y de muy baja producción del tawantinsuyu corresponde a mitimaes de:",
+    "o": ["colonización", "conquista", "castigo", "imperio", "apoyo"],
+    "r": 2,
+    "ex": "Los mitimaes de castigo eran pueblos rebeldes que eran trasladados lejos de sus lugares de origen, a zonas inhóspitas o junto a poblaciones leales al Inca. Esta medida buscaba romper sus lazos comunitarios y prevenir futuras sublevaciones."
+  },
+  {
+    "id": 102,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la organización política del estado inca, se caracterizo por ser:",
+    "o": ["monárquica-absolutista, teocrática-militarista, hereditaria y centralista", "hereditaria, centralista, teocrática y localista", "democrática, absolutista, centralista y regional", "monárquica, descentralista, nacional y hereditaria", "regional, descentralista, teocrática y hereditaria"],
+    "r": 0,
+    "ex": "El Estado Inca reunía todas estas características: era una Monarquía (poder en el Inca), Absolutista (voluntad del Inca era ley), Teocrático (el Inca era hijo del Sol), Militarista (ejército fundamental), Hereditario (sucesión en el Auqui) y Centralista (poder emanaba de Cusco)."
+  },
+  {
+    "id": 103,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El funcionario que representaba al Qhapaq en las provincias o wamanis era el:",
+    "o": ["apunchiq", "auqui", "tukuyrikuq", "kuraka", "sinchi"],
+    "r": 0,
+    "ex": "El Apunchiq, también conocido como Tocricoc, era el gobernador de una provincia o 'wamani'. Representaba directamente al Sapa Inca y tenía poder político, administrativo y militar en su jurisdicción."
+  },
+  {
+    "id": 104,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El Kuraka como funcionario en la sociedad inca se caracterizó por ser:",
+    "o": ["El mensajero de los incas", "Los ojos y oidos del inca", "El jefe militar del ejercito Inca", "El jefe de una provincia o wamanie", "La autoridad política que se encargaba de la administración directa de un ayllu"],
+    "r": 4,
+    "ex": "El Kuraka era el jefe de un ayllu o comunidad. Actuaba como un intermediario entre el Estado Inca y su gente, encargándose de organizar el trabajo (mita), recaudar tributos y administrar la justicia local. No era el jefe de una provincia, ese era el Apunchiq."
+  },
+  {
+    "id": 105,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "en la sociedad del tawantinsuyu el jefe militar se llamaba:",
+    "o": ["Sinchi", "Willaquma", "Pureq", "Auqui", "Varayoc"],
+    "r": 0,
+    "ex": "El 'Sinchi' era el término quechua para designar a un jefe o líder guerrero, especialmente en tiempos de conflicto. En los inicios del Estado Inca, los gobernantes eran principalmente Sinchis."
+  },
+  {
+    "id": 106,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Era el funcionario considerado ojos y oidos del qhapaq Inca con atribuciones y funciones especiales nos referimos al:",
+    "o": ["Auqui", "Apunchiq", "Sinchi", "Piwichuri", "Tukuyrikuq"],
+    "r": 4,
+    "ex": "El Tukuyrikuq ('el que todo lo ve') era un inspector imperial itinerante. Viajaba de incógnito por el imperio para supervisar a los demás funcionarios, recoger quejas y asegurarse de que las órdenes del Inca se cumplieran. Era, en efecto, los 'ojos y oídos' del Sapa Inca."
+  },
+  {
+    "id": 107,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la organizacion administrativa de la cultura inca, la poblacion se dividio en un sitema decimal en este contexto el pisca pachaqkamayoq era el jefe de:",
+    "o": ["jefe de 100 familias", "jefe de 500 familias", "jefe de 5000 familias", "jefe de un suyu", "jefe de 50 familias"],
+    "r": 1,
+    "ex": "La administración inca organizaba a la población en un sistema decimal. 'Pisqa' es cinco y 'Pachaq' es cien, por lo tanto, un Pisqa Pachaq Kamayoq era el líder a cargo de quinientas familias."
+  },
+  {
+    "id": 108,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "La económica en la cultura inca se basó principalmente en:",
+    "o": ["el cultivo intensivo de la tierra o pachamama", "la explotación excesiva de los metales", "la conquista de los pueblos por medio de la fuerza y recaudo de tributos", "el intercambio de los productos", "la crianza de auquenidos en grandes cantidades"],
+    "r": 0,
+    "ex": "La base de la economía inca fue la agricultura. El trabajo colectivo y la aplicación de tecnologías avanzadas como andenes y canales permitieron el cultivo intensivo de la tierra (Pachamama), lo que garantizaba el sustento del imperio."
+  },
+  {
+    "id": 109,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "Una de las características de las formas de trabajo en el tawantinsuyu fue:",
+    "o": ["general, obligatorio", "voluntario, colectivo", "limitado, invitado", "alternable. autosuficiente", "equitativo, benefico"],
+    "r": 0,
+    "ex": "El trabajo en el Tahuantinsuyo, especialmente la mita (trabajo por turnos para el Estado), era general para todos los hatun runas (ciudadanos comunes) y de carácter obligatorio como forma de tributo."
+  },
+  {
+    "id": 110,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "El lugar donde se almacenaron y guardaron los productos excedentes en el inkario era llamado:",
+    "o": ["pirwas o qolqas", "chulpas", "tambos", "depósitos", "urpos"],
+    "r": 0,
+    "ex": "Las qolqas (y las pirwas, un tipo más simple) eran los depósitos o almacenes estatales donde se guardaban los excedentes de producción (alimentos, textiles, armas). Estaban estratégicamente ubicados en todo el Tahuantinsuyo para sostener al ejército, la burocracia y a la población en tiempos de escasez."
+  },
+  {
+    "id": 111,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la sociedad Inca la actividad económica que se realizaba mediante el intercambio de productos (trueque) corresponde a la:",
+    "o": ["Producción", "Circulación", "Redistribución", "Distribucion", "Recoleccion"],
+    "r": 1,
+    "ex": "La fase de circulación de los bienes en la economía inca se daba a nivel local entre los miembros de los ayllus a través del trueque o 'chala'. A nivel estatal, la circulación era controlada por el principio de redistribución desde las qolqas."
+  },
+  {
+    "id": 112,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "En la cultura inca una de las caracteristica de la producción lo constituía la fuerza o energía humana esto corresponde:",
+    "o": ["Al Trabajo", "A La Tierra", "Al Minka", "Al Capital", "Al Ayllu"],
+    "r": 0,
+    "ex": "Dentro de los factores de producción del sistema inca, el elemento principal era la fuerza de trabajo humana, organizada a través de sistemas como la mita y la minka. La tierra era un bien estatal y el concepto de 'capital' no existía."
+  },
+  {
+    "id": 113,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la arquitectura inca se caracterizó por ser:",
+    "o": ["Solida, Sencilla Y Simétrica", "Sencilla, Decorativa Y Masisa", "Solida, Antisimica Y Voluminosa", "Simétrica, Precisa Y Sencilla", "Ciclópea, Pétrea Y Tosca"],
+    "r": 0,
+    "ex": "Las tres características canónicas de la arquitectura inca son: Solidez (uso de grandes bloques de piedra), Sencillez (ausencia de decoración externa elaborada) y Simetría (las partes guardan relación y equilibrio entre sí)."
+  },
+  {
+    "id": 114,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "las construcciones de nobles incas (hatun kanchas) y viviendas del pueblo (kanchas) corresponde a la arquitectura de tipo:",
+    "o": ["Civil", "Religiosa", "Imperial", "Militar", "Nobleza"],
+    "r": 0,
+    "ex": "La arquitectura civil inca se refiere a las construcciones destinadas a la vivienda y la vida cotidiana. Esto incluye tanto las 'kanchas' o viviendas del pueblo, como los palacios o 'hatun kanchas' de la nobleza."
+  },
+  {
+    "id": 115,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "los monumentos arquitectonicos, como el Qoricancha, acllawasi, saqsayhuaman, vilcashuaman y raqchi corresponden a la arquitectura de tipo:",
+    "o": ["Religioso", "Civil", "Militar", "Divino", "Monumental"],
+    "r": 0,
+    "ex": "Aunque algunos como Saqsaywaman también tenían función militar, todos estos grandes complejos tenían un profundo carácter religioso. El Qoricancha era el templo principal del Sol, el Acllawasi un recinto para mujeres consagradas, y los demás eran importantes centros ceremoniales y de culto."
+  },
+  {
+    "id": 116,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "La cerámica inca se caracterizo por ser:",
+    "o": ["utilitaria y ceremonial", "mercantil y comercial", "estético y bello", "sencilla y simétrica", "esbelto y artístico"],
+    "r": 0,
+    "ex": "La cerámica inca era principalmente utilitaria, diseñada para el uso diario (almacenamiento, cocina). También tenía un propósito ceremonial, con formas específicas para rituales y ofrendas. Su decoración era geométrica y sobria, no principalmente estética."
+  },
+  {
+    "id": 117,
+    "curso": "Historia",
+    "tema": "Imperio Inca",
+    "p": "la cerámica más representativa de la sociedad inca fue:",
+    "o": ["la Qañalla", "el Raqui", "el Urpo O Aribalo", "el Puyño", "el Incensario"],
+    "r": 2,
+    "ex": "El Urpo o Aríbalo es la forma más icónica y representativa de la cerámica inca. Se caracteriza por su base cónica, cuerpo voluminoso, cuello largo y dos asas laterales, diseñado para transportar y almacenar líquidos como la chicha."
+  },
+  {
+    "id": 118,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Se considera como el régimen o sistema político, social y económico que surgió en Europa durante la edad media nos referimos a:",
+    "o": ["la Burguesía", "al Feudalismo", "al Comunismo", "al Capitalismo", "la Aristocracia"],
+    "r": 1,
+    "ex": "El Feudalismo es el sistema que define la Edad Media en Europa. Se basaba en una economía agrícola de subsistencia, relaciones de vasallaje entre señores y siervos, y un poder político descentralizado en manos de la nobleza feudal."
+  },
+  {
+    "id": 119,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Politicamente el feudalismo se caracterizó por:",
+    "o": ["que el poder estaba en manos de los señores feudales", "el fotalecimiento de las monarquías feudales", "que la tierra es lo más importante y sus feudales", "el debilitamiento del poder eclesiastico y feudal", "que el poder feudal desaparece y surge el gamonalismo"],
+    "r": 0,
+    "ex": "La característica política central del feudalismo fue la fragmentación del poder. El rey tenía un poder nominal, pero el poder real (administrar justicia, cobrar impuestos, levantar ejércitos) estaba en manos de los grandes señores feudales en sus respectivos territorios."
+  },
+  {
+    "id": 120,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Económicamente el feudalismo se caracterizó por:",
+    "o": ["el fortalecimiento del mercantilismo comercial", "el renacemiento de la industria", "el predominio del monopolio de la tierra", "el debilitamiento del poder eclesiastico", "el predominio del comercio interno"],
+    "r": 2,
+    "ex": "La economía feudal era fundamentalmente agraria. La tierra era la principal fuente de riqueza y poder, y estaba controlada en forma de monopolio por los señores feudales. El comercio era escaso y de carácter local."
+  },
+  {
+    "id": 121,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Socialmente el feudalismo se caracterizo por la division de clases como:",
+    "o": ["patricios, plebeyos y pueblos", "nobles reyes y pueblos", "realeza, nobleza y pueblo", "divinos, siervos y esclavos", "nobleza, clero y campesinos"],
+    "r": 4,
+    "ex": "La sociedad feudal era estamental, dividida en tres órdenes o estamentos: la nobleza (los que guerreaban), el clero (los que oraban) y los campesinos o pueblo llano (los que trabajaban), quienes constituían la gran mayoría de la población."
+  },
+  {
+    "id": 122,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "En el feudalismo los Siervos de la Gleba se caracterizó por ser",
+    "o": ["campesinos libres con derecho", "esclavos que trabajaban las tierras del señor feudal y recibian retribucion economica", "prisioneros de guerra y considerados para sacrificios humanos", "leales al rey y recibir feudos por su lealtad", "sirvientes desprovistos, sin derecho y podían ser vendidos o comprados como parte de la propiedad territorial"],
+    "r": 4,
+    "ex": "Los siervos de la gleba no eran esclavos, pero estaban legalmente atados a la tierra (gleba) que trabajaban. No podían abandonarla y eran transferidos junto con la propiedad si esta cambiaba de dueño, careciendo de libertad y derechos."
+  },
+  {
+    "id": 123,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "El feudo como elemento del feudalismo durante la edad media, también era denominado:",
+    "o": ["Comuna", "Republica", "Cartas", "Beneficio", "Franquicias"],
+    "r": 3,
+    "ex": "El feudo, que era la tierra o el derecho otorgado por un señor a su vasallo a cambio de servicio militar, también era conocido con el término de 'beneficio', ya que era el sustento económico que el vasallo recibía."
+  },
+  {
+    "id": 124,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "El proyecto de Cristóbal colon consistía en:",
+    "o": ["llegar a américa a través del atlántico", "llegar a continente asiatico a través del mediterráneo", "llegar a las indias a través del mar rojo", "llegar a américa a través del mar de los zargasmos", "llegar a las indias a través del océano atlántico"],
+    "r": 4,
+    "ex": "El proyecto de Colón, basado en la idea de que la Tierra era esférica, consistía en encontrar una nueva ruta hacia las Indias (Asia) navegando hacia el oeste a través del Océano Atlántico, evitando así la ruta africana controlada por Portugal y la ruta terrestre bloqueada por los turcos."
+  },
+  {
+    "id": 125,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "El permiso que le otorga a Cristóbal colon el viaje a las indias se dio mediante:",
+    "o": ["la capitulación de Toledo", "la capitulación de castilla", "el tratado de tordecillas", "la capitulación de santa fe", "el acuerdo de malaga"],
+    "r": 3,
+    "ex": "La Capitulación de Santa Fe, firmada el 17 de abril de 1492, fue el contrato entre los Reyes Católicos y Cristóbal Colón que autorizaba la expedición y establecía los títulos y beneficios que Colón recibiría si tenía éxito."
+  },
+  {
+    "id": 126,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "la capitulación de santa fe, fue firmada el 17 de abril 1942 entre Cristóbal colon y la reina:",
+    "o": ["Isabel de Portugal", "Isabel de castilla", "Isabel de Aragón", "Catalina de Aragón", "Isabel de Pacheco"],
+    "r": 1,
+    "ex": "La Capitulación fue firmada por los Reyes Católicos, Fernando II de Aragón e Isabel I de Castilla. Sin embargo, el principal apoyo y financiamiento provino del Reino de Castilla, por lo que se asocia directamente a la Reina Isabel de Castilla."
+  },
+  {
+    "id": 127,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "Cristóbal Colon partió en su primer viaje desde el puerto de:",
+    "o": ["cadiz", "Palos (moguer)", "San lucar de Barrameda", "Puerto España", "Veracruz"],
+    "r": 1,
+    "ex": "La primera expedición de Cristóbal Colón zarpó el 3 de agosto de 1492 desde el Puerto de Palos de la Frontera, en la provincia de Huelva, España."
+  },
+  {
+    "id": 128,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "en su segundo viaje Cristóbal colon partió del puerto de:",
+    "o": ["Cadiz", "Palos (moguer)", "San lucar de Barrameda", "España", "Valladolid"],
+    "r": 0,
+    "ex": "Para su segundo viaje, una expedición mucho más grande con 17 naves, Colón zarpó desde el puerto de Cádiz el 25 de septiembre de 1493."
+  },
+  {
+    "id": 129,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "Cristóbal colón funda la primera ciudad española en América durante su:",
+    "o": ["primer viaje", "segundo viaje", "tercer viaje", "cuarto viaje", "quinto viaje"],
+    "r": 1,
+    "ex": "En su primer viaje, Colón estableció el Fuerte Navidad, que fue destruido. La primera ciudad española propiamente dicha, con un trazado y un cabildo, fue La Isabela, fundada en la isla La Española (actual República Dominicana) durante el segundo viaje, en 1494."
+  },
+  {
+    "id": 130,
+    "curso": "Historia",
+    "tema": "Descubrimiento de América",
+    "p": "El tercer viaje de Cristobal Colón se caracterizó por:",
+    "o": ["la rebeldia de su tripulacion", "no encontrar vivo a ninguno de sus hombres dejados en la Española", "encontrar el paso a las codiciadas islas de las especias", "ser apresado y retornado a españa con grilletes", "fundar la primera ciudad española en América"],
+    "r": 3,
+    "ex": "El tercer viaje estuvo marcado por las sublevaciones de los colonos en La Española contra la autoridad de Colón y sus hermanos. Debido a las quejas, los Reyes Católicos enviaron al comisionado Francisco de Bobadilla, quien apresó a Colón y lo envió de regreso a España encadenado."
+  },
+  {
+    "id": 131,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Se fomentó el individualismo y éxito personal y el uso de la razón humana (antropocentrismo) Nos referimos a:",
+    "o": ["Renacimiento", "Feudalismo", "Burguesia", "Cristianismo", "Aristocracia"],
+    "r": 0,
+    "ex": "El Renacimiento fue un movimiento cultural que rompió con el teocentrismo medieval y promovió el antropocentrismo, poniendo al ser humano y a la razón en el centro del universo. Esto fomentó el individualismo, la búsqueda de la fama y el éxito personal."
+  },
+  {
+    "id": 132,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "Es considerado como padre de la ciencia política nos referimos a:",
+    "o": ["Nicola Maquiavelo", "Tomas Moro", "Sandro Botticelli", "Miguel Angel", "Galileo"],
+    "r": 0,
+    "ex": "Nicolás Maquiavelo, con su obra 'El Príncipe', es considerado el padre de la ciencia política moderna. Analizó el poder y el estado de forma realista y pragmática, separando la política de la moral y la religión."
+  },
+  {
+    "id": 133,
+    "curso": "Historia",
+    "tema": "Feudalismo y Renacimiento",
+    "p": "El hombre de Vitruvio. Como manifestacion del Renacimiento corresponde a:",
+    "o": ["Nicola Maquiavelo", "Tomas Moro", "Sandro Botticelli", "Miguel Angel", "Leonardo Da Vinci"],
+    "r": 4,
+    "ex": "El 'Hombre de Vitruvio' es un famoso dibujo de Leonardo da Vinci que representa el ideal de las proporciones humanas. Es un ícono del Renacimiento, ya que combina el arte y la ciencia, y refleja la visión antropocéntrica de la época, centrada en el hombre como medida de todas las cosas."
   }
 ]
