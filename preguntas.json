@@ -2698,5 +2698,1004 @@
     "o": ["Coordinada copulativa", "Coordinada adversativa", "Coordinada yuxtapuesta", "Subordinada sustantiva", "Ninguna de las anteriores"],
     "r": 2,
     "ex": "Una oración compuesta coordinada yuxtapuesta es aquella cuyas proposiciones se enlazan mediante signos de puntuación (coma, punto y coma, o dos puntos) en lugar de conjunciones."
+  },
+    {
+    "id": 301,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "El grupo de individuos unicelulares y pluricelulares pertenecientes a la misma especie que ocupan un área determinada, corresponde el nivel de organización:",
+    "o": ["Población", "Comunidad", "Ecosistema", "Biósfera", "Ecosfera"],
+    "r": 0,
+    "ex": "Una población está formada por individuos de la misma especie que habitan un área determinada y pueden reproducirse entre sí."
+  },
+  {
+    "id": 302,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "Un grupo de organismos muy similares morfológicamente y fisiológicamente, cuya unión puede ser fértil, constituye:",
+    "o": ["Una especie", "Un organismo", "Una comunidad", "Una población", "Un biotopo"],
+    "r": 0,
+    "ex": "Una especie agrupa a individuos que comparten características semejantes y pueden cruzarse produciendo descendencia fértil."
+  },
+  {
+    "id": 303,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "En la organización de los seres vivos, una manada de vicuñas alto andinas, constituye:",
+    "o": ["Una comunidad", "Un organismo", "Una biocenosis", "Un ecosistema", "Una especie"],
+    "r": 4,
+    "ex": "Organismos de la misma especie con descendencia y unión fértil representan una población como la manada de vicuñas."
+  },
+  {
+    "id": 304,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "La materia viva se caracteriza por presentar varios grados de complejidad estructural, así a los individuos de una especie que habitan en la misma área geográfica les corresponde el nivel de organización:",
+    "o": ["Biocenosis", "Población", "Ecosistema", "Comunidad", "Biotopo"],
+    "r": 1,
+    "ex": "Los individuos de una misma especie que comparten un espacio conforman una población biológica."
+  },
+  {
+    "id": 305,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "La organización de dos o más poblaciones de diferentes especies que viven e interactúan en la misma área geográfica forma:",
+    "o": ["El ecosistema", "La población", "La biocenosis", "La biosfera", "El biotopo"],
+    "r": 2,
+    "ex": "La biocenosis o comunidad está compuesta por poblaciones de diferentes especies que coexisten en un mismo hábitat."
+  },
+  {
+    "id": 306,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "En la jerarquía de organización de los seres vivos, el nivel constituido por miembros de una misma especie que habitan en un área y momento determinado, se denomina:",
+    "o": ["Comunidad", "Ecosistema", "Población", "Biotopo", "Biocenosis"],
+    "r": 2,
+    "ex": "La población representa el conjunto de individuos de una misma especie en un lugar y tiempo específicos."
+  },
+  {
+    "id": 307,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "Todos los seres vivos que se encuentran en el campus universitario, representan el nivel de organización denominado:",
+    "o": ["Ecosistema", "Población", "Biotopo", "Especie", "Biocenosis"],
+    "r": 4,
+    "ex": "Todos los seres vivos del campus conforman una biocenosis, es decir, el conjunto de poblaciones de distintas especies que interactúan en un mismo lugar."
+  },
+  {
+    "id": 308,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "Las moléculas simples al agruparse, pasan a formar el nivel de organización denominado:",
+    "o": ["Macromolecular", "Supramolecular", "Atómico", "Tisular", "Celular"],
+    "r": 0,
+    "ex": "Las moléculas simples al unirse forman macromoléculas, como proteínas o ácidos nucleicos, que constituyen el nivel macromolecular."
+  },
+  {
+    "id": 309,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "La definición de una unidad funcional conformada por diversos tipos de tejidos, es:",
+    "o": ["Una especie", "Un aparato", "Un órgano", "Una macromolécula", "Un organelo"],
+    "r": 2,
+    "ex": "Un órgano es una estructura compuesta por varios tipos de tejidos que trabajan coordinadamente para cumplir una función."
+  },
+  {
+    "id": 310,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "El conjunto de microorganismos de la especie Euglena gracilis que habita un estanque de agua durante el verano, corresponde al nivel de organización biológica denominada:",
+    "o": ["Biotopo", "Comunidad", "Biosfera", "Población", "Ecósfera"],
+    "r": 3,
+    "ex": "Un conjunto de organismos de la misma especie en un área específica constituye una población."
+  },
+  {
+    "id": 311,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "Con respecto a la organización de los seres vivos, el nivel biótico, es:",
+    "o": ["Supramolecular", "Celular", "Atómico", "Subatómico", "Molecular"],
+    "r": 1,
+    "ex": "El nivel celular marca el inicio de la vida; por tanto, es el primer nivel biótico o viviente."
+  },
+  {
+    "id": 312,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "El nivel de organización que corresponde a la asociación del ácido desoxirribonucleico con las proteínas histonas, es:",
+    "o": ["Subcelular", "Atómico", "Supramolecular", "Macromolecular", "Organular"],
+    "r": 2,
+    "ex": "La cromatina (ADN + histonas) representa un complejo supramolecular, formado por la asociación de macromoléculas."
+  },
+  {
+    "id": 313,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "El nivel de organización de los seres vivos, se entiende que los organismos muy similares que en potencia pueden cruzarse, corresponde a:",
+    "o": ["Ecosistema", "Población", "Comunidad", "Biósfera", "Especie"],
+    "r": 4,
+    "ex": "La especie agrupa organismos con características similares y capacidad de reproducirse entre sí."
+  },
+  {
+    "id": 314,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "En los seres vivos se distinguen varios grados de complejidad estructural, cada uno de ellos es un tipo única; la proteína unida al carbohidrato (glucoproteína) que da origen al nivel de organización se denomina:",
+    "o": ["Atómico", "Macromolecular", "Molecular", "Celular", "Supramolecular"],
+    "r": 4,
+    "ex": "La glucoproteína es una estructura supramolecular, producto de la unión entre macromoléculas diferentes (proteínas y azúcares)."
+  },
+  {
+    "id": 315,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "Dos o más átomos de elementos idénticos o distintos unidos por un enlace químico, constituyen nivel de organización:",
+    "o": ["Atómico", "Tisular", "Molecular", "Celular", "Sistémico"],
+    "r": 2,
+    "ex": "Cuando varios átomos se unen por enlaces químicos forman moléculas, que representan el nivel molecular."
+  },
+  {
+    "id": 316,
+    "curso": "Biología",
+    "tema": "Niveles de organización de los seres vivos",
+    "p": "De acuerdo a los niveles de organización de la materia viviente, el nivel del organismo se encuentra antes del nivel:",
+    "o": ["Ecosistema", "Población", "Tejido", "Sistema", "Biosfera"],
+    "r": 1,
+    "ex": "En la jerarquía biológica, varios organismos de una misma especie conforman una población; por tanto, el nivel de organismo precede al poblacional."
+  },
+  {
+    "id": 317,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Son considerados como elementos organógenos que forman parte de las biomoléculas del cuerpo:",
+    "o": ["C, H, O y Na", "O, C, H, N, P y S", "C, H, O, N, Ca y P", "C, H, O, N y Fe", "N, O, C, H y Ca"],
+    "r": 1,
+    "ex": "Los bioelementos primarios u organógenos (C, H, O, N, P y S) constituyen el 95% de la materia viva y forman las biomoléculas esenciales."
+  },
+  {
+    "id": 318,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es el elemento que participa en la coagulación sanguínea y en la permeabilidad de la membrana celular:",
+    "o": ["Sodio", "Fósforo", "Potasio", "Calcio", "Cobre"],
+    "r": 3,
+    "ex": "El calcio participa en la coagulación sanguínea, la contracción muscular y la estabilidad de las membranas celulares."
+  },
+  {
+    "id": 319,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Los microelementos o micronutrientes, por la cantidad en que se hallan en la materia viviente, son conocidos como:",
+    "o": ["Primarios", "Secundarios", "Oligoelementos", "Variables", "No variables"],
+    "r": 2,
+    "ex": "Los oligoelementos o microelementos se encuentran en pequeñas cantidades, pero son esenciales para funciones metabólicas y enzimáticas."
+  },
+  {
+    "id": 320,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es el ion que participa en la formación de los aminoácidos metionina y cisteína:",
+    "o": ["Potasio", "Cromo", "Azufre", "Hierro", "Calcio"],
+    "r": 2,
+    "ex": "El azufre forma parte de los aminoácidos azufrados (metionina y cisteína), esenciales en las proteínas."
+  },
+  {
+    "id": 321,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es el bioelemento constituyente de la molécula de clorofila:",
+    "o": ["Cromo", "Magnesio", "Selenio", "Cobre", "Flúor"],
+    "r": 1,
+    "ex": "El magnesio es el átomo central de la molécula de clorofila, necesaria para la fotosíntesis."
+  },
+  {
+    "id": 322,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un bioelemento formador de moléculas como las proteínas y los ácidos nucleicos, cuya liberación ocurre debido a la descomposición de la materia orgánica por bacterias, o por combustión:",
+    "o": ["Nitrógeno", "Fósforo", "Carbono", "Oxígeno", "Hidrógeno"],
+    "r": 0,
+    "ex": "El nitrógeno forma parte de proteínas y ácidos nucleicos; su ciclo natural incluye la liberación por descomposición bacteriana."
+  },
+  {
+    "id": 323,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Son los elementos organógenos más abundantes del ser humano:",
+    "o": ["Carbono e hidrógeno", "Oxígeno y carbono", "Hidrógeno y nitrógeno", "Fósforo y azufre", "Carbono y nitrógeno"],
+    "r": 1,
+    "ex": "El oxígeno y el carbono son los elementos más abundantes en el cuerpo humano, seguidos del hidrógeno y nitrógeno."
+  },
+  {
+    "id": 324,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un bioelemento traza o vestigial formador del grupo hemo de ciertas porfirinoproteínas:",
+    "o": ["Calcio", "Oxígeno", "Carbono", "Hierro", "Hidrógeno"],
+    "r": 3,
+    "ex": "El hierro forma parte del grupo hemo de proteínas como la hemoglobina y los citocromos, esenciales para el transporte de oxígeno."
+  },
+  {
+    "id": 325,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "En la composición química de los seres vivos, entre los elementos organógenos, el menos abundante es el:",
+    "o": ["Nitrógeno", "Carbono", "Hidrógeno", "Oxígeno", "Azufre"],
+    "r": 4,
+    "ex": "El azufre es el menos abundante de los elementos organógenos principales."
+  },
+  {
+    "id": 326,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es el elemento organógeno que desempeña un papel esencial en los procesos de transferencia de energía como el metabolismo, la función nerviosa y la acción muscular:",
+    "o": ["Magnesio", "Potasio", "Sodio", "Fósforo", "Calcio"],
+    "r": 3,
+    "ex": "El fósforo participa en moléculas energéticas como el ATP y en procesos de fosforilación celular."
+  },
+  {
+    "id": 327,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Bioelemento primario que se encuentra formando parte del ATP (adenosín trifosfato) y los ácidos nucleicos:",
+    "o": ["Fósforo", "Azufre", "Sodio", "Magnesio", "Calcio"],
+    "r": 0,
+    "ex": "El fósforo forma parte de los nucleótidos y del ATP, molécula clave en la transferencia de energía celular."
+  },
+  {
+    "id": 328,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "En el hombre, el bioelemento no organógeno que se encuentra en mayor porcentaje, después de C, H, O y N, es:",
+    "o": ["Fósforo", "Cobre", "Sodio", "Calcio", "Azufre"],
+    "r": 3,
+    "ex": "El calcio es el bioelemento inorgánico más abundante en el cuerpo humano, principalmente en huesos y dientes."
+  },
+  {
+    "id": 329,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un oligoelemento no variable que forma parte de proteínas como la tirosinasa y la ceruloplasmina, que lo necesitan como cofactor:",
+    "o": ["Hierro", "Zinc", "Cromo", "Litio", "Cobre"],
+    "r": 4,
+    "ex": "El cobre actúa como cofactor en enzimas oxidativas como la tirosinasa y la ceruloplasmina."
+  },
+  {
+    "id": 330,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un bioelemento que está asociado a los niveles y la funcionalidad de la vitamina B12:",
+    "o": ["Flúor", "Yodo", "Cobre", "Zinc", "Cobalto"],
+    "r": 4,
+    "ex": "El cobalto forma parte de la estructura de la vitamina B12, esencial para la formación de glóbulos rojos."
+  },
+  {
+    "id": 331,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un elemento organógeno que se encuentra en fertilizantes agrícolas y se deposita en el suelo, donde es fijado por bacterias, para ser asimilado por las plantas:",
+    "o": ["Carbono", "Fósforo", "Nitrógeno", "Azufre", "Hidrógeno"],
+    "r": 2,
+    "ex": "El nitrógeno es fijado por bacterias del suelo, permitiendo que las plantas lo incorporen en forma de nitratos."
+  },
+  {
+    "id": 332,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es una de las formas en las cuales se almacena el hierro en los tejidos de los animales superiores y el hombre:",
+    "o": ["Mioglobina", "Citocromos", "Hemosiderina", "Cobalamina", "Hemoglobina"],
+    "r": 2,
+    "ex": "La hemosiderina es una proteína que almacena hierro en los tejidos cuando la ferritina se satura."
+  },
+  {
+    "id": 333,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Las proteínas transportadoras como la hemoglobina, la mioglobina y los citocromos, tienen en común el hecho de presentar en su composición al elemento:",
+    "o": ["Cobre", "Magnesio", "Calcio", "Hierro", "Yodo"],
+    "r": 3,
+    "ex": "Todas estas proteínas contienen hierro en su estructura, fundamental para el transporte y almacenamiento de oxígeno."
+  },
+  {
+    "id": 334,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un microelemento considerado variable, que cumple funciones antioxidantes y de regulación hormonal de la tiroides y tiene efectos anticancerígenos:",
+    "o": ["Silicio", "Azufre", "Selenio", "Cromo", "Aluminio"],
+    "r": 2,
+    "ex": "El selenio actúa como antioxidante y participa en la regulación de las hormonas tiroideas."
+  },
+  {
+    "id": 335,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un oligoelemento que se encuentra relacionado con el funcionamiento de la glándula tiroides y la producción de hormonas tiroideas:",
+    "o": ["Zinc", "Manganeso", "Selenio", "Yodo", "Silicio"],
+    "r": 3,
+    "ex": "El yodo es esencial para la síntesis de las hormonas tiroideas T3 y T4."
+  },
+  {
+    "id": 336,
+    "curso": "Biología",
+    "tema": "Bioelementos",
+    "p": "Es un elemento vestigial o traza que sirve para revitalizar la función cerebral y la memoria, y además es regulador del sueño (combate el insomnio) y la irritabilidad:",
+    "o": ["Calcio", "Aluminio", "Zinc", "Cromo", "Manganeso"],
+    "r": 4,
+    "ex": "El manganeso participa en la actividad neuronal, enzimática y en el equilibrio del sistema nervioso."
+  },
+  {
+    "id": 337,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Corresponden a dos tipos de biomoléculas inorgánicas presentes en los seres vivos:",
+    "o": ["Agua y carbohidratos", "Proteínas y lípidos", "Sales minerales y agua", "Lípidos y carbohidratos", "Ácidos nucleicos y proteínas"],
+    "r": 2,
+    "ex": "Las biomoléculas inorgánicas, como el agua y las sales minerales, no contienen carbono en su estructura básica y son esenciales para las funciones vitales."
+  },
+  {
+    "id": 338,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "No pertenece a una característica del agua:",
+    "o": ["El hidrógeno se une al oxígeno mediante un enlace covalente.", "Es una molécula altamente disociante o ionizante.", "La molécula tiene una estructura angular, tetraédrica.", "Tiene una distribución asimétrica de cargas, es un dipolo.", "Dos moléculas de agua pueden unirse mediante puentes de hidrógeno."],
+    "r": 2,
+    "ex": "La molécula del agua es angular (no tetraédrica); su ángulo de enlace es de 104.5°, lo que le confiere su polaridad."
+  },
+  {
+    "id": 339,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "La descomposición de moléculas complejas hasta simples en presencia del agua se denomina:",
+    "o": ["Saponificación", "Desnaturalización", "Hidrólisis", "Ósmosis", "Tixotropía"],
+    "r": 2,
+    "ex": "La hidrólisis es una reacción química donde el agua rompe enlaces en moléculas complejas, liberando componentes más simples."
+  },
+  {
+    "id": 340,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "La acción termorreguladora que cumple el agua en el organismo está relacionada con:",
+    "o": ["Su carácter dipolar", "Su elevado calor de vaporización", "Su densidad", "Su elevada tensión superficial", "Su capacidad ionizante"],
+    "r": 1,
+    "ex": "El agua requiere mucha energía para evaporarse, lo que permite regular la temperatura corporal mediante la sudoración."
+  },
+  {
+    "id": 341,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Son propiedades del agua que están relacionadas:",
+    "o": ["Tensión superficial – Cohesión", "Capilaridad – Tixotropía", "Adhesión – Calor vaporizante", "Hidrólisis – Capilaridad", "Calor vaporizante – Poder solvente"],
+    "r": 0,
+    "ex": "La cohesión entre moléculas de agua origina la tensión superficial, que permite fenómenos como la flotación de algunos insectos."
+  },
+  {
+    "id": 342,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "La disociación de muchas moléculas formadoras de iones (ionización) en presencia del agua, está favorecida por:",
+    "o": ["Su poder vaporizante", "La polaridad de la molécula", "Su estructura tetraédrica", "Las fuerzas de cohesión y de adhesión", "La capilaridad"],
+    "r": 1,
+    "ex": "La polaridad del agua permite separar y estabilizar iones, actuando como excelente solvente."
+  },
+  {
+    "id": 343,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Cuando una molécula de agua se une a otras moléculas de agua o a cualquier otra molécula polar, lo hace mediante:",
+    "o": ["Enlace glucosídico", "Puentes de hidrógeno", "Puentes disulfuro", "Enlaces covalentes", "Enlace peptídico"],
+    "r": 1,
+    "ex": "Los puentes de hidrógeno son interacciones débiles que permiten la cohesión entre moléculas de agua."
+  },
+  {
+    "id": 344,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Hasta con cuántas otras moléculas de agua puede una molécula de agua formar puentes de hidrógeno:",
+    "o": ["1", "2", "3", "4", "5"],
+    "r": 3,
+    "ex": "Cada molécula de agua puede formar cuatro puentes de hidrógeno debido a sus dos átomos de hidrógeno y dos pares de electrones libres del oxígeno."
+  },
+  {
+    "id": 345,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Es la propiedad del agua que está relacionada con la formación de membranas biológicas:",
+    "o": ["Elevado poder vaporizante", "Carácter dipolar", "Mayor densidad al estado líquido", "Elevada tensión superficial", "Capacidad hidrolítica"],
+    "r": 1,
+    "ex": "El carácter dipolar del agua permite interacciones con moléculas polares y la exclusión de las apolares, facilitando la formación de bicapas lipídicas."
+  },
+  {
+    "id": 346,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "En la célula, el tipo de agua que se halla en mayor porcentaje y sirve como solvente metabólico, es:",
+    "o": ["Destilada", "De imbibición", "Libre", "De constitución", "Ligada"],
+    "r": 2,
+    "ex": "El agua libre se encuentra en el citoplasma y participa activamente en las reacciones metabólicas."
+  },
+  {
+    "id": 347,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "No se encuentra entre las funciones del agua:",
+    "o": ["Amortiguadora de pH", "Termorreguladora", "Lubricante", "Estructural", "Transportadora"],
+    "r": 4,
+    "ex": "Aunque el agua interviene en el transporte, no es su función principal; el transporte depende más de fluidos como la sangre o linfa."
+  },
+  {
+    "id": 348,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "No corresponde a una característica de las sales minerales:",
+    "o": ["En presencia de agua, las sales se disocian en iones.", "Ayudan a regular el balance hídrico.", "Forman estructuras duras como esqueletos.", "Al disociarse, todas liberan iones H+ y OH-.", "Las más abundantes son las que contienen calcio y fósforo."],
+    "r": 3,
+    "ex": "No todas las sales liberan H+ y OH−; sólo los ácidos y bases lo hacen. Las sales liberan cationes y aniones diversos."
+  },
+  {
+    "id": 349,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Es constituyente del principal amortiguador de los fluidos extracelulares como la sangre:",
+    "o": ["Fosfato", "Magnesio", "Sulfato", "Bicarbonato", "Potasio"],
+    "r": 3,
+    "ex": "El sistema bicarbonato actúa como tampón, manteniendo el pH sanguíneo estable entre 7.35 y 7.45."
+  },
+  {
+    "id": 350,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Se encuentran entre los electrolitos más abundantes del medio intracelular:",
+    "o": ["Sodio y cloro", "Cloro y bicarbonato", "Potasio y magnesio", "Calcio y potasio", "Fosfato y sodio"],
+    "r": 2,
+    "ex": "El potasio y el magnesio son los principales iones positivos dentro de la célula."
+  },
+  {
+    "id": 351,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Es el electrolito que mantiene la presión osmótica en el medio intracelular:",
+    "o": ["Potasio", "Sodio", "Calcio", "Bicarbonato", "Fosfato"],
+    "r": 0,
+    "ex": "El potasio regula la presión osmótica y el equilibrio de agua dentro de las células."
+  },
+  {
+    "id": 352,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Se encuentra entre las funciones del magnesio:",
+    "o": ["Amortiguador del pH intracelular", "Transmisión de impulsos nerviosos", "Forma parte de la molécula de clorofila", "Participa en la coagulación", "Regula la presión osmótica"],
+    "r": 2,
+    "ex": "El magnesio es el átomo central del anillo porfirínico de la clorofila, esencial para la fotosíntesis."
+  },
+  {
+    "id": 353,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Es el catión más abundante del organismo, estabilizador de membranas y factor de coagulación:",
+    "o": ["Calcio", "Magnesio", "Potasio", "Sodio", "Fosfato"],
+    "r": 0,
+    "ex": "El calcio interviene en la coagulación, contracción muscular y estabilidad de membranas celulares."
+  },
+  {
+    "id": 354,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Son los iones que presentan mayor concentración en el medio extracelular:",
+    "o": ["Potasio y magnesio", "Fosfato y potasio", "Magnesio y bicarbonato", "Sodio y cloro", "Potasio y sodio"],
+    "r": 3,
+    "ex": "El sodio y el cloro predominan en el líquido extracelular, regulando el equilibrio osmótico."
+  },
+  {
+    "id": 355,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "El enunciado correcto acerca del sodio es:",
+    "o": ["Participa en la estabilización de la membrana celular", "En elevadas concentraciones puede causar hipertensión arterial", "Es un tampón del pH intracelular", "Estabiliza la unión ribosomal", "Es amortiguador del pH extracelular"],
+    "r": 1,
+    "ex": "El exceso de sodio aumenta el volumen sanguíneo y la presión arterial."
+  },
+  {
+    "id": 356,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Son iones que participan en la formación y mantenimiento de los huesos:",
+    "o": ["Sodio y potasio", "Calcio y cloro", "Magnesio y sodio", "Potasio y cloro", "Calcio y fosfato"],
+    "r": 4,
+    "ex": "El fosfato de calcio constituye la base mineral del tejido óseo y dental."
+  },
+  {
+    "id": 357,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Las variaciones del pH en el citoplasma celular son controladas por el ion:",
+    "o": ["Sodio", "Fosfato", "Magnesio", "Potasio", "Calcio"],
+    "r": 1,
+    "ex": "El sistema fosfato actúa como tampón intracelular, estabilizando el pH citoplasmático."
+  },
+  {
+    "id": 358,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Ion encargado de promover la unión de las subunidades ribosomales durante la síntesis proteica:",
+    "o": ["Calcio", "Potasio", "Cloro", "Magnesio", "Sodio"],
+    "r": 3,
+    "ex": "El magnesio estabiliza los ribosomas y permite la unión de sus subunidades durante la traducción."
+  },
+  {
+    "id": 359,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Electrolitos que regulan la presión osmótica y el balance hídrico:",
+    "o": ["Cobre y calcio", "Cloruro y fosfato", "Potasio y sodio", "Magnesio y sulfato", "Fosfato y bicarbonato"],
+    "r": 2,
+    "ex": "El sodio controla el equilibrio del líquido extracelular, mientras que el potasio lo hace en el intracelular."
+  },
+  {
+    "id": 360,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "Iones que regulan el potencial de membrana:",
+    "o": ["Magnesio y potasio", "Calcio y cloro", "Sodio y potasio", "Fosfato y sodio", "Sodio y magnesio"],
+    "r": 2,
+    "ex": "La bomba sodio-potasio mantiene la diferencia de cargas entre el interior y el exterior celular."
+  },
+  {
+    "id": 361,
+    "curso": "Biología",
+    "tema": "Agua",
+    "p": "El ADN, ARN y ATP tienen en común presentar en su estructura molecular:",
+    "o": ["Sodio", "Magnesio", "Potasio", "Bicarbonato", "Fosfato"],
+    "r": 4,
+    "ex": "El grupo fosfato forma parte de los nucleótidos, unidades estructurales de los ácidos nucleicos y del ATP."
+  },
+  {
+    "id": 362,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Señale la secuencia correcta sobre los siguientes enunciados: i. Los hidratos de carbono tienen una relación aproximada de H₂:O como 2:1. ii. En la fotosíntesis se forma carbohidrato a partir de CO₂ y agua. iii. La celulosa es la principal sustancia de reserva energética de los vegetales. iv. La fructosa es la principal fuente de energía celular.",
+    "o": ["VVFV", "VFVF", "FVFV", "VVFF", "FFFV"],
+    "r": 3,
+    "ex": "i: Verdadero → fórmula típica Cn(H2O)m. ii: Verdadero → la fotosíntesis genera carbohidratos. iii: Falso → la reserva vegetal es el almidón; la celulosa es estructural. iv: Falso → la fuente principal es glucosa, no fructosa."
+  },
+  {
+    "id": 363,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Relacione los compuestos con su clasificación: Gliceraldehído, Eritrulosa, Desoxirribosa",
+    "o": ["Triosa, Tetrosa, Pentosa", "Pentosa, Triosa, Tetrosa", "Triosa, Pentosa, Tetrosa", "Tetrosa, Triosa, Pentosa", "Tetrosa, Pentosa, Triosa"],
+    "r": 0,
+    "ex": "Gliceraldehído = triosa (3 carbonos), Eritrulosa = tetrosa (4 carbonos), Desoxirribosa = pentosa (5 carbonos) del ADN."
+  },
+  {
+    "id": 364,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "¿Cuál es el intermediario energético que participa en la glucólisis?",
+    "o": ["Eritrulosa", "Ribulosa", "Gliceraldehído", "Desoxirribosa", "Xilosa"],
+    "r": 2,
+    "ex": "El gliceraldehído-3-fosfato (G3P) es un intermediario clave de la glucólisis y del ciclo de Calvin."
+  },
+  {
+    "id": 365,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "¿Qué monosacárido se encuentra regularmente unido a otros azúcares en lugar de libre?",
+    "o": ["Glucosa", "Fructosa", "Ribosa", "Galactosa", "Eritrulosa"],
+    "r": 3,
+    "ex": "La galactosa aparece casi siempre formando lactosa (glucosa + galactosa) o glicolípidos (cerebrósidos)."
+  },
+  {
+    "id": 366,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "La sacarosa se extrae industrialmente de:",
+    "o": ["Leche", "Cebada", "Maíz", "Uva", "Remolacha"],
+    "r": 4,
+    "ex": "La sacarosa proviene de caña de azúcar y remolacha azucarera."
+  },
+  {
+    "id": 367,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Polisacárido de reserva en animales:",
+    "o": ["Almidón", "Quitina", "Glucógeno", "Celulosa", "Manano"],
+    "r": 2,
+    "ex": "El glucógeno se almacena en hígado y músculo como reserva energética."
+  },
+  {
+    "id": 368,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Relacione las funciones con los compuestos correspondientes: Almacenamiento, Fuente de energía, Protección, Estructura",
+    "o": ["Glucógeno - Metabolismo - Amortiguación - Quitina", "Quitina - Glucógeno - Amortiguación - Metabolismo", "Amortiguación - Quitina - Glucógeno - Metabolismo", "Metabolismo - Amortiguación - Quitina - Glucógeno", "Glucógeno - Amortiguación - Quitina - Metabolismo"],
+    "r": 0,
+    "ex": "Glucógeno → almacenamiento, Metabolismo celular → energía, Amortigua daño → protección, Quitina → estructura"
+  },
+  {
+    "id": 369,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Señale la afirmación INCORRECTA sobre los ácidos grasos insaturados:",
+    "o": ["Son fluidos", "Son sólidos a temperatura ambiente", "Son de origen vegetal", "Reducen riesgo cardiovascular", "Poseen dobles enlaces"],
+    "r": 1,
+    "ex": "Los ácidos grasos insaturados son líquidos a temperatura ambiente, los saturados son sólidos."
+  },
+  {
+    "id": 370,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Alcohol presente en lípidos simples:",
+    "o": ["Alcohol cetílico", "Glicerol", "Alcohol palmítico", "Alcohol esteárico", "Escualeno"],
+    "r": 1,
+    "ex": "El glicerol forma la base de triglicéridos y fosfoglicéridos."
+  },
+  {
+    "id": 371,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Relacione las características con los tipos de lípidos: I. Se depositan en tejido adiposo II. Ácidos grasos iguales III. Son heteroglicéridos IV. Alcohol más largo que glicerol",
+    "o": ["Triglicéridos - Triesterina - Grasa humana - Céridos", "Triesterina - Triglicéridos - Céridos - Grasa humana", "Triglicéridos - Grasa humana - Céridos - Triesterina", "Céridos - Triesterina - Triglicéridos - Grasa humana", "Grasa humana - Céridos - Triesterina - Triglicéridos"],
+    "r": 0,
+    "ex": "Triglicéridos → depósito, Triesterina → AG iguales, Grasa humana → heteroglicérido, Céridos → alcohol largo"
+  },
+  {
+    "id": 372,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Cera similar a la que se encuentra en los pelos de animales:",
+    "o": ["Sebo", "Lanolina", "Ceramida", "Esfingomielina", "Lecitina"],
+    "r": 1,
+    "ex": "La lanolina es una cera derivada de la lana de oveja, actúa como impermeabilizante natural."
+  },
+  {
+    "id": 373,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Ácido graso esencial:",
+    "o": ["Oleico", "Linolénico", "Palmítico", "Esteárico", "Caproico"],
+    "r": 1,
+    "ex": "El ácido linolénico (omega-3) es esencial porque los animales no pueden sintetizarlo."
+  },
+  {
+    "id": 374,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Principal componente nitrogenado de la lecitina:",
+    "o": ["Etanolamina", "Serina", "Leucina", "Arginina", "Colina"],
+    "r": 4,
+    "ex": "La lecitina es fosfatidilcolina, por lo tanto contiene colina."
+  },
+  {
+    "id": 375,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Las cardiolipinas son fosfolípidos característicos de:",
+    "o": ["Cloroplastos", "Mitocondrias", "Pared celular", "Lisosomas", "Aparato de Golgi"],
+    "r": 1,
+    "ex": "Las cardiolipinas están en la membrana mitocondrial interna, esenciales para la cadena respiratoria."
+  },
+  {
+    "id": 376,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Monosacárido presente en el cerebrósido:",
+    "o": ["Glucosa", "Manosa", "Ribosa", "Galactosa", "Eritrulosa"],
+    "r": 3,
+    "ex": "Los cerebrósidos del sistema nervioso central contienen galactosa."
+  },
+  {
+    "id": 377,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "La esfingosina cuando se une a un ácido graso forma:",
+    "o": ["Gangliósido", "Ceramida", "Lecitina", "Cérido", "Colesterol"],
+    "r": 1,
+    "ex": "Ceramida = esfingosina + ácido graso, base de todos los esfingolípidos."
+  },
+  {
+    "id": 378,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Señale la afirmación INCORRECTA sobre esteroides:",
+    "o": ["El colesterol es un esterol", "Las sales biliares derivan del colesterol", "El colecalciferol deriva del colesterol", "Poseen un núcleo tetracíclico", "Las hormonas sexuales derivan el colesterol"],
+    "r": 4,
+    "ex": "La redacción correcta es que las hormonas esteroideas se sintetizan a partir del colesterol, no 'derivan el colesterol'."
+  },
+  {
+    "id": 379,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "El ergosterol origina:",
+    "o": ["Calciferol", "Colecalciferol", "Progesterona", "Corticoides", "Colesterol"],
+    "r": 0,
+    "ex": "El ergosterol origina la vitamina D₂ (ergocalciferol o calciferol)."
+  },
+  {
+    "id": 380,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Señale la secuencia correcta: i. El enlace peptídico es una condensación. ii. Dos aminoácidos forman un dipéptido. iii. Una proteína está formada por varios polipéptidos. iv. Oxitocina y bradicinina inhiben inflamación.",
+    "o": ["VVVF", "VFVF", "FVFV", "VVFV", "FFVV"],
+    "r": 3,
+    "ex": "i. V (condensación), ii. V (2 aa = dipéptido), iii. F (algunas proteínas son un polipéptido), iv. F (bradicinina produce inflamación)."
+  },
+  {
+    "id": 381,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Los extremos amino y carboxilo corresponden a:",
+    "o": ["Estructura secundaria", "Estructura primaria", "Estructura terciaria", "Estructura cuaternaria", "Conformación funcional"],
+    "r": 1,
+    "ex": "La estructura primaria es la secuencia lineal de aminoácidos con N-terminal y C-terminal."
+  },
+  {
+    "id": 382,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "La orizenina es una:",
+    "o": ["Prolamina", "Albumina", "Glutelina", "Globulina", "Prolina"],
+    "r": 2,
+    "ex": "La orizenina es la proteína de reserva del arroz, clasificada como glutelina."
+  },
+  {
+    "id": 383,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Aminoácidos predominantes en histonas:",
+    "o": ["Arginina y lisina", "Glicina y serina", "Fenilalanina y tirosina", "Cisteína y prolina", "Treonina y leucina"],
+    "r": 0,
+    "ex": "Las histonas son ricas en arginina y lisina (aminoácidos básicos) que interactúan con el ADN cargado negativamente."
+  },
+  {
+    "id": 384,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Aminoácido principal en queratina:",
+    "o": ["Cisteína", "Leucina", "Fenilalanina", "Alanina", "Treonina"],
+    "r": 0,
+    "ex": "La cisteína forma puentes disulfuro que dan dureza al cabello, uñas y queratina en general."
+  },
+  {
+    "id": 385,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Proteína de la seda y tela de araña:",
+    "o": ["Actina", "Miosina", "Fibroína", "Colágeno", "Elastina"],
+    "r": 2,
+    "ex": "La fibroína es la proteína fibrosa rica en glicina y alanina que forma la seda y la tela de araña."
+  },
+  {
+    "id": 386,
+    "curso": "Biología",
+    "tema": "Principios Orgánicos",
+    "p": "Relacione las biomoléculas con sus componentes básicos: Lípidos, Proteínas, ARN, Polisacáridos",
+    "o": ["Glicerol + AG - Aminoácidos - Nucleótidos - Monosacáridos", "Aminoácidos - Glicerol + AG - Monosacáridos - Nucleótidos", "Nucleótidos - Monosacáridos - Aminoácidos - Glicerol + AG", "Monosacáridos - Nucleótidos - Glicerol + AG - Aminoácidos", "Glicerol + AG - Nucleótidos - Aminoácidos - Monosacáridos"],
+    "r": 0,
+    "ex": "Lípidos → glicerol + ácidos grasos, Proteínas → aminoácidos, ARN → nucleótidos, Polisacáridos → monosacáridos"
+  },
+  {
+    "id": 387,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "Señale la secuencia correcta sobre los siguientes enunciados: I. Las células eucariotas presentan núcleo. II. La membrana plasmática separa el medio interno celular del externo. III. El citoplasma está formado por los orgánulos celulares, el citosol y el núcleo. IV. Los primeros microscopios se inventaron a principios del siglo XVII.",
+    "o": ["VFVV", "VVFV", "VVFF", "FVVV", "VVVV"],
+    "r": 1,
+    "ex": "I y II son verdaderas: las eucariotas tienen núcleo definido y la membrana plasmática delimita la célula. III es falsa porque el núcleo no forma parte del citoplasma. IV es verdadera: los primeros microscopios se desarrollaron a principios del siglo XVII."
+  },
+  {
+    "id": 388,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál es la definición correcta de la célula?",
+    "o": ["Unidad estructural y funcional fundamental de todos los seres omnívoros", "Unidad estructural y funcional fundamental de todos los seres vivos", "Unidad estructural y química fundamental de todos los seres vivos", "Unidad fundamental de las estructuras químicas y físicas", "Unidad fundamental de las estructuras biológicas y físicas"],
+    "r": 1,
+    "ex": "La célula es la unidad estructural, funcional y de origen de todos los seres vivos —tanto unicelulares como multicelulares—."
+  },
+  {
+    "id": 389,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "Relacione las características con las estructuras procariotas: I. No poseen núcleo definido, ADN circular y sin histonas. II. Función de adherencia, protección y antigénica. III. Espacio entre membrana externa y plasmática donde ocurre digestión. IV. Invaginaciones que aumentan superficie cerca de la división celular.",
+    "o": ["Procariota - Glucocálix - Periplasma - Mesosomas", "Glucocálix - Procariota - Mesosomas - Periplasma", "Procariota - Periplasma - Mesosomas - Glucocálix", "Periplasma - Mesosomas - Procariota - Glucocálix", "Mesosomas - Glucocálix - Periplasma - Procariota"],
+    "r": 0,
+    "ex": "I describe a la célula procariota; II corresponde al glucocálix; III es el periplasma; IV son mesosomas."
+  },
+  {
+    "id": 390,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "Señale la secuencia correcta sobre estructuras bacterianas: I. Flagelos → movilidad. II. Fimbrias → adherencia. III. Pili sexuales → transferencia de ADN. IV. Filamentos distribuidos por la superficie o en extremos. V. Plásmidos → resistencia antimicrobiana.",
+    "o": ["VFVFV", "VVVVV", "VVVFF", "VVVVF", "FVFVV"],
+    "r": 3,
+    "ex": "I–IV son verdaderas (descritas correctamente). V es falsa porque los plásmidos confieren resistencia frente a antibióticos, no específicamente contra antimicóticos."
+  },
+  {
+    "id": 391,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál de las siguientes afirmaciones sobre cianobacterias es INCORRECTA?",
+    "o": ["Presentan vaina mucilaginosa", "Una pared celular semejante a la de las bacterias Gram positivas", "Una membrana plasmática de estructura lipoproteica", "El citoplasma tiene una parte interna denominada endoplasma", "Presentan ribosomas 70S e inclusiones de fosfato, proteínas y lípidos"],
+    "r": 1,
+    "ex": "Las cianobacterias generalmente tienen una pared de tipo Gram-negativo (con membrana externa y peptidoglucano delgado), no semejante a Gram positivas de pared gruesa."
+  },
+  {
+    "id": 392,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Quiénes son considerados los fundadores de la teoría celular?",
+    "o": ["Schleiden y Schwann", "Virchow y Schwann", "Schleiden y Virchow", "Hooke y Virchow", "Leeuwenhoek y Hooke"],
+    "r": 0,
+    "ex": "Matthias Schleiden (vegetales) y Theodor Schwann (animales) formularon la teoría celular clásica (célula como unidad estructural)."
+  },
+  {
+    "id": 393,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál de los siguientes conjuntos contiene únicamente organelos de células procariotas?",
+    "o": ["Cápsula, citoesqueleto, membrana plasmática, mesosomas, vesículas", "Flagelos, pili, ribosomas, nucleolo, vesículas, RER", "Nucleoide, mesosoma, membrana plasmática, ribosomas, pared celular", "Cápsula, nucleolo, ribosomas, flagelos, pared celular, pili", "Citoplasma, membrana celular, pared celular, vacuola central"],
+    "r": 2,
+    "ex": "Las procariotas presentan nucleoide, mesosomas, membrana plasmática, ribosomas 70S y pared celular. No tienen nucleolo ni retículo endoplásmico ni vacuola central típicos de eucariotas."
+  },
+  {
+    "id": 394,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál es la composición del ribosoma bacteriano?",
+    "o": ["80S (40S + 60S)", "80S (30S + 50S)", "70S (30S + 50S)", "70S (40S + 60S)", "70S (20S + 50S)"],
+    "r": 2,
+    "ex": "Los ribosomas procariotas son 70S, formados por subunidades 30S (menor) y 50S (mayor). Los 80S (40S + 60S) son ribosomas eucariotas."
+  },
+  {
+    "id": 395,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué proteína forma los flagelos bacterianos?",
+    "o": ["Glicocálix", "Porinas", "Flagelina", "Pilina", "Fimbrilina"],
+    "r": 2,
+    "ex": "Los flagelos bacterianos están formados por la proteína flagelina; la pilina forma pili y las fimbrias por proteínas similares."
+  },
+  {
+    "id": 396,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué microorganismo utiliza fimbrias para favorecer su virulencia mediante adherencia?",
+    "o": ["Salmonella typhimurium", "Candida albicans", "Mycobacterium leprae", "Ganoderma lucidum", "Aspergillus niger"],
+    "r": 0,
+    "ex": "Muchas bacterias patógenas como Salmonella emplean fimbrias/pili para adherirse a tejidos del hospedador, aumentando su capacidad de colonización."
+  },
+  {
+    "id": 397,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál es el tamaño típico de los micoplasmas (PPLO)?",
+    "o": ["0.095–0.125 µm", "0.125–0.135 µm", "0.135–0.150 µm", "0.095–0.150 µm", "0.125–0.150 µm"],
+    "r": 3,
+    "ex": "Los micoplasmas (Mycoplasma) son algunas de las bacterias más pequeñas, con diámetros cercanos a 0.1 µm; el intervalo 0.095–0.150 µm recoge adecuadamente su reducido tamaño."
+  },
+  {
+    "id": 398,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué grupo de procariotas carece de pared celular?",
+    "o": ["Mollicutes", "Cianobacterias", "Cianosomas", "Plásmidos", "Escherichia coli"],
+    "r": 0,
+    "ex": "Mollicutes (p. ej. Mycoplasma) carecen de pared celular y sólo están limitados por la membrana plasmática."
+  },
+  {
+    "id": 399,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué característica es propia de las cianobacterias?",
+    "o": ["Metabolismo fotosintético semejante al de plantas verdes", "Almacenan pigmentos fotosintéticos", "Transforman energía luminosa en energía nuclear", "Encargadas de respiración celular para obtener ATP a partir de glucosa", "Metabolismo fotosintético contrario al de plantas"],
+    "r": 0,
+    "ex": "Las cianobacterias realizan fotosíntesis oxigénica similar a la de plantas (liberan O₂, usan clorofilas y fotosistemas)."
+  },
+  {
+    "id": 400,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál es la diferencia esencial entre célula procariota y eucariota?",
+    "o": ["El tamaño celular", "La pared celular", "El núcleo celular", "La composición química del citoplasma", "La presencia de membrana plasmática"],
+    "r": 2,
+    "ex": "La presencia de un núcleo delimitado por membrana (carioteca) en eucariotas vs. la ausencia de este en procariotas es la diferencia esencial y definitoria."
+  },
+  {
+    "id": 401,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué científico empleó por primera vez el término 'célula' observando corcho?",
+    "o": ["Robert Hooke", "Rudolf Virchow", "Antón van Leeuwenhoek", "Theodor Schwann", "Marcello Malpighi"],
+    "r": 0,
+    "ex": "Hooke (1665) describió 'celdillas' (cells) en corcho bajo el microscopio; eso originó el término 'célula'."
+  },
+  {
+    "id": 402,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Cuál de los siguientes organismos es una célula procariota?",
+    "o": ["Protozoario", "Queuña", "Alga", "Hongo", "Cianobacteria"],
+    "r": 4,
+    "ex": "Las cianobacterias son bacterias (procariotas) fotosintéticas; las otras opciones son eucariotas."
+  },
+  {
+    "id": 403,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué compuesto forma la pared celular de los procariotas?",
+    "o": ["Hemicelulosa", "Quitina", "Peptidoglicano o mureína", "Celulosa", "Fosfolípido"],
+    "r": 2,
+    "ex": "La mayoría de bacterias tienen pared de peptidoglucano (mureína), distinta de quitina (hongos) o celulosa (plantas)."
+  },
+  {
+    "id": 404,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué componente de la membrana plasmática sirve como barrera y controla la entrada/salida de solutos?",
+    "o": ["Colesterol", "Fosfolípido", "Glucolípido", "Glucocálix", "Carbohidrato"],
+    "r": 1,
+    "ex": "La bicapa de fosfolípidos forma la matriz semipermeable básica de la membrana que controla el paso de sustancias."
+  },
+  {
+    "id": 405,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué estructura tiene como papel el reconocimiento y adherencia de la célula con otras células?",
+    "o": ["Pared celular", "Citoplasma", "Exoesqueleto", "Glucocálix", "Ribosoma"],
+    "r": 3,
+    "ex": "El glucocálix (carbohidratos y glicoproteínas en superficie) facilita reconocimiento celular y adhesión."
+  },
+  {
+    "id": 406,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿De qué carece un organismo procariota?",
+    "o": ["Plasmalema", "Citoplasma", "Carioteca", "Ribosomas", "ADN"],
+    "r": 2,
+    "ex": "Las procariotas no tienen envoltura nuclear (carioteca); sí poseen membrana, citoplasma, ribosomas 70S y ADN."
+  },
+  {
+    "id": 407,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué estructura proporciona fortaleza y protección mecánica a la célula procariota?",
+    "o": ["Cápsula", "Pared celular", "Membrana plasmática", "Glicocálix", "Membrana externa"],
+    "r": 1,
+    "ex": "La pared celular (peptidoglicano) confiere rigidez, forma y resistencia osmótica; es la principal responsable de la fortaleza mecánica."
+  },
+  {
+    "id": 408,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué estructura interviene en la duplicación del ADN y contiene enzimas de la cadena transportadora de electrones?",
+    "o": ["Mesosomas", "Periplasma", "Vacuolas", "Cloroplasto", "Glicocálix"],
+    "r": 0,
+    "ex": "Los mesosomas (invaginaciones de membrana) están asociados a procesos de replicación del ADN y actividades metabólicas como la respiración."
+  },
+  {
+    "id": 409,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿De qué está compuesta la pared de bacterias Gram positivas?",
+    "o": ["60–90% peptidoglicano + ácidos teicoicos", "10–20% peptidoglicano", "Actina, microtúbulos y filamentos intermedios", "Fosfolípidos", "Quitina"],
+    "r": 0,
+    "ex": "Las Gram positivas tienen pared gruesa de peptidoglucano (60-90%) y ácidos teicoicos como componentes antigénicos característicos."
+  },
+  {
+    "id": 410,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué son las moléculas de ADN extracromosómico transferible?",
+    "o": ["Flagelo", "Fimbrias", "Pili", "Plásmidos", "Mesosomas"],
+    "r": 3,
+    "ex": "Los plásmidos son pequeños DNA circular extragenómico que pueden transferirse durante conjugación y frecuentemente llevan genes de resistencia."
+  },
+  {
+    "id": 411,
+    "curso": "Biología",
+    "tema": "Célula Procariota",
+    "p": "¿Qué complejos proteicos en la membrana externa forman canales transmembranos y permiten difusión?",
+    "o": ["Microtúbulos de tubulina", "Porinas", "Periplasma", "Mollicutes", "Fimbrilina"],
+    "r": 1,
+    "ex": "Las porinas son proteínas de membrana externa (Gram-negativas) que forman poros para el paso de solutos por difusión."
   }
 ]
